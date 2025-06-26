@@ -1,0 +1,3007 @@
+job_title,experience_level,employment_type,salary,company_location,num_skills,is_data_scientist,is_developer,is_analyst,interst_area,burnout_risk
+Data Analyst,EN,FT,75000,US,9,0,0,0,healthcare,low
+Data Analyst,EN,FT,60000,US,6,0,0,0,cybersecurity,low
+Analytics Engineer,MI,FT,185700,US,7,0,0,0,webdev,medium
+Analytics Engineer,MI,FT,165000,US,9,0,0,0,finance,low
+Data Engineer,SE,FT,160000,US,5,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,130000,US,7,0,0,0,cybersecurity,medium
+Data Analyst,SE,FT,169000,US,7,0,0,0,healthcare,high
+Data Analyst,SE,FT,110600,US,9,0,0,0,cybersecurity,medium
+Data Operations Engineer,SE,FT,193000,US,4,0,0,0,webdev,medium
+Data Operations Engineer,SE,FT,136850,US,5,0,0,0,webdev,medium
+Machine Learning Engineer,SE,FT,139500,US,9,0,0,0,AI,high
+Machine Learning Engineer,SE,FT,109400,US,5,0,0,0,webdev,low
+Data Engineer,SE,FT,276000,US,5,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,178500,US,7,0,0,0,webdev,low
+Data Scientist,MI,FT,59188,ES,6,1,0,0,healthcare,low
+Data Scientist,MI,FT,48426,ES,5,1,0,0,AI,medium
+Data Engineer,MI,FT,75330,SI,8,0,0,0,cybersecurity,medium
+Data Engineer,MI,FT,48426,SI,7,0,0,0,AI,low
+Machine Learning Engineer,SE,FT,195940,GB,4,0,0,0,cybersecurity,low
+Machine Learning Engineer,SE,FT,101378,GB,6,0,0,0,healthcare,medium
+Data Engineer,SE,FT,137158,GB,8,0,0,0,AI,low
+Data Engineer,SE,FT,101378,GB,8,0,0,0,finance,medium
+Data Engineer,SE,FT,252000,US,4,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,129000,US,6,0,0,0,finance,low
+BI Developer,SE,FT,130000,US,7,0,1,0,AI,low
+Data Science Lead,MI,FT,150000,US,3,0,0,0,finance,low
+Data Engineer,SE,FT,163800,US,6,0,0,0,finance,medium
+Data Engineer,SE,FT,126000,US,4,0,0,0,AI,high
+ML Engineer,SE,FT,260000,CA,8,0,0,0,healthcare,medium
+ML Engineer,SE,FT,110000,CA,7,0,0,0,finance,low
+Analytics Engineer,SE,FT,170000,US,6,0,0,0,finance,low
+Analytics Engineer,SE,FT,130000,US,3,0,0,0,healthcare,medium
+Machine Learning Engineer,SE,FT,247500,US,3,0,0,0,finance,medium
+Machine Learning Engineer,SE,FT,172200,US,5,0,0,0,finance,low
+Data Scientist,SE,FT,239748,US,5,1,0,0,finance,low
+Data Scientist,SE,FT,159832,US,9,1,0,0,webdev,medium
+Machine Learning Engineer,SE,FT,163800,US,4,0,0,0,healthcare,low
+Machine Learning Engineer,SE,FT,126000,US,6,0,0,0,finance,low
+Data Scientist,MI,FT,128750,US,6,1,0,0,healthcare,low
+Data Scientist,MI,FT,106250,US,9,1,0,0,cybersecurity,low
+Data Engineer,SE,FT,252000,US,8,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,129000,US,8,0,0,0,finance,high
+Data Science Manager,SE,FT,299500,US,9,0,0,0,healthcare,low
+Data Science Manager,SE,FT,245100,US,8,0,0,0,healthcare,low
+Data Analytics Manager,MI,FT,155000,US,5,0,0,0,healthcare,low
+Data Analytics Manager,MI,FT,140000,US,6,0,0,0,webdev,low
+Data Engineer,EX,FT,167500,US,9,0,0,0,cybersecurity,low
+Data Engineer,EX,FT,106500,US,6,0,0,0,healthcare,medium
+Data Architect,SE,FT,188500,US,3,0,0,0,healthcare,low
+Data Architect,SE,FT,117000,US,5,0,0,0,webdev,low
+Data Analyst,SE,FT,250000,US,7,0,0,0,webdev,low
+Data Analyst,SE,FT,138000,US,5,0,0,0,healthcare,low
+Data Analyst,MI,FT,130000,CA,9,0,0,0,AI,low
+Data Analyst,MI,FT,100000,CA,7,0,0,0,healthcare,low
+BI Data Engineer,SE,FT,5000,NG,3,0,0,0,healthcare,high
+Deep Learning Researcher,SE,FT,123757,DE,9,0,0,0,webdev,low
+Data Engineer,SE,FT,140000,US,4,0,0,0,webdev,low
+Data Engineer,SE,FT,120000,US,6,0,0,0,healthcare,medium
+BI Analyst,SE,FT,160000,US,3,0,0,0,healthcare,high
+BI Analyst,SE,FT,135000,US,6,0,0,0,healthcare,low
+Data Science Manager,MI,FT,104500,US,8,0,0,0,webdev,medium
+Data Science Manager,MI,FT,70000,US,4,0,0,0,healthcare,low
+Data Science Consultant,MI,FT,90000,US,4,0,0,0,healthcare,low
+Data Science Consultant,MI,FT,70000,US,3,0,0,0,finance,low
+Data Engineer,SE,FT,153600,US,4,0,0,0,AI,medium
+Data Engineer,SE,FT,106800,US,7,0,0,0,cybersecurity,medium
+Data Engineer,EN,FT,125000,US,4,0,0,0,AI,low
+Data Engineer,EN,FT,90000,US,6,0,0,0,finance,low
+Research Scientist,MI,FT,185000,US,6,0,0,0,cybersecurity,medium
+Research Scientist,MI,FT,125000,US,9,0,0,0,healthcare,low
+Data Analyst,SE,FT,127000,US,6,0,0,0,finance,low
+Data Analyst,SE,FT,94000,US,9,0,0,0,healthcare,medium
+Data Scientist,SE,FT,210550,US,6,1,0,0,webdev,medium
+Data Scientist,SE,FT,153300,US,7,1,0,0,finance,medium
+Data Scientist,MI,FT,200000,US,9,1,0,0,webdev,medium
+Data Scientist,MI,FT,150000,US,5,1,0,0,finance,low
+Data Analyst,SE,FT,161500,US,8,0,0,0,finance,medium
+Data Analyst,SE,FT,119500,US,3,0,0,0,webdev,medium
+Data Analyst,SE,FT,175000,US,6,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,145000,US,4,0,0,0,AI,low
+Data Scientist,SE,FT,175000,US,6,1,0,0,healthcare,low
+Data Scientist,SE,FT,148750,US,4,1,0,0,finance,low
+Data Analytics Specialist,SE,FT,105000,US,8,0,0,0,healthcare,medium
+Data Analytics Specialist,SE,FT,85000,US,8,0,0,0,webdev,medium
+Research Scientist,SE,FT,215000,US,8,0,0,0,healthcare,low
+Research Scientist,SE,FT,146300,US,4,0,0,0,webdev,low
+AI Developer,EN,FT,215229,DE,6,0,1,0,healthcare,high
+Data Engineer,MI,FT,72000,MX,8,0,0,0,AI,low
+Data Engineer,MI,FT,60000,MX,7,0,0,0,AI,low
+Machine Learning Engineer,SE,FT,153400,US,9,0,0,0,AI,low
+Machine Learning Engineer,SE,FT,122700,US,4,0,0,0,AI,low
+Data Engineer,MI,FT,260000,US,4,0,0,0,AI,low
+Data Engineer,MI,FT,175000,US,6,0,0,0,AI,low
+Data Scientist,SE,FT,186300,US,4,1,0,0,webdev,low
+Data Scientist,SE,FT,123900,US,4,1,0,0,finance,low
+Research Scientist,MI,FT,340000,US,8,0,0,0,healthcare,low
+Research Scientist,MI,FT,150000,US,6,0,0,0,AI,low
+Machine Learning Engineer,SE,FT,153400,US,8,0,0,0,webdev,medium
+Machine Learning Engineer,SE,FT,122700,US,9,0,0,0,webdev,medium
+Data Engineer,MI,FT,250000,US,9,0,0,0,webdev,low
+Data Engineer,MI,FT,175000,US,8,0,0,0,finance,low
+Data Engineering,MI,FT,12000,NG,9,0,0,0,healthcare,medium
+Data Scientist,MI,FT,64568,FR,6,1,0,0,finance,low
+Data Analyst,SE,FT,185900,US,3,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,121700,US,8,0,0,0,webdev,medium
+Data Analyst,SE,FT,153600,US,7,0,0,0,cybersecurity,medium
+Data Analyst,SE,FT,106800,US,7,0,0,0,AI,medium
+Software Data Engineer,SE,FL,50000,AU,4,0,0,0,AI,low
+Data Analyst,EN,FT,100000,US,9,0,0,0,finance,medium
+Machine Learning Engineer,SE,FT,247500,US,7,0,0,0,healthcare,low
+Machine Learning Engineer,SE,FT,172200,US,4,0,0,0,cybersecurity,medium
+Data Engineer,EX,FT,310000,US,3,0,0,0,healthcare,low
+Data Engineer,EX,FT,239000,US,6,0,0,0,finance,low
+Data Analyst,SE,FT,125000,US,6,0,0,0,AI,medium
+Data Analyst,SE,FT,110000,US,6,0,0,0,healthcare,low
+Data Analyst,EN,FT,150000,US,7,0,0,0,healthcare,low
+Data Analyst,EN,FT,100000,US,3,0,0,0,AI,high
+Data Scientist,SE,FT,149076,US,7,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,82365,US,9,1,0,0,AI,low
+Data Engineer,MI,FT,146000,US,7,0,0,0,healthcare,low
+Data Engineer,MI,FT,75000,US,3,0,0,0,cybersecurity,medium
+Machine Learning Engineer,SE,FT,139500,US,3,0,0,0,cybersecurity,medium
+Machine Learning Engineer,SE,FT,109400,US,9,0,0,0,AI,low
+Data Engineer,SE,FT,139500,US,3,0,0,0,healthcare,medium
+Data Engineer,SE,FT,109400,US,3,0,0,0,finance,low
+Data Engineer,MI,FT,149600,US,6,0,0,0,healthcare,medium
+Data Engineer,MI,FT,102000,US,9,0,0,0,webdev,low
+Data Analyst,MI,FT,97361,GB,5,0,0,0,finance,low
+Data Analyst,MI,FT,48680,GB,5,0,0,0,cybersecurity,high
+Data Engineer,SE,FT,252000,US,3,0,0,0,finance,low
+Data Engineer,SE,FT,129000,US,5,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,95000,US,5,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,85500,US,3,0,0,0,finance,high
+Data Analyst,SE,FT,185900,US,5,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,121700,US,7,0,0,0,cybersecurity,low
+Research Scientist,EN,FT,150000,US,4,0,0,0,webdev,low
+Research Scientist,EN,FT,100000,US,9,0,0,0,healthcare,low
+Data Engineer,MI,FT,145000,US,4,0,0,0,healthcare,low
+Data Engineer,MI,FT,125000,US,3,0,0,0,webdev,medium
+Data Scientist,MI,FT,150000,US,6,1,0,0,finance,high
+Data Scientist,MI,FT,97750,US,9,1,0,0,AI,low
+Data Scientist,SE,FT,201000,US,3,1,0,0,AI,low
+Data Scientist,SE,FT,122000,US,6,1,0,0,AI,low
+Data Engineer,SE,FT,252000,US,4,0,0,0,webdev,low
+Data Engineer,SE,FT,129000,US,3,0,0,0,webdev,medium
+Data Analyst,SE,FT,120000,US,9,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,75000,US,9,0,0,0,AI,low
+Data Scientist,MI,FT,116990,US,8,1,0,0,finance,medium
+Data Scientist,MI,FT,82920,US,7,1,0,0,finance,low
+Data Scientist,SE,FT,185900,US,5,1,0,0,AI,medium
+Data Scientist,SE,FT,129300,US,6,1,0,0,AI,low
+Machine Learning Scientist,MI,FT,200000,US,8,0,0,0,AI,medium
+Machine Learning Scientist,MI,FT,125000,US,5,0,0,0,webdev,high
+Data Scientist,SE,FT,201000,US,5,1,0,0,webdev,medium
+Data Scientist,SE,FT,122000,US,3,1,0,0,webdev,high
+Machine Learning Engineer,SE,FT,204500,US,5,0,0,0,healthcare,low
+Machine Learning Engineer,SE,FT,142200,US,7,0,0,0,finance,low
+Data Manager,SE,FT,155000,US,9,0,0,0,finance,medium
+Data Manager,SE,FT,140000,US,8,0,0,0,cybersecurity,low
+Machine Learning Infrastructure Engineer,MI,FT,205920,US,5,0,0,0,webdev,low
+Machine Learning Infrastructure Engineer,MI,FT,171600,US,3,0,0,0,healthcare,low
+Data Engineer,SE,FT,121500,US,7,0,0,0,healthcare,low
+Data Engineer,SE,FT,78000,US,4,0,0,0,finance,low
+Data Engineer,MI,FT,154000,US,9,0,0,0,webdev,low
+Data Engineer,MI,FT,116000,US,9,0,0,0,cybersecurity,medium
+Data Scientist,SE,FT,190000,US,8,1,0,0,webdev,low
+Data Scientist,SE,FT,136000,US,9,1,0,0,AI,low
+Data Analyst,MI,FT,79106,GB,5,0,0,0,webdev,low
+Data Analyst,MI,FT,43873,GB,3,0,0,0,AI,low
+Data Analyst,SE,FT,180000,US,9,0,0,0,AI,medium
+Data Analyst,SE,FT,110000,US,9,0,0,0,cybersecurity,low
+Data Scientist,SE,FT,275300,US,4,1,0,0,finance,low
+Data Scientist,SE,FT,183000,US,4,1,0,0,webdev,medium
+Data Engineer,SE,FT,170000,US,6,0,0,0,AI,low
+Data Engineer,SE,FT,140000,US,7,0,0,0,webdev,low
+Data Engineer,SE,FT,154000,US,5,0,0,0,finance,low
+Data Engineer,SE,FT,116000,US,9,0,0,0,finance,high
+Data Engineer,SE,FT,160000,US,9,0,0,0,healthcare,low
+Data Engineer,SE,FT,130000,US,3,0,0,0,finance,low
+Data Engineer,MI,FT,200000,US,6,0,0,0,cybersecurity,low
+Data Engineer,MI,FT,120000,US,7,0,0,0,AI,low
+Data Scientist,SE,FT,175000,US,6,1,0,0,healthcare,low
+Data Scientist,SE,FT,160000,US,8,1,0,0,cybersecurity,low
+Data Engineer,MI,FT,127787,GB,7,0,0,0,webdev,low
+Data Engineer,MI,FT,103446,GB,9,0,0,0,AI,high
+Data Engineer,SE,FT,153600,US,9,0,0,0,finance,medium
+Data Engineer,SE,FT,106800,US,7,0,0,0,AI,low
+Data Analyst,EN,FT,85000,US,9,0,0,0,webdev,medium
+Data Analyst,EN,FT,75000,US,5,0,0,0,healthcare,low
+Data Scientist,SE,FT,225000,US,7,1,0,0,healthcare,low
+Data Scientist,SE,FT,156400,US,6,1,0,0,healthcare,medium
+Analytics Engineer,SE,FT,150000,US,7,0,0,0,finance,medium
+Analytics Engineer,SE,FT,120000,US,9,0,0,0,cybersecurity,medium
+Machine Learning Engineer,SE,FT,163800,US,5,0,0,0,cybersecurity,low
+Machine Learning Engineer,SE,FT,126000,US,5,0,0,0,AI,high
+Data Analyst,SE,FT,145000,US,8,0,0,0,finance,low
+Data Analyst,SE,FT,90000,US,6,0,0,0,healthcare,medium
+Machine Learning Engineer,SE,FT,204500,US,4,0,0,0,healthcare,high
+Machine Learning Engineer,SE,FT,142200,US,4,0,0,0,webdev,low
+Data Analyst,SE,FT,95000,US,7,0,0,0,webdev,medium
+Data Analyst,SE,FT,85500,US,8,0,0,0,healthcare,low
+Data Engineer,SE,FT,167500,US,3,0,0,0,healthcare,low
+Data Engineer,SE,FT,106500,US,7,0,0,0,finance,low
+Data Engineer,SE,FT,163800,US,8,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,126000,US,6,0,0,0,webdev,high
+Data Analytics Manager,MI,FT,155000,US,6,0,0,0,cybersecurity,medium
+Data Analytics Manager,MI,FT,140000,US,6,0,0,0,finance,low
+Research Scientist,SE,FT,250000,US,6,0,0,0,healthcare,medium
+Research Scientist,SE,FT,200000,US,6,0,0,0,cybersecurity,high
+Data Scientist,SE,FT,260000,US,8,1,0,0,healthcare,low
+Data Scientist,SE,FT,186000,US,8,1,0,0,healthcare,high
+Data Engineer,SE,FT,160000,US,5,0,0,0,AI,low
+Data Engineer,SE,FT,130000,US,4,0,0,0,cybersecurity,medium
+Research Scientist,SE,FT,200000,US,9,0,0,0,cybersecurity,low
+Research Scientist,SE,FT,150000,US,6,0,0,0,healthcare,low
+Data Scientist,SE,FT,48426,ES,3,1,0,0,finance,low
+Data Scientist,SE,FT,38741,ES,9,1,0,0,AI,medium
+Data Scientist,SE,FT,150000,US,8,1,0,0,healthcare,low
+Data Scientist,SE,FT,120000,US,3,1,0,0,webdev,low
+Data Analyst,EN,FT,30000,IN,3,0,0,0,webdev,low
+Research Scientist,MI,FT,185000,US,3,0,0,0,AI,high
+Research Scientist,MI,FT,125000,US,5,0,0,0,finance,low
+Data Analyst,EN,PT,34320,US,8,0,0,0,healthcare,low
+Business Data Analyst,MI,FT,9289,BR,3,0,0,0,cybersecurity,low
+Head of Data,SE,FT,75330,PT,6,0,0,0,AI,low
+Data Science Manager,EX,FT,106000,RU,7,0,0,0,finance,medium
+Data Analyst,SE,FT,175000,US,3,0,0,0,cybersecurity,medium
+Data Analyst,SE,FT,130000,US,5,0,0,0,webdev,low
+Data Analyst,SE,FT,122000,US,9,0,0,0,webdev,low
+Data Analyst,SE,FT,93800,US,8,0,0,0,cybersecurity,medium
+Data Science Manager,SE,FT,150000,MX,5,0,0,0,AI,low
+Data Science Manager,SE,FT,90000,MX,3,0,0,0,webdev,medium
+Data Analyst,SE,FT,165000,US,8,0,0,0,healthcare,medium
+Data Analyst,SE,FT,112000,US,7,0,0,0,cybersecurity,medium
+Computer Vision Engineer,EN,FT,220000,US,3,0,0,0,cybersecurity,low
+BI Data Analyst,SE,FT,72101,DE,5,0,0,0,webdev,low
+AI Developer,EN,FT,64568,DE,4,0,1,0,AI,high
+Machine Learning Engineer,SE,FT,204500,US,6,0,0,0,healthcare,low
+Machine Learning Engineer,SE,FT,142200,US,9,0,0,0,AI,medium
+Data Analyst,SE,FT,15827,IN,5,0,0,0,finance,low
+Machine Learning Engineer,MI,FT,200000,US,8,0,0,0,finance,medium
+Machine Learning Engineer,MI,FT,175000,US,3,0,0,0,webdev,low
+Data Engineer,SE,FT,185900,US,6,0,0,0,webdev,low
+Data Engineer,SE,FT,129300,US,3,0,0,0,webdev,low
+Data Analyst,SE,FT,185900,US,8,0,0,0,finance,medium
+Data Analyst,SE,FT,121700,US,3,0,0,0,AI,medium
+Machine Learning Engineer,SE,FT,204500,US,4,0,0,0,AI,low
+Machine Learning Engineer,SE,FT,142200,US,6,0,0,0,webdev,low
+Data Scientist,MI,FT,40000,FR,6,1,0,0,healthcare,medium
+Data Science Consultant,SE,FT,29865,TH,8,0,0,0,AI,low
+Data Analyst,SE,FT,180180,US,9,0,0,0,finance,low
+Data Analyst,SE,FT,106020,US,4,0,0,0,cybersecurity,low
+Data Scientist,SE,FT,136000,US,5,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,104000,US,3,1,0,0,cybersecurity,low
+Data Analyst,SE,FT,125000,US,7,0,0,0,healthcare,low
+Data Analyst,SE,FT,110000,US,3,0,0,0,webdev,low
+Machine Learning Engineer,SE,FT,153400,US,3,0,0,0,finance,low
+Machine Learning Engineer,SE,FT,122700,US,5,0,0,0,healthcare,low
+Data Engineer,EX,FT,310000,US,3,0,0,0,finance,low
+Data Engineer,EX,FT,239000,US,4,0,0,0,finance,low
+Data Analyst,SE,FT,152380,US,4,0,0,0,webdev,medium
+Data Analyst,SE,FT,121904,US,6,0,0,0,cybersecurity,low
+Data Scientist,SE,FT,185900,US,8,1,0,0,webdev,low
+Data Scientist,SE,FT,129300,US,9,1,0,0,healthcare,low
+Machine Learning Engineer,SE,FT,247500,US,7,0,0,0,healthcare,low
+Machine Learning Engineer,SE,FT,172200,US,3,0,0,0,healthcare,low
+Data Architect,SE,FT,168400,US,3,0,0,0,webdev,low
+Data Architect,SE,FT,105200,US,5,0,0,0,finance,medium
+Machine Learning Engineer,SE,FT,128280,US,8,0,0,0,finance,low
+Machine Learning Engineer,SE,FT,106900,US,4,0,0,0,AI,high
+Lead Data Scientist,SE,FT,192000,US,7,1,0,0,healthcare,low
+Data Engineer,MI,FT,140000,US,6,0,0,0,finance,low
+Data Engineer,MI,FT,100000,US,4,0,0,0,AI,low
+Research Engineer,SE,FT,107614,DE,8,0,0,0,finance,low
+Research Engineer,SE,FT,86091,DE,9,0,0,0,healthcare,low
+Machine Learning Engineer,SE,FT,275000,DE,6,0,0,0,cybersecurity,medium
+Machine Learning Engineer,SE,FT,174000,DE,9,0,0,0,healthcare,low
+Data Engineer,SE,FT,139500,US,5,0,0,0,webdev,high
+Data Engineer,SE,FT,109400,US,5,0,0,0,finance,medium
+Machine Learning Engineer,SE,FT,139500,US,3,0,0,0,finance,low
+Machine Learning Engineer,SE,FT,109400,US,9,0,0,0,webdev,low
+Data Analyst,SE,FT,170500,US,8,0,0,0,webdev,low
+Data Analyst,SE,FT,85000,US,7,0,0,0,cybersecurity,low
+Data Manager,SE,FT,73054,GB,6,0,0,0,finance,low
+Data Manager,SE,FT,54445,GB,4,0,0,0,finance,low
+Head of Data Science,EX,FT,160524,GB,8,0,0,0,cybersecurity,low
+Head of Data Science,EX,FT,127654,GB,8,0,0,0,AI,low
+Data Engineer,SE,FT,80000,US,5,0,0,0,cybersecurity,high
+Data Engineer,SE,FT,65000,US,9,0,0,0,healthcare,medium
+Data Engineer,SE,FT,124740,US,3,0,0,0,finance,high
+Data Engineer,SE,FT,65488,US,3,0,0,0,webdev,low
+Data Quality Analyst,SE,FT,72200,US,6,0,0,0,healthcare,low
+Data Quality Analyst,SE,FT,64980,US,5,0,0,0,finance,low
+Data Engineer,SE,FT,153600,US,8,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,106800,US,7,0,0,0,healthcare,low
+Data Analyst,SE,FT,179975,US,5,0,0,0,finance,medium
+Data Analyst,SE,FT,86466,US,6,0,0,0,AI,medium
+Data Engineer,SE,FT,120000,US,6,0,0,0,AI,low
+Data Engineer,SE,FT,90000,US,5,0,0,0,webdev,low
+Insight Analyst,MI,FT,51114,GB,6,0,0,0,finance,low
+Insight Analyst,MI,FT,42595,GB,5,0,0,0,AI,low
+Data Scientist,SE,FT,149076,US,4,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,82365,US,5,1,0,0,finance,low
+Data Analyst,SE,FT,169000,US,9,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,110600,US,5,0,0,0,cybersecurity,high
+Data Science Manager,SE,FT,175000,US,6,0,0,0,AI,low
+Data Science Manager,SE,FT,120000,US,9,0,0,0,finance,medium
+Data Analyst,SE,FT,230000,US,6,0,0,0,healthcare,low
+Data Analyst,SE,FT,180000,US,3,0,0,0,AI,low
+Data Analyst,SE,FT,153600,US,3,0,0,0,AI,low
+Data Analyst,SE,FT,106800,US,9,0,0,0,finance,low
+Data Manager,SE,FT,140000,US,4,0,0,0,finance,low
+Data Manager,SE,FT,120000,US,3,0,0,0,cybersecurity,medium
+Machine Learning Infrastructure Engineer,SE,FT,205920,US,5,0,0,0,finance,medium
+Machine Learning Infrastructure Engineer,SE,FT,171600,US,6,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,165000,US,3,0,0,0,AI,low
+Data Analyst,SE,FT,125000,US,3,0,0,0,webdev,high
+Data Engineer,SE,FT,265000,US,4,0,0,0,healthcare,low
+Data Engineer,SE,FT,185000,US,9,0,0,0,AI,low
+Applied Machine Learning Engineer,MI,FT,130000,US,9,0,0,0,finance,low
+Data Scientist,EN,FT,168000,US,8,1,0,0,healthcare,medium
+AI Scientist,MI,FT,38741,ES,4,0,0,0,webdev,high
+Data Analyst,SE,FT,95000,US,5,0,0,0,webdev,low
+Data Analyst,SE,FT,85500,US,9,0,0,0,cybersecurity,medium
+Data Scientist,SE,FT,147100,US,6,1,0,0,healthcare,medium
+Data Scientist,SE,FT,90700,US,4,1,0,0,cybersecurity,low
+Data Engineer,SE,FT,167580,US,3,0,0,0,AI,low
+Data Engineer,SE,FT,87980,US,6,0,0,0,healthcare,low
+Data Engineer,SE,FT,202000,US,6,0,0,0,AI,high
+Data Engineer,SE,FT,135000,US,3,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,163800,US,4,0,0,0,healthcare,medium
+Data Engineer,SE,FT,126000,US,3,0,0,0,cybersecurity,low
+Machine Learning Engineer,SE,FT,163800,US,8,0,0,0,healthcare,medium
+Machine Learning Engineer,SE,FT,126000,US,6,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,104000,US,7,0,0,0,webdev,low
+Data Engineer,SE,FT,65000,US,7,0,0,0,cybersecurity,medium
+Research Engineer,SE,FT,230000,US,5,0,0,0,webdev,medium
+Research Engineer,SE,FT,148000,US,9,0,0,0,cybersecurity,medium
+Machine Learning Engineer,SE,FT,269000,CA,3,0,0,0,healthcare,low
+Machine Learning Engineer,SE,FT,158000,CA,3,0,0,0,healthcare,medium
+Analytics Engineer,SE,FT,197000,US,5,0,0,0,healthcare,low
+Analytics Engineer,SE,FT,106000,US,5,0,0,0,finance,low
+Deep Learning Engineer,MI,FT,150000,US,5,0,0,0,AI,low
+Deep Learning Engineer,MI,FT,100000,US,6,0,0,0,healthcare,low
+Data Engineer,SE,FT,290000,US,8,0,0,0,webdev,low
+Data Engineer,SE,FT,210000,US,3,0,0,0,healthcare,high
+Data Engineer,SE,FT,192000,US,6,0,0,0,finance,low
+Data Engineer,SE,FT,172800,US,5,0,0,0,webdev,medium
+Data Scientist,SE,FT,300240,US,3,1,0,0,finance,low
+Data Scientist,SE,FT,200160,US,6,1,0,0,webdev,low
+Data Scientist,SE,FT,300240,US,8,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,200160,US,6,1,0,0,AI,high
+Analytics Engineer,SE,FT,175000,US,8,0,0,0,AI,medium
+Analytics Engineer,SE,FT,140000,US,5,0,0,0,finance,high
+Data Manager,SE,FT,169000,US,8,0,0,0,AI,high
+Data Manager,SE,FT,100000,US,3,0,0,0,finance,low
+Data Scientist,SE,FT,370000,US,5,1,0,0,finance,low
+Data Scientist,SE,FT,245000,US,3,1,0,0,finance,medium
+Data Engineer,MI,FT,115617,GB,7,0,0,0,AI,low
+Data Analyst,SE,FT,110000,US,4,0,0,0,finance,low
+Data Analyst,SE,FT,80000,US,8,0,0,0,AI,low
+Data Analyst,EN,FT,55000,US,4,0,0,0,finance,low
+Data Analyst,EN,FT,48000,US,4,0,0,0,healthcare,low
+Data Analyst,SE,FT,95000,US,8,0,0,0,finance,low
+Data Analyst,SE,FT,85000,US,5,0,0,0,webdev,low
+Data Engineer,SE,FT,137500,US,7,0,0,0,finance,low
+Data Engineer,SE,FT,81500,US,3,0,0,0,cybersecurity,low
+Machine Learning Engineer,SE,FT,323300,US,6,0,0,0,finance,low
+Machine Learning Engineer,SE,FT,184700,US,3,0,0,0,webdev,medium
+AI Scientist,MI,FT,30000,GH,6,0,0,0,webdev,low
+Machine Learning Engineer,SE,FT,186000,US,3,0,0,0,AI,low
+Machine Learning Engineer,SE,FT,153088,US,8,0,0,0,healthcare,medium
+Data Infrastructure Engineer,MI,FT,190000,US,7,0,0,0,finance,low
+Data Infrastructure Engineer,MI,FT,160000,US,6,0,0,0,AI,low
+Machine Learning Engineer,SE,FT,200000,US,9,0,0,0,healthcare,medium
+Machine Learning Engineer,SE,FT,150000,US,5,0,0,0,finance,low
+Data Infrastructure Engineer,MI,FT,190000,US,3,0,0,0,cybersecurity,medium
+Data Infrastructure Engineer,MI,FT,183310,US,3,0,0,0,finance,medium
+Machine Learning Engineer,SE,FT,240000,US,6,0,0,0,webdev,medium
+Machine Learning Engineer,SE,FT,180000,US,5,0,0,0,webdev,low
+Machine Learning Engineer,SE,FT,200000,US,5,0,0,0,cybersecurity,low
+Machine Learning Engineer,SE,FT,150000,US,8,0,0,0,AI,low
+Data Science Manager,SE,FT,299500,US,9,0,0,0,healthcare,low
+Data Science Manager,SE,FT,245100,US,8,0,0,0,finance,low
+Data Engineer,SE,FT,144000,US,8,0,0,0,webdev,low
+Data Engineer,SE,FT,66000,US,8,0,0,0,AI,low
+Machine Learning Engineer,MI,FT,148500,US,8,0,0,0,cybersecurity,low
+Machine Learning Engineer,MI,FT,126277,US,8,0,0,0,webdev,low
+Data Architect,SE,FT,228000,US,7,0,0,0,cybersecurity,low
+Data Architect,SE,FT,120000,US,5,0,0,0,finance,medium
+Machine Learning Software Engineer,SE,FT,180000,US,8,0,0,0,healthcare,low
+Machine Learning Software Engineer,SE,FT,90000,US,5,0,0,0,webdev,low
+Data Scientist,SE,FT,126500,US,5,1,0,0,webdev,high
+Data Scientist,SE,FT,78000,US,4,1,0,0,finance,low
+Data Engineer,SE,FT,180000,US,7,0,0,0,AI,low
+Data Engineer,SE,FT,160000,US,8,0,0,0,healthcare,low
+Machine Learning Software Engineer,SE,FT,272000,US,3,0,0,0,webdev,medium
+Machine Learning Software Engineer,SE,FT,170000,US,6,0,0,0,healthcare,low
+Data Analyst,MI,FT,80000,US,9,0,0,0,webdev,low
+Data Analyst,MI,FT,60000,US,3,0,0,0,healthcare,low
+Data Engineer,SE,FT,259000,US,7,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,146000,US,6,0,0,0,webdev,low
+Data Engineer,SE,FT,200000,US,7,0,0,0,healthcare,low
+Data Engineer,SE,FT,160000,US,5,0,0,0,AI,medium
+Data Engineer,EX,FT,310000,US,6,0,0,0,cybersecurity,low
+Data Engineer,EX,FT,239000,US,5,0,0,0,cybersecurity,medium
+Data Analyst,SE,FT,142000,US,3,0,0,0,AI,low
+Data Analyst,SE,FT,95000,US,3,0,0,0,healthcare,medium
+Data Scientist,SE,FT,155000,US,6,1,0,0,finance,low
+Data Scientist,SE,FT,139500,US,6,1,0,0,AI,medium
+Data Engineer,MI,FT,140000,US,8,0,0,0,healthcare,high
+Data Engineer,MI,FT,120000,US,7,0,0,0,AI,low
+Data Engineer,SE,FT,259000,US,8,0,0,0,AI,low
+Data Engineer,SE,FT,146000,US,7,0,0,0,webdev,low
+Data Analyst,MI,FT,109532,HR,8,0,0,0,healthcare,low
+Data Analyst,MI,FT,73021,HR,5,0,0,0,finance,low
+Data Analyst,EN,PT,17794,IN,6,0,0,0,webdev,low
+Data Scientist,EN,FT,19539,BR,3,1,0,0,AI,low
+Data Science Lead,SE,FT,247500,US,7,0,0,0,AI,low
+Data Science Lead,SE,FT,172200,US,7,0,0,0,AI,low
+Data Scientist,SE,FT,225000,US,3,1,0,0,healthcare,medium
+Data Scientist,SE,FT,156400,US,8,1,0,0,healthcare,low
+Data Engineer,SE,FT,139500,US,7,0,0,0,webdev,low
+Data Engineer,SE,FT,109400,US,9,0,0,0,finance,low
+Data Engineer,MI,FT,125000,US,5,0,0,0,webdev,low
+Data Engineer,MI,FT,90000,US,6,0,0,0,cybersecurity,low
+Machine Learning Infrastructure Engineer,SE,FT,107614,FR,3,0,0,0,AI,low
+Machine Learning Infrastructure Engineer,SE,FT,75330,FR,6,0,0,0,AI,low
+Data Scientist,SE,FT,185900,US,9,1,0,0,AI,medium
+Data Scientist,SE,FT,129300,US,7,1,0,0,webdev,low
+Machine Learning Engineer,SE,FT,139500,US,7,0,0,0,webdev,medium
+Machine Learning Engineer,SE,FT,109400,US,9,0,0,0,AI,medium
+Data Analyst,SE,FT,120000,US,3,0,0,0,webdev,medium
+Data Analyst,SE,FT,75000,US,5,0,0,0,healthcare,high
+Data Analyst,SE,FT,169000,US,4,0,0,0,healthcare,low
+Data Analyst,SE,FT,110600,US,3,0,0,0,webdev,low
+Machine Learning Engineer,SE,FT,288000,US,4,0,0,0,AI,medium
+Machine Learning Engineer,SE,FT,140000,US,9,0,0,0,webdev,low
+Machine Learning Engineer,SE,FT,288000,US,8,0,0,0,webdev,low
+Machine Learning Engineer,SE,FT,140000,US,4,0,0,0,webdev,medium
+Data Engineer,MI,FT,120000,US,5,0,0,0,cybersecurity,medium
+Data Engineer,MI,FT,90000,US,8,0,0,0,healthcare,high
+Data Science Lead,MI,FT,73021,GB,4,0,0,0,finance,high
+Data Science Lead,MI,FT,60851,GB,9,0,0,0,finance,medium
+Data Scientist,SE,FT,215050,US,8,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,156400,US,9,1,0,0,webdev,medium
+Data Architect,SE,FT,198000,US,4,0,0,0,cybersecurity,low
+Data Architect,SE,FT,114000,US,9,0,0,0,cybersecurity,low
+Data Analyst,EN,FT,75000,US,5,0,0,0,AI,medium
+Data Analyst,EN,FT,60000,US,4,0,0,0,healthcare,low
+Machine Learning Engineer,SE,FT,204500,US,4,0,0,0,finance,low
+Machine Learning Engineer,SE,FT,142200,US,4,0,0,0,webdev,low
+Data Scientist,SE,FT,209300,US,3,1,0,0,finance,medium
+Data Scientist,SE,FT,182200,US,3,1,0,0,finance,low
+Data Manager,SE,FT,140000,US,3,0,0,0,healthcare,medium
+Data Manager,SE,FT,120000,US,5,0,0,0,finance,low
+Data Scientist,EN,FT,85000,US,8,1,0,0,finance,medium
+Machine Learning Engineer,MI,FT,48680,GB,9,0,0,0,cybersecurity,medium
+Research Engineer,EN,FT,120000,GB,7,0,0,0,healthcare,low
+Research Engineer,EN,FT,60000,GB,4,0,0,0,AI,low
+Machine Learning Engineer,SE,FT,147100,US,9,0,0,0,webdev,low
+Machine Learning Engineer,SE,FT,90700,US,4,0,0,0,finance,high
+Data Engineer,SE,FT,230000,US,5,0,0,0,webdev,medium
+Data Engineer,SE,FT,170000,US,4,0,0,0,AI,high
+Data Analyst,SE,FT,227000,US,3,0,0,0,webdev,low
+Data Analyst,SE,FT,108000,US,7,0,0,0,AI,medium
+Data Engineer,SE,FT,180000,US,6,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,160000,US,4,0,0,0,finance,medium
+Data Architect,SE,FT,180000,US,9,0,0,0,AI,high
+Data Architect,SE,FT,160000,US,3,0,0,0,webdev,low
+Data Engineer,SE,FT,180000,US,6,0,0,0,finance,low
+Data Engineer,SE,FT,130000,US,7,0,0,0,cybersecurity,medium
+Data Analyst,SE,FT,55959,ES,6,0,0,0,finance,medium
+Data Analyst,SE,FT,51655,ES,3,0,0,0,AI,low
+Data Analyst,EN,FT,60000,US,8,0,0,0,cybersecurity,low
+Data Analyst,EN,FT,50000,US,8,0,0,0,webdev,low
+Data Engineer,SE,FT,226700,US,6,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,133300,US,5,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,252000,US,9,0,0,0,healthcare,medium
+Data Engineer,SE,FT,129000,US,9,0,0,0,cybersecurity,medium
+Big Data Architect,SE,FT,152126,GB,6,0,0,0,cybersecurity,low
+Data Scientist,EN,FT,9739,IN,4,1,0,0,finance,low
+Data Analyst,SE,FT,80000,US,4,0,0,0,webdev,low
+Data Analyst,SE,FT,52500,US,9,0,0,0,finance,low
+Data Engineer,SE,FT,250000,US,9,0,0,0,finance,medium
+Data Engineer,SE,FT,162500,US,8,0,0,0,AI,high
+Data Analyst,EN,FT,85000,US,5,0,0,0,finance,low
+Data Analyst,EN,FT,75000,US,3,0,0,0,healthcare,medium
+Data Analyst,SE,FT,153600,US,4,0,0,0,healthcare,medium
+Data Analyst,SE,FT,106800,US,9,0,0,0,AI,medium
+Data Analyst,MI,FT,165000,US,8,0,0,0,webdev,low
+Data Analyst,MI,FT,124000,US,7,0,0,0,webdev,high
+Data Analyst,SE,FT,115934,US,8,0,0,0,finance,low
+Data Analyst,SE,FT,81666,US,4,0,0,0,finance,low
+Data Engineer,SE,FT,167580,US,4,0,0,0,finance,low
+Data Engineer,SE,FT,87980,US,8,0,0,0,webdev,low
+Data Engineer,SE,FT,250000,US,3,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,63000,US,6,0,0,0,healthcare,low
+Research Scientist,SE,FT,253750,ES,4,0,0,0,cybersecurity,low
+Research Scientist,SE,FT,169200,ES,8,0,0,0,cybersecurity,medium
+Research Scientist,SE,FT,253750,ES,9,0,0,0,webdev,medium
+Research Scientist,SE,FT,169200,ES,8,0,0,0,cybersecurity,low
+Data Scientist,MI,FT,170000,US,5,1,0,0,AI,medium
+Data Scientist,MI,FT,120000,US,6,1,0,0,finance,medium
+Data Engineer,SE,FT,124740,US,7,0,0,0,AI,medium
+Data Engineer,SE,FT,65488,US,3,0,0,0,healthcare,low
+Data Engineer,SE,FT,213580,US,7,0,0,0,finance,medium
+Data Engineer,SE,FT,163625,US,6,0,0,0,cybersecurity,high
+Data Engineer,EN,FT,12000,VN,6,0,0,0,healthcare,medium
+Machine Learning Software Engineer,SE,FT,375000,US,6,0,0,0,finance,low
+Data Engineer,SE,FT,102234,IE,7,0,0,0,cybersecurity,low
+Product Data Analyst,MI,FT,16435,IN,9,0,0,0,AI,medium
+Machine Learning Engineer,SE,FT,220000,US,6,0,0,0,finance,low
+Machine Learning Engineer,SE,FT,170000,US,8,0,0,0,cybersecurity,low
+Data Engineer,EX,FT,235000,US,7,0,0,0,AI,low
+Data Engineer,EX,FT,210000,US,6,0,0,0,healthcare,medium
+Data Architect,SE,FT,180000,US,8,0,0,0,healthcare,medium
+Data Architect,SE,FT,115000,US,9,0,0,0,healthcare,low
+Data Architect,SE,FT,200000,US,5,0,0,0,healthcare,high
+Data Architect,SE,FT,115000,US,9,0,0,0,webdev,low
+Data Science Manager,SE,FT,231250,US,6,0,0,0,finance,medium
+Data Science Manager,SE,FT,138750,US,7,0,0,0,finance,medium
+Machine Learning Engineer,SE,FT,284310,US,4,0,0,0,webdev,medium
+Machine Learning Engineer,SE,FT,153090,US,6,0,0,0,cybersecurity,high
+Data Engineer,SE,FT,160000,US,4,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,75000,US,8,0,0,0,healthcare,medium
+Data Analyst,MI,FT,125000,US,5,0,0,0,AI,low
+Data Analyst,MI,FT,105000,US,3,0,0,0,cybersecurity,medium
+Data Analyst,MI,FT,109532,GB,9,0,0,0,AI,medium
+Data Analyst,MI,FT,85191,GB,5,0,0,0,finance,medium
+Data Analyst,EN,FT,55000,US,6,0,0,0,AI,low
+Data Analyst,EN,FT,48000,US,4,0,0,0,finance,medium
+Data Analyst,EN,FT,100000,US,9,0,0,0,webdev,low
+Data Science Lead,SE,FT,225900,US,4,0,0,0,webdev,low
+Data Science Lead,SE,FT,156400,US,7,0,0,0,healthcare,medium
+Data Engineer,SE,FT,250000,US,4,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,162500,US,7,0,0,0,healthcare,medium
+Machine Learning Engineer,SE,FT,318300,US,8,0,0,0,finance,low
+Machine Learning Engineer,SE,FT,188800,US,9,0,0,0,healthcare,low
+Data Analyst,SE,FT,385000,US,9,0,0,0,AI,medium
+Data Analyst,SE,FT,60000,US,3,0,0,0,finance,low
+Data Analyst,MI,FT,110000,US,6,0,0,0,webdev,low
+Data Analyst,MI,FT,95000,US,7,0,0,0,cybersecurity,medium
+Data Scientist,SE,FT,145000,US,3,1,0,0,finance,low
+Data Scientist,SE,FT,135000,US,4,1,0,0,finance,medium
+Data Analyst,SE,FT,180180,US,4,0,0,0,AI,low
+Data Analyst,SE,FT,106020,US,3,0,0,0,cybersecurity,medium
+Data Analyst,SE,FT,93919,US,9,0,0,0,webdev,medium
+Data Analyst,SE,FT,51962,US,4,0,0,0,finance,medium
+Data Engineer,SE,FT,241871,US,8,0,0,0,finance,low
+Data Engineer,SE,FT,133832,US,8,0,0,0,AI,medium
+Data Scientist,SE,FT,170000,US,3,1,0,0,healthcare,medium
+Data Scientist,SE,FT,90000,US,7,1,0,0,webdev,medium
+Data Engineer,EX,FT,210914,US,7,0,0,0,cybersecurity,low
+Data Engineer,EX,FT,116704,US,3,0,0,0,finance,medium
+Data Analyst,SE,FT,192500,US,7,0,0,0,finance,medium
+Data Analyst,SE,FT,140000,US,9,0,0,0,webdev,low
+Data Scientist,SE,FT,149076,US,9,1,0,0,healthcare,low
+Data Scientist,SE,FT,82365,US,7,1,0,0,finance,medium
+Machine Learning Engineer,MI,FT,36000,MX,8,0,0,0,webdev,low
+Data Scientist,SE,FT,175000,US,7,1,0,0,AI,high
+Data Scientist,SE,FT,148750,US,9,1,0,0,healthcare,medium
+Research Scientist,SE,FT,370000,US,5,0,0,0,cybersecurity,medium
+Research Scientist,SE,FT,200000,US,6,0,0,0,finance,low
+Data Scientist,SE,FT,235000,US,4,1,0,0,webdev,low
+Data Scientist,SE,FT,185000,US,5,1,0,0,AI,high
+Machine Learning Engineer,MI,FT,121702,GB,7,0,0,0,cybersecurity,low
+Machine Learning Engineer,MI,FT,97361,GB,8,0,0,0,webdev,medium
+Data Scientist,SE,FT,216100,US,3,1,0,0,webdev,low
+Data Scientist,SE,FT,140800,US,7,1,0,0,cybersecurity,low
+Machine Learning Engineer,MI,FT,146042,GB,8,0,0,0,AI,low
+Machine Learning Engineer,MI,FT,121702,GB,6,0,0,0,AI,low
+Computer Vision Software Engineer,SE,FT,53807,CA,7,0,0,0,healthcare,high
+Data Scientist,EN,FT,110000,US,9,1,0,0,finance,low
+Data Engineer,SE,FT,128000,US,3,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,81500,US,8,0,0,0,cybersecurity,low
+Data Engineer,MI,FT,66936,GB,8,0,0,0,cybersecurity,low
+Data Engineer,MI,FT,63285,GB,8,0,0,0,AI,low
+Data Analyst,MI,FT,60851,GB,6,0,0,0,finance,medium
+Data Analyst,MI,FT,54766,GB,7,0,0,0,healthcare,low
+Data Engineer,EX,FT,284000,US,6,0,0,0,webdev,low
+Data Engineer,EX,FT,236000,US,4,0,0,0,webdev,low
+Research Scientist,SE,FT,248100,CA,4,0,0,0,cybersecurity,high
+Research Scientist,SE,FT,145900,CA,7,0,0,0,finance,low
+Research Engineer,SE,FT,155850,US,9,0,0,0,AI,low
+Research Engineer,SE,FT,102544,US,6,0,0,0,finance,medium
+Data Scientist,MI,FT,151410,US,3,1,0,0,finance,low
+Data Scientist,MI,FT,115360,US,8,1,0,0,AI,low
+Data Engineer,MI,FT,66721,ES,8,0,0,0,cybersecurity,low
+Data Engineer,MI,FT,59188,ES,7,0,0,0,finance,medium
+Director of Data Science,SE,FT,126636,CA,9,0,0,0,webdev,low
+Azure Data Engineer,SE,FT,100000,NL,4,0,0,0,AI,medium
+Data Scientist,EN,FT,12783,IN,4,1,0,0,healthcare,medium
+Data Scientist,SE,FT,250000,US,8,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,162500,US,7,1,0,0,AI,low
+Data Scientist,SE,FT,185000,GB,6,1,0,0,healthcare,low
+Data Scientist,SE,FT,120250,GB,4,1,0,0,healthcare,medium
+Data Engineer,EN,FT,26903,DE,6,0,0,0,finance,low
+Data Scientist,EN,FT,180000,US,9,1,0,0,finance,low
+Research Scientist,MI,FT,85000,US,4,0,0,0,finance,low
+Research Scientist,MI,FT,70000,US,4,0,0,0,AI,high
+BI Developer,SE,FT,135000,US,5,0,1,0,AI,low
+BI Developer,SE,FT,100000,US,4,0,1,0,cybersecurity,high
+Data Analytics Manager,EX,FT,155000,US,3,0,0,0,finance,low
+Data Analytics Manager,EX,FT,140000,US,7,0,0,0,healthcare,low
+Machine Learning Engineer,SE,FT,204500,US,7,0,0,0,webdev,low
+Machine Learning Engineer,SE,FT,142200,US,6,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,226700,US,9,0,0,0,AI,low
+Data Engineer,SE,FT,133300,US,4,0,0,0,cybersecurity,low
+Data Scientist,SE,FT,225000,US,3,1,0,0,cybersecurity,high
+Data Scientist,SE,FT,156400,US,6,1,0,0,cybersecurity,medium
+Data Engineer,SE,FT,163800,US,5,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,126000,US,6,0,0,0,webdev,low
+Machine Learning Engineer,SE,FT,163800,US,6,0,0,0,finance,low
+Machine Learning Engineer,SE,FT,126000,US,4,0,0,0,healthcare,low
+ML Engineer,SE,FT,220000,US,5,0,0,0,cybersecurity,medium
+ML Engineer,SE,FT,150000,US,6,0,0,0,cybersecurity,high
+Data Engineer,SE,FT,145000,US,3,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,115000,US,3,0,0,0,finance,low
+Data Analytics Manager,SE,FT,204500,US,7,0,0,0,AI,low
+Data Analytics Manager,SE,FT,138900,US,5,0,0,0,AI,low
+Data Engineer,MI,FT,162500,US,5,0,0,0,webdev,low
+Data Engineer,MI,FT,130000,US,7,0,0,0,AI,medium
+Data Engineer,SE,FT,150000,US,6,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,107000,US,5,0,0,0,cybersecurity,low
+Data Engineer,EX,FT,175000,US,3,0,0,0,cybersecurity,low
+Data Engineer,EX,FT,110000,US,3,0,0,0,webdev,high
+Data Engineer,SE,FT,226700,US,4,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,133300,US,5,0,0,0,AI,low
+Data Engineer,SE,FT,252000,US,6,0,0,0,finance,low
+Data Engineer,SE,FT,129000,US,7,0,0,0,finance,low
+Machine Learning Engineer,SE,FT,150000,US,7,0,0,0,healthcare,low
+Machine Learning Engineer,SE,FT,125000,US,6,0,0,0,AI,medium
+Data Engineer,SE,FT,252000,US,9,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,129000,US,8,0,0,0,finance,low
+Data Scientist,SE,FT,225000,US,4,1,0,0,AI,medium
+Data Scientist,SE,FT,156400,US,7,1,0,0,finance,low
+Research Scientist,MI,FT,23000,IN,5,0,0,0,cybersecurity,medium
+Machine Learning Engineer,MI,FT,110000,US,4,0,0,0,finance,medium
+Data Engineer,SE,FT,265000,US,5,0,0,0,healthcare,low
+Data Engineer,SE,FT,182750,US,9,0,0,0,healthcare,medium
+Data Analyst,MI,FT,130000,US,3,0,0,0,finance,low
+Data Analyst,MI,FT,100000,US,4,0,0,0,AI,high
+Data Analyst,SE,FT,153600,US,7,0,0,0,AI,low
+Data Analyst,SE,FT,106800,US,4,0,0,0,AI,high
+Data Engineer,SE,FT,137500,US,4,0,0,0,finance,medium
+Data Engineer,SE,FT,81500,US,4,0,0,0,AI,low
+Head of Data Science,EX,FT,314100,US,8,0,0,0,cybersecurity,low
+Head of Data Science,EX,FT,195800,US,4,0,0,0,healthcare,high
+Applied Scientist,SE,FT,205000,US,5,0,0,0,cybersecurity,medium
+Applied Scientist,SE,FT,180000,US,3,0,0,0,AI,low
+Data Scientist,SE,FT,165000,US,9,1,0,0,cybersecurity,medium
+Data Scientist,SE,FT,144000,US,6,1,0,0,AI,low
+BI Developer,EN,FT,160000,US,4,0,1,0,finance,low
+BI Developer,EN,FT,100000,US,7,0,1,0,cybersecurity,low
+Data Engineer,EX,FT,200000,US,4,0,0,0,finance,low
+Data Engineer,EX,FT,145000,US,7,0,0,0,finance,medium
+Data Analyst,MI,FT,150000,US,5,0,0,0,webdev,low
+Data Analyst,MI,FT,100000,US,7,0,0,0,AI,medium
+Data Manager,SE,FT,199000,US,6,0,0,0,healthcare,low
+Data Manager,SE,FT,112000,US,3,0,0,0,AI,low
+Data Scientist,SE,FT,105000,US,7,1,0,0,healthcare,low
+Data Scientist,SE,FT,70000,US,7,1,0,0,AI,low
+Big Data Engineer,EN,FT,130000,SE,3,0,0,0,finance,low
+Data Analyst,SE,FT,180180,US,6,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,106020,US,4,0,0,0,cybersecurity,low
+Data Engineer,EN,FT,160000,US,7,0,0,0,webdev,low
+Data Engineer,EN,FT,135000,US,3,0,0,0,healthcare,low
+Data Scientist,SE,FT,183000,US,5,1,0,0,healthcare,low
+Data Scientist,SE,FT,134000,US,3,1,0,0,healthcare,medium
+Machine Learning Engineer,SE,FT,220000,US,5,0,0,0,finance,high
+Machine Learning Engineer,SE,FT,150000,US,6,0,0,0,healthcare,low
+Applied Scientist,SE,FT,350000,US,4,0,0,0,cybersecurity,low
+Applied Scientist,SE,FT,262500,US,3,0,0,0,finance,low
+Data Analyst,SE,FT,122000,US,9,0,0,0,AI,high
+Data Analyst,SE,FT,94000,US,9,0,0,0,healthcare,low
+Machine Learning Engineer,SE,FT,276000,US,8,0,0,0,healthcare,low
+Machine Learning Engineer,SE,FT,184000,US,7,0,0,0,AI,low
+Data Engineer,EX,FT,310000,US,6,0,0,0,healthcare,low
+Data Engineer,EX,FT,239000,US,3,0,0,0,AI,low
+Data Scientist,SE,FT,225000,US,9,1,0,0,finance,medium
+Data Scientist,SE,FT,156400,US,7,1,0,0,cybersecurity,low
+Machine Learning Engineer,MI,FT,180000,US,9,0,0,0,AI,medium
+Machine Learning Engineer,MI,FT,150000,US,3,0,0,0,webdev,low
+Data Scientist,SE,FT,228000,US,5,1,0,0,AI,low
+Data Scientist,SE,FT,152000,US,3,1,0,0,healthcare,high
+Data Scientist,SE,FT,209450,US,8,1,0,0,finance,low
+Data Scientist,SE,FT,158677,US,3,1,0,0,finance,medium
+Data Analyst,SE,FT,175000,US,3,0,0,0,AI,low
+Data Analyst,SE,FT,145000,US,8,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,240000,US,6,0,0,0,webdev,high
+Data Engineer,SE,FT,170000,US,3,0,0,0,finance,low
+Data Analyst,MI,FT,103200,US,8,0,0,0,healthcare,medium
+Data Analyst,MI,FT,61200,US,7,0,0,0,healthcare,low
+Data Scientist,MI,FT,155000,US,5,1,0,0,cybersecurity,medium
+Marketing Data Engineer,EN,FT,66970,SG,5,0,0,0,finance,low
+Data Scientist,SE,FT,63492,EE,3,1,0,0,AI,low
+Data Scientist,SE,FT,237000,US,6,1,0,0,healthcare,medium
+Data Scientist,SE,FT,145000,US,6,1,0,0,cybersecurity,high
+Data Scientist,SE,FT,240000,US,7,1,0,0,finance,high
+Data Scientist,SE,FT,139000,US,3,1,0,0,finance,medium
+Data Architect,SE,FT,174500,US,5,0,0,0,finance,medium
+Data Architect,SE,FT,113000,US,6,0,0,0,finance,low
+Data Analyst,SE,FT,130000,US,3,0,0,0,finance,low
+Data Analyst,SE,FT,87000,US,9,0,0,0,healthcare,low
+Data Analyst,SE,FT,160000,US,6,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,108000,US,8,0,0,0,finance,low
+Data Engineer,SE,FT,165000,US,9,0,0,0,webdev,low
+Data Engineer,SE,FT,107250,US,6,0,0,0,webdev,low
+Data Engineer,SE,FT,300000,US,5,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,119000,US,4,0,0,0,AI,low
+Data Scientist,SE,FT,285800,US,9,1,0,0,AI,low
+Data Scientist,SE,FT,154600,US,7,1,0,0,AI,low
+Head of Data Science,MI,FT,60873,IN,7,0,0,0,webdev,medium
+Data Analyst,EN,FT,30000,US,5,0,0,0,AI,medium
+Data Science Manager,MI,FT,220000,US,6,0,0,0,healthcare,medium
+Data Science Manager,MI,FT,195000,US,3,0,0,0,finance,low
+Data Manager,SE,FT,168400,US,6,0,0,0,webdev,low
+Data Manager,SE,FT,105200,US,5,0,0,0,cybersecurity,low
+Data Analyst,MI,FT,206000,US,7,0,0,0,cybersecurity,low
+Data Analyst,MI,FT,160000,US,6,0,0,0,finance,low
+Analytics Engineer,SE,FT,200000,US,7,0,0,0,webdev,low
+Analytics Engineer,SE,FT,175000,US,9,0,0,0,AI,low
+Analytics Engineer,SE,FT,231250,US,3,0,0,0,AI,high
+Analytics Engineer,SE,FT,138750,US,9,0,0,0,healthcare,high
+Data Engineer,SE,FT,153000,CA,7,0,0,0,healthcare,low
+Data Engineer,SE,FT,94000,CA,7,0,0,0,AI,low
+Data Engineer,SE,FT,240500,US,4,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,123700,US,4,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,160000,US,9,0,0,0,healthcare,high
+Data Engineer,SE,FT,90000,US,8,0,0,0,finance,low
+Data Scientist,EN,FT,124234,US,9,1,0,0,AI,medium
+Data Scientist,EN,FT,74540,US,4,1,0,0,healthcare,low
+Data Analyst,MI,FT,109000,US,7,0,0,0,healthcare,high
+Data Analyst,MI,FT,79000,US,5,0,0,0,AI,low
+Machine Learning Engineer,SE,FT,84053,FR,9,0,0,0,AI,medium
+Machine Learning Engineer,MI,FT,50000,AM,7,0,0,0,cybersecurity,low
+Data Scientist,SE,FT,275300,US,5,1,0,0,finance,medium
+Data Scientist,SE,FT,183500,US,5,1,0,0,finance,low
+Data Scientist,SE,FT,275300,US,4,1,0,0,AI,low
+Data Scientist,SE,FT,183500,US,9,1,0,0,webdev,high
+Data Analyst,SE,FT,160000,US,6,0,0,0,healthcare,high
+Data Analyst,SE,FT,125600,US,3,0,0,0,healthcare,medium
+Data Engineer,SE,FT,170000,US,4,0,0,0,AI,medium
+Data Engineer,SE,FT,120000,US,4,0,0,0,webdev,medium
+Data Engineer,SE,FT,225000,US,6,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,140000,US,3,0,0,0,AI,low
+Data Analyst,SE,FT,141290,US,7,0,0,0,AI,low
+Data Analyst,SE,FT,74178,US,8,0,0,0,healthcare,medium
+Data Scientist,SE,FT,150000,US,9,1,0,0,AI,low
+Data Scientist,SE,FT,120000,US,8,1,0,0,AI,low
+Data Engineer,SE,FT,85000,US,7,0,0,0,AI,low
+Data Engineer,SE,FT,75000,US,4,0,0,0,healthcare,medium
+Data Engineer,SE,FT,220000,US,3,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,160000,US,4,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,205600,US,5,0,0,0,AI,low
+Data Engineer,SE,FT,107500,US,4,0,0,0,healthcare,low
+Data Engineer,MI,FT,120000,US,4,0,0,0,cybersecurity,low
+Data Engineer,MI,FT,95000,US,7,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,185900,US,7,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,129300,US,7,0,0,0,healthcare,medium
+Data Engineer,SE,FT,160000,US,8,0,0,0,healthcare,low
+Data Engineer,SE,FT,130000,US,5,0,0,0,AI,medium
+Data Scientist,EN,FT,12905,IN,7,1,0,0,finance,low
+Data Engineer,MI,FT,250000,US,3,0,0,0,cybersecurity,low
+Data Engineer,MI,FT,175000,US,8,0,0,0,finance,medium
+Data Scientist,SE,FT,136000,US,6,1,0,0,healthcare,low
+Data Scientist,SE,FT,104000,US,3,1,0,0,healthcare,low
+Data Analyst,MI,FT,80000,US,9,0,0,0,healthcare,medium
+Data Analyst,MI,FT,52500,US,9,0,0,0,finance,low
+Data Scientist,SE,FT,110000,US,3,1,0,0,healthcare,medium
+Data Scientist,SE,FT,84000,US,7,1,0,0,AI,low
+BI Analyst,SE,FT,125000,US,6,0,0,0,healthcare,medium
+BI Analyst,SE,FT,110000,US,6,0,0,0,webdev,low
+Data Analyst,MI,FT,90000,US,8,0,0,0,finance,low
+Data Analyst,MI,FT,80000,US,6,0,0,0,webdev,medium
+ML Engineer,SE,FT,200000,US,9,0,0,0,healthcare,low
+ML Engineer,SE,FT,135000,US,5,0,0,0,AI,low
+Business Data Analyst,EN,FT,48000,US,7,0,0,0,cybersecurity,low
+AI Developer,EN,FT,120000,BA,6,0,1,0,healthcare,low
+Data Engineer,SE,FT,130000,US,8,0,0,0,AI,low
+Data Engineer,SE,FT,75000,US,9,0,0,0,finance,low
+Data Engineer,SE,FT,252000,US,5,0,0,0,webdev,high
+Data Engineer,SE,FT,129000,US,4,0,0,0,webdev,low
+Data Analyst,MI,FT,150000,US,4,0,0,0,webdev,low
+Data Analyst,MI,FT,100000,US,5,0,0,0,finance,low
+Data Engineer,SE,FT,226700,US,9,0,0,0,AI,low
+Data Engineer,SE,FT,133300,US,8,0,0,0,finance,high
+Data Scientist,SE,FT,190000,US,5,1,0,0,webdev,low
+Data Scientist,SE,FT,165000,US,7,1,0,0,healthcare,high
+Data Engineer,SE,FT,170000,US,7,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,150000,US,4,0,0,0,finance,medium
+Data Engineer,MI,FT,150000,US,6,0,0,0,finance,low
+Data Engineer,MI,FT,130000,US,8,0,0,0,AI,medium
+Data Scientist,SE,FT,225000,US,4,1,0,0,AI,low
+Data Scientist,SE,FT,156400,US,6,1,0,0,finance,low
+Computer Vision Engineer,SE,FT,200000,US,6,0,0,0,webdev,low
+Applied Data Scientist,MI,FT,80000,KE,7,1,0,0,cybersecurity,low
+Business Data Analyst,EN,FT,12913,GR,9,0,0,0,AI,high
+AI Developer,EN,FT,6304,MK,3,0,1,0,webdev,low
+Data Analytics Lead,MI,FT,17531,SG,9,0,0,0,healthcare,low
+Data Scientist,SE,FT,257000,US,3,1,0,0,AI,medium
+Data Scientist,SE,FT,134000,US,5,1,0,0,webdev,low
+Data Scientist,SE,FT,77482,LV,7,1,0,0,webdev,high
+Data Scientist,SE,FT,38741,LV,6,1,0,0,cybersecurity,medium
+Data Engineer,SE,FT,205600,US,8,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,105700,US,3,0,0,0,healthcare,medium
+BI Developer,SE,FT,140000,US,9,0,1,0,webdev,low
+BI Developer,SE,FT,110000,US,6,0,1,0,webdev,low
+Data Science Manager,SE,FT,299500,US,3,0,0,0,cybersecurity,low
+Data Science Manager,SE,FT,245100,US,3,0,0,0,AI,low
+Research Scientist,SE,FT,210000,US,3,0,0,0,AI,medium
+Research Scientist,SE,FT,151800,US,8,0,0,0,finance,high
+Data Scientist,MI,FT,53807,RO,7,1,0,0,cybersecurity,low
+Data Analyst,SE,FT,51655,ES,8,0,0,0,finance,low
+Data Analyst,SE,FT,40893,ES,4,0,0,0,cybersecurity,high
+Data Analyst,SE,FT,51655,ES,6,0,0,0,healthcare,low
+Data Analyst,SE,FT,40893,ES,7,0,0,0,webdev,low
+Data Engineer,EN,FT,160000,US,7,0,0,0,healthcare,low
+Data Engineer,EN,FT,135000,US,7,0,0,0,cybersecurity,high
+Data Engineer,MI,FT,120000,US,9,0,0,0,webdev,low
+Data Engineer,MI,FT,95000,US,7,0,0,0,AI,medium
+Data Engineer,SE,FT,250000,US,8,0,0,0,AI,medium
+Data Engineer,SE,FT,63000,US,7,0,0,0,finance,low
+Data Scientist,SE,FT,237000,US,5,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,145000,US,6,1,0,0,cybersecurity,medium
+Data Scientist,SE,FT,130000,US,7,1,0,0,AI,low
+Data Scientist,SE,FT,90000,US,6,1,0,0,healthcare,medium
+Data Analyst,MI,FT,120000,US,5,0,0,0,webdev,high
+Data Analyst,MI,FT,100000,US,5,0,0,0,healthcare,medium
+Data Architect,SE,FT,174500,US,6,0,0,0,healthcare,medium
+Data Architect,SE,FT,113000,US,3,0,0,0,AI,medium
+Data Scientist,MI,FT,183310,US,4,1,0,0,AI,medium
+Data Scientist,MI,FT,183310,US,9,1,0,0,AI,low
+Data Analyst,SE,FT,145000,US,3,0,0,0,finance,low
+Data Analyst,SE,FT,102500,US,3,0,0,0,healthcare,low
+Data Scientist,SE,FT,210000,US,8,1,0,0,cybersecurity,medium
+Data Scientist,SE,FT,185000,US,9,1,0,0,webdev,low
+Data Architect,SE,FT,174500,US,9,0,0,0,finance,medium
+Data Architect,SE,FT,113000,US,3,0,0,0,cybersecurity,low
+Data Science Consultant,SE,FT,122000,US,7,0,0,0,healthcare,medium
+Data Science Consultant,SE,FT,94000,US,8,0,0,0,AI,low
+Data Scientist,SE,FT,220000,US,8,1,0,0,healthcare,medium
+Data Scientist,SE,FT,146000,US,5,1,0,0,webdev,low
+Data Engineer,SE,FT,300000,US,9,0,0,0,finance,low
+Data Engineer,SE,FT,130000,US,3,0,0,0,finance,low
+Data Scientist,MI,FT,25087,TH,5,1,0,0,webdev,medium
+Computer Vision Engineer,MI,FT,15897,IN,6,0,0,0,cybersecurity,low
+Data Science Consultant,SE,FT,145000,US,4,0,0,0,cybersecurity,low
+Data Science Consultant,SE,FT,128000,US,8,0,0,0,finance,high
+Data Scientist,SE,FT,182000,US,6,1,0,0,finance,medium
+Data Scientist,SE,FT,140000,US,6,1,0,0,AI,high
+Data Engineer,SE,FT,122000,US,7,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,94000,US,4,0,0,0,webdev,low
+Machine Learning Engineer,SE,FT,77482,LV,6,0,0,0,cybersecurity,medium
+Machine Learning Engineer,SE,FT,38741,LV,6,0,0,0,AI,low
+Data Scientist,EX,FT,300000,US,4,1,0,0,finance,medium
+Data Scientist,EX,FT,200000,US,4,1,0,0,finance,low
+Data Analyst,MI,FT,135000,US,6,0,0,0,AI,low
+Data Analyst,MI,FT,105500,US,4,0,0,0,webdev,low
+Data Engineer,SE,FT,252000,US,6,0,0,0,finance,low
+Data Engineer,SE,FT,129000,US,6,0,0,0,healthcare,low
+Data Scientist,MI,FT,110000,US,7,1,0,0,finance,low
+Data Scientist,SE,FT,136000,US,3,1,0,0,healthcare,high
+Data Scientist,SE,FT,104000,US,6,1,0,0,AI,low
+Data Scientist,SE,FT,168000,US,5,1,0,0,AI,medium
+Data Scientist,SE,FT,130000,US,8,1,0,0,finance,medium
+Data Analyst,MI,FT,79106,GB,9,0,0,0,cybersecurity,low
+Data Analyst,MI,FT,43873,GB,3,0,0,0,healthcare,low
+Data Engineer,MI,FT,120000,US,3,0,0,0,webdev,medium
+Data Engineer,MI,FT,95000,US,3,0,0,0,finance,medium
+Data Scientist,SE,FT,153400,US,7,1,0,0,webdev,medium
+Data Scientist,SE,FT,122700,US,6,1,0,0,finance,medium
+Data Scientist,SE,FT,185000,US,7,1,0,0,cybersecurity,high
+Data Scientist,SE,FT,160000,US,6,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,205000,US,7,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,185000,US,7,1,0,0,cybersecurity,medium
+Machine Learning Engineer,SE,FT,204500,US,8,0,0,0,AI,low
+Machine Learning Engineer,SE,FT,142200,US,5,0,0,0,AI,medium
+Machine Learning Engineer,MI,FT,145000,US,7,0,0,0,healthcare,low
+Machine Learning Engineer,MI,FT,87000,US,8,0,0,0,webdev,low
+Data Scientist,EN,FT,50000,US,4,1,0,0,finance,medium
+ML Engineer,SE,FT,234100,US,5,0,0,0,finance,low
+ML Engineer,SE,FT,203500,US,7,0,0,0,AI,low
+Data Scientist,SE,FT,223800,US,9,1,0,0,finance,low
+Data Scientist,SE,FT,172100,US,3,1,0,0,AI,medium
+Data Scientist,SE,FT,180000,US,4,1,0,0,healthcare,low
+Data Scientist,SE,FT,150000,US,4,1,0,0,webdev,medium
+Data Engineer,SE,FT,232200,US,8,0,0,0,healthcare,low
+Data Engineer,SE,FT,167200,US,4,0,0,0,cybersecurity,medium
+BI Developer,SE,FT,197000,US,5,0,1,0,cybersecurity,medium
+BI Developer,SE,FT,106000,US,7,0,1,0,cybersecurity,low
+Research Scientist,SE,FT,180000,US,7,0,0,0,healthcare,low
+Research Scientist,SE,FT,145000,US,9,0,0,0,finance,low
+Data Lead,SE,FT,225000,US,3,0,0,0,webdev,medium
+Data Lead,SE,FT,200000,US,8,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,170000,US,3,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,114000,US,4,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,291500,US,9,0,0,0,webdev,low
+Data Engineer,SE,FT,180000,US,3,0,0,0,cybersecurity,low
+Data Engineer,EX,FT,196200,US,5,0,0,0,webdev,low
+Data Engineer,EX,FT,150900,US,7,0,0,0,cybersecurity,low
+Data Scientist,SE,FT,168400,US,4,1,0,0,healthcare,medium
+Data Scientist,SE,FT,105200,US,9,1,0,0,healthcare,medium
+Data Engineer,MI,FT,95000,ES,3,0,0,0,webdev,low
+Data Engineer,MI,FT,80000,ES,8,0,0,0,healthcare,high
+Data Analyst,MI,FT,116000,US,5,0,0,0,webdev,medium
+Data Analyst,MI,FT,72000,US,5,0,0,0,healthcare,high
+Analytics Engineer,SE,FT,207000,US,3,0,0,0,healthcare,low
+Analytics Engineer,SE,FT,167000,US,7,0,0,0,webdev,low
+Machine Learning Engineer,SE,FT,145000,US,3,0,0,0,finance,low
+Machine Learning Engineer,SE,FT,135000,US,4,0,0,0,healthcare,medium
+Data Engineer,MI,FT,105000,US,3,0,0,0,cybersecurity,low
+Data Engineer,MI,FT,70000,US,5,0,0,0,finance,low
+Data Architect,SE,FT,180000,US,9,0,0,0,webdev,low
+Data Architect,SE,FT,115000,US,3,0,0,0,finance,low
+Data Engineer,SE,FT,133800,US,7,0,0,0,AI,medium
+Data Engineer,SE,FT,96100,US,9,0,0,0,AI,low
+Data Analyst,MI,FT,120000,US,8,0,0,0,healthcare,low
+Data Analyst,MI,FT,80000,US,6,0,0,0,healthcare,medium
+Data Science Engineer,SE,FT,140000,US,3,0,0,0,cybersecurity,high
+Data Science Engineer,SE,FT,100000,US,7,0,0,0,finance,medium
+Research Scientist,SE,FT,150000,US,9,0,0,0,AI,high
+Research Scientist,SE,FT,120000,US,7,0,0,0,healthcare,medium
+Cloud Database Engineer,SE,FT,140000,US,8,0,0,0,finance,low
+Cloud Database Engineer,SE,FT,115000,US,5,0,0,0,healthcare,low
+Data Science Manager,SE,FT,297300,US,7,0,0,0,healthcare,medium
+Data Science Manager,SE,FT,198200,US,9,0,0,0,AI,medium
+Data Scientist,SE,FT,297300,US,7,1,0,0,AI,medium
+Data Scientist,SE,FT,198200,US,7,1,0,0,healthcare,low
+Data Engineer,SE,FT,202000,US,7,0,0,0,webdev,low
+Data Engineer,SE,FT,135000,US,4,0,0,0,healthcare,low
+Data Scientist,SE,FT,110000,US,4,1,0,0,healthcare,low
+Data Scientist,SE,FT,84000,US,5,1,0,0,cybersecurity,low
+Machine Learning Engineer,MI,FT,219000,US,3,0,0,0,cybersecurity,medium
+Applied Scientist,SE,FT,230000,US,7,0,0,0,cybersecurity,low
+Applied Scientist,SE,FT,196000,US,8,0,0,0,webdev,low
+BI Developer,SE,FT,140000,US,3,0,1,0,webdev,low
+BI Developer,SE,FT,110000,US,8,0,1,0,healthcare,medium
+Data Analyst,MI,FT,150000,US,3,0,0,0,cybersecurity,low
+Data Analyst,MI,FT,100000,US,5,0,0,0,webdev,low
+Data Engineer,SE,FT,160000,US,7,0,0,0,AI,low
+Data Engineer,SE,FT,110000,US,7,0,0,0,healthcare,low
+Data Scientist,SE,FT,185900,US,6,1,0,0,finance,high
+Data Scientist,SE,FT,129300,US,8,1,0,0,healthcare,high
+Applied Scientist,SE,FT,126100,US,3,0,0,0,finance,low
+Applied Scientist,SE,FT,72000,US,3,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,170000,US,4,0,0,0,finance,medium
+Data Engineer,SE,FT,150000,US,6,0,0,0,cybersecurity,low
+Machine Learning Engineer,MI,FT,175000,US,9,0,0,0,AI,low
+Machine Learning Engineer,MI,FT,140000,US,9,0,0,0,finance,low
+Data Analyst,SE,FT,240500,US,4,0,0,0,healthcare,high
+Data Analyst,SE,FT,137500,US,4,0,0,0,cybersecurity,low
+Data Scientist,MI,FT,187500,US,4,1,0,0,healthcare,low
+Data Scientist,MI,FT,165000,US,8,1,0,0,webdev,medium
+Machine Learning Research Engineer,MI,FT,73021,GB,8,0,0,0,cybersecurity,low
+Data Analyst,EN,PT,25216,US,5,0,0,0,finance,low
+Research Scientist,SE,FT,210000,US,5,0,0,0,cybersecurity,high
+Research Scientist,SE,FT,165750,US,4,0,0,0,healthcare,low
+Machine Learning Scientist,SE,FT,225000,US,6,0,0,0,AI,medium
+Machine Learning Scientist,SE,FT,165750,US,3,0,0,0,cybersecurity,low
+Machine Learning Engineer,MI,FT,109166,GB,8,0,0,0,finance,low
+Machine Learning Engineer,MI,FT,67240,GB,6,0,0,0,webdev,low
+Data Scientist,SE,FT,135000,US,7,1,0,0,AI,low
+Data Scientist,SE,FT,115000,US,8,1,0,0,webdev,low
+NLP Engineer,SE,FT,275000,US,8,0,0,0,cybersecurity,medium
+NLP Engineer,SE,FT,175000,US,5,0,0,0,healthcare,low
+Data Scientist,SE,FT,170000,US,3,1,0,0,healthcare,low
+Data Scientist,SE,FT,140000,US,3,1,0,0,finance,low
+Data Engineer,SE,FT,175308,US,9,0,0,0,healthcare,medium
+Data Engineer,SE,FT,100706,US,9,0,0,0,AI,low
+NLP Engineer,SE,FT,235000,US,9,0,0,0,healthcare,low
+NLP Engineer,SE,FT,135000,US,9,0,0,0,finance,low
+Data Engineer,SE,FT,310000,US,7,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,229000,US,7,0,0,0,cybersecurity,low
+ML Engineer,SE,FT,289076,US,8,0,0,0,healthcare,medium
+ML Engineer,SE,FT,202353,US,4,0,0,0,webdev,low
+Data Engineer,SE,FT,69949,PT,5,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,37665,PT,5,0,0,0,healthcare,low
+Research Engineer,MI,FT,120000,US,9,0,0,0,finance,medium
+Research Engineer,MI,FT,100000,US,8,0,0,0,healthcare,low
+Data Engineer,SE,FT,226700,US,6,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,133300,US,4,0,0,0,finance,low
+Data Analyst,SE,FT,125000,US,8,0,0,0,healthcare,low
+Data Analyst,SE,FT,85000,US,4,0,0,0,AI,low
+Data Analyst,SE,FT,130000,US,4,0,0,0,finance,low
+Data Analyst,SE,FT,80000,US,4,0,0,0,AI,low
+Data Engineer,MI,FT,120000,US,8,0,0,0,webdev,low
+Data Engineer,MI,FT,100000,US,9,0,0,0,finance,low
+Data Scientist,SE,FT,54094,IN,5,1,0,0,AI,low
+Business Data Analyst,MI,FT,18314,IN,5,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,231250,US,9,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,138750,US,4,0,0,0,webdev,high
+Data Engineer,SE,FT,199000,US,6,0,0,0,finance,high
+Data Engineer,SE,FT,162000,US,3,0,0,0,finance,medium
+Data Engineer,EN,FT,160000,US,8,0,0,0,finance,medium
+Data Engineer,EN,FT,135000,US,3,0,0,0,webdev,medium
+Data Scientist,EN,FT,100000,US,9,1,0,0,finance,low
+Research Scientist,SE,FT,200000,US,6,0,0,0,cybersecurity,medium
+Research Scientist,SE,FT,150000,US,8,0,0,0,AI,low
+Research Engineer,EN,FT,160000,US,9,0,0,0,cybersecurity,low
+Research Engineer,EN,FT,120000,US,4,0,0,0,cybersecurity,medium
+Research Scientist,SE,FT,250000,US,5,0,0,0,AI,low
+Research Scientist,SE,FT,200000,US,3,0,0,0,cybersecurity,low
+Deep Learning Engineer,EN,FT,150000,US,7,0,0,0,webdev,high
+Deep Learning Engineer,EN,FT,120000,US,7,0,0,0,AI,low
+Research Engineer,SE,FT,150000,US,6,0,0,0,cybersecurity,low
+Research Engineer,SE,FT,100000,US,4,0,0,0,healthcare,high
+Data Analytics Manager,SE,FT,133000,NL,3,0,0,0,cybersecurity,medium
+Data Scientist,SE,FT,272550,US,4,1,0,0,webdev,low
+Data Scientist,SE,FT,198200,US,3,1,0,0,finance,low
+Data Scientist,SE,FT,182000,US,6,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,140000,US,6,1,0,0,finance,medium
+Data Engineer,SE,FT,200000,US,7,0,0,0,healthcare,low
+Data Engineer,SE,FT,160000,US,4,0,0,0,cybersecurity,low
+Machine Learning Engineer,SE,FT,204500,US,8,0,0,0,AI,low
+Machine Learning Engineer,SE,FT,142200,US,7,0,0,0,finance,low
+Data Scientist,MI,FT,120000,US,4,1,0,0,healthcare,high
+Data Scientist,MI,FT,105000,US,7,1,0,0,AI,low
+Data Engineer,SE,FT,187500,US,8,0,0,0,AI,medium
+Data Engineer,SE,FT,175000,US,5,0,0,0,AI,low
+Machine Learning Engineer,SE,FT,204500,US,5,0,0,0,AI,medium
+Machine Learning Engineer,SE,FT,142200,US,5,0,0,0,cybersecurity,high
+Data Analyst,SE,FT,155000,US,5,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,64000,US,9,0,0,0,cybersecurity,low
+Computer Vision Engineer,SE,FT,235000,US,3,0,0,0,healthcare,low
+Computer Vision Engineer,SE,FT,185000,US,9,0,0,0,healthcare,medium
+Data Architect,SE,FT,174500,US,9,0,0,0,healthcare,low
+Data Architect,SE,FT,113000,US,9,0,0,0,webdev,medium
+Data Scientist,SE,FT,143100,CA,5,1,0,0,healthcare,medium
+Data Scientist,SE,FT,113000,CA,8,1,0,0,cybersecurity,medium
+Applied Scientist,SE,FT,184000,US,6,0,0,0,cybersecurity,medium
+Applied Scientist,SE,FT,142000,US,6,0,0,0,webdev,low
+Data Scientist,SE,FT,140000,US,3,1,0,0,webdev,low
+Data Scientist,SE,FT,120000,US,5,1,0,0,healthcare,low
+Data Architect,SE,FT,174500,US,5,0,0,0,finance,high
+Data Architect,SE,FT,113000,US,5,0,0,0,webdev,medium
+Data Scientist,SE,FT,180560,US,7,1,0,0,AI,medium
+Data Scientist,SE,FT,115440,US,4,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,140000,US,7,1,0,0,AI,low
+Data Scientist,SE,FT,120000,US,4,1,0,0,cybersecurity,medium
+Research Scientist,SE,FT,248100,US,5,0,0,0,cybersecurity,low
+Research Scientist,SE,FT,145900,US,5,0,0,0,webdev,low
+Data Scientist,SE,FT,120000,CA,7,1,0,0,webdev,medium
+Data Scientist,SE,FT,110000,CA,7,1,0,0,AI,low
+Data Engineer,SE,FT,291500,US,4,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,180000,US,6,0,0,0,AI,low
+Machine Learning Engineer,MI,FT,75455,GB,4,0,0,0,finance,low
+Machine Learning Engineer,MI,FT,63285,GB,7,0,0,0,AI,high
+Data Engineer,SE,FT,161800,US,8,0,0,0,healthcare,low
+Data Engineer,SE,FT,141600,US,7,0,0,0,AI,low
+Machine Learning Engineer,MI,FT,58417,GB,8,0,0,0,healthcare,low
+Machine Learning Engineer,MI,FT,46246,GB,3,0,0,0,healthcare,medium
+Data Engineer,SE,FT,166000,US,7,0,0,0,healthcare,low
+Data Engineer,SE,FT,128000,US,3,0,0,0,finance,low
+Data Architect,SE,FT,170000,US,6,0,0,0,AI,low
+Data Architect,SE,FT,110000,US,4,0,0,0,AI,low
+Data Engineer,SE,FT,160000,US,8,0,0,0,finance,low
+Data Engineer,SE,FT,75000,US,4,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,236000,US,3,0,0,0,webdev,medium
+Data Engineer,SE,FT,182000,US,8,0,0,0,AI,low
+Data Analyst,MI,FT,14307,IN,4,0,0,0,webdev,low
+Data Scientist,EN,FT,130000,US,7,1,0,0,finance,high
+Data Analyst,MI,FT,150000,US,5,0,0,0,cybersecurity,low
+Data Analyst,MI,FT,100000,US,3,0,0,0,cybersecurity,medium
+Machine Learning Engineer,SE,FT,261500,US,4,0,0,0,cybersecurity,low
+Machine Learning Engineer,SE,FT,134500,US,3,0,0,0,finance,high
+Data Scientist,MI,FT,13989,IN,9,1,0,0,healthcare,medium
+Data Scientist,MI,FT,130000,US,3,1,0,0,healthcare,high
+Data Scientist,MI,FT,90000,US,8,1,0,0,webdev,medium
+Data Engineer,EN,FT,160000,US,9,0,0,0,healthcare,low
+Data Engineer,EN,FT,135000,US,8,0,0,0,healthcare,high
+Manager Data Management,SE,FT,125000,US,5,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,175000,US,9,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,155000,US,7,0,0,0,webdev,medium
+Data Engineer,SE,FT,153600,US,3,0,0,0,AI,medium
+Data Engineer,SE,FT,106800,US,4,0,0,0,webdev,high
+Data Scientist,SE,FT,150000,US,6,1,0,0,webdev,low
+Data Scientist,SE,FT,140000,US,3,1,0,0,finance,medium
+Data Science Consultant,SE,FT,122000,US,3,0,0,0,finance,medium
+Data Science Consultant,SE,FT,94500,US,5,0,0,0,webdev,low
+Data Engineer,SE,FT,170000,US,7,0,0,0,webdev,low
+Data Engineer,SE,FT,130000,US,6,0,0,0,webdev,low
+Data Science Consultant,SE,FT,145000,US,9,0,0,0,healthcare,low
+Data Science Consultant,SE,FT,128000,US,9,0,0,0,finance,high
+Data Engineer,SE,FT,145000,US,9,0,0,0,webdev,medium
+Data Engineer,SE,FT,100000,US,8,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,175000,US,8,0,0,0,cybersecurity,high
+Data Engineer,SE,FT,120000,US,4,0,0,0,healthcare,low
+Data Engineer,SE,FT,145000,US,6,0,0,0,healthcare,medium
+Data Engineer,SE,FT,115000,US,9,0,0,0,AI,low
+Applied Machine Learning Scientist,SE,FT,150000,US,8,0,0,0,AI,medium
+Data Analyst,MI,FT,150000,US,4,0,0,0,AI,low
+Data Analyst,MI,FT,100000,US,7,0,0,0,healthcare,high
+Data Scientist,MI,FT,150000,US,4,1,0,0,healthcare,low
+Data Scientist,MI,FT,127500,US,8,1,0,0,healthcare,low
+Data Scientist,SE,FT,126500,US,5,1,0,0,cybersecurity,medium
+Data Scientist,SE,FT,51000,US,5,1,0,0,healthcare,low
+Data Engineer,MI,FT,260000,US,9,0,0,0,cybersecurity,medium
+Data Engineer,MI,FT,175000,US,5,0,0,0,AI,low
+Applied Data Scientist,EN,FT,40000,PK,9,1,0,0,AI,medium
+AI Programmer,EN,FT,40000,AU,9,0,0,0,AI,low
+Data Engineer,SE,FT,250000,US,8,0,0,0,webdev,low
+Data Engineer,SE,FT,63000,US,5,0,0,0,webdev,low
+Machine Learning Engineer,SE,FT,210000,US,9,0,0,0,finance,low
+Machine Learning Engineer,SE,FT,160000,US,6,0,0,0,finance,low
+Data Scientist,SE,FT,272550,US,7,1,0,0,finance,low
+Data Scientist,SE,FT,198200,US,4,1,0,0,webdev,low
+Data Scientist,MI,FT,94560,FR,4,1,0,0,webdev,low
+Data Scientist,MI,FT,52533,FR,8,1,0,0,finance,low
+Data Scientist,SE,FT,220000,US,5,1,0,0,finance,medium
+Data Scientist,SE,FT,146000,US,5,1,0,0,healthcare,low
+Data Analyst,MI,FT,150000,US,9,0,0,0,finance,low
+Data Analyst,MI,FT,100000,US,3,0,0,0,healthcare,medium
+Machine Learning Software Engineer,SE,FT,248400,CA,9,0,0,0,cybersecurity,low
+Machine Learning Software Engineer,SE,FT,183600,CA,7,0,0,0,webdev,medium
+Data Engineer,MI,FT,150000,US,6,0,0,0,finance,low
+Data Engineer,MI,FT,150000,US,4,0,0,0,webdev,low
+Machine Learning Developer,EN,FT,40000,AU,9,0,1,0,webdev,low
+Lead Data Scientist,SE,FT,56723,IN,3,1,0,0,webdev,medium
+Data Engineer,MI,FT,120000,US,3,0,0,0,cybersecurity,medium
+Data Engineer,MI,FT,95000,US,9,0,0,0,AI,low
+Data Engineer,EN,FT,160000,US,8,0,0,0,finance,low
+Data Engineer,EN,FT,135000,US,4,0,0,0,AI,high
+Data Science Consultant,EN,FT,24165,IT,8,0,0,0,AI,low
+Data Engineer,SE,FT,216000,US,6,0,0,0,AI,low
+Data Engineer,SE,FT,144000,US,3,0,0,0,webdev,high
+Data Engineer,EN,FT,85000,US,3,0,0,0,healthcare,medium
+Data Engineer,EN,FT,65000,US,7,0,0,0,webdev,low
+Data Analyst,SE,FT,149000,US,6,0,0,0,webdev,medium
+Data Analyst,SE,FT,119000,US,3,0,0,0,AI,medium
+Data Scientist,SE,FT,140000,US,6,1,0,0,webdev,low
+Data Scientist,SE,FT,120000,US,4,1,0,0,AI,low
+Data Scientist,MI,FT,150000,US,5,1,0,0,healthcare,low
+Data Scientist,MI,FT,110000,US,3,1,0,0,finance,high
+Machine Learning Engineer,SE,FT,246000,US,7,0,0,0,AI,medium
+Machine Learning Engineer,SE,FT,201000,US,4,0,0,0,healthcare,low
+Data Scientist,SE,FT,190000,US,9,1,0,0,finance,medium
+Data Scientist,SE,FT,155000,US,6,1,0,0,cybersecurity,low
+ML Engineer,SE,FT,235000,US,9,0,0,0,AI,low
+ML Engineer,SE,FT,185000,US,8,0,0,0,AI,low
+Cloud Database Engineer,SE,FT,190000,US,4,0,0,0,cybersecurity,low
+Cloud Database Engineer,SE,FT,160000,US,9,0,0,0,cybersecurity,medium
+Product Data Analyst,EN,FT,100000,US,3,0,0,0,AI,low
+Data Engineer,MI,FT,130000,US,6,0,0,0,cybersecurity,medium
+Data Engineer,MI,FT,115000,US,5,0,0,0,webdev,low
+Data Scientist,MI,FT,92350,GB,4,1,0,0,finance,low
+Data Scientist,MI,FT,67723,GB,3,1,0,0,finance,high
+Data Engineer,MI,FT,105000,US,7,0,0,0,finance,low
+Data Engineer,MI,FT,70000,US,8,0,0,0,webdev,low
+Machine Learning Engineer,SE,FT,204500,US,6,0,0,0,cybersecurity,low
+Machine Learning Engineer,SE,FT,142200,US,4,0,0,0,healthcare,medium
+Machine Learning Engineer,SE,FT,192000,US,4,0,0,0,cybersecurity,low
+Machine Learning Engineer,SE,FT,164000,US,5,0,0,0,AI,low
+Data Engineer,SE,FT,185900,US,5,0,0,0,finance,low
+Data Engineer,SE,FT,129300,US,7,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,130000,US,8,0,0,0,healthcare,medium
+Data Engineer,SE,FT,75000,US,7,0,0,0,AI,low
+Data Science Manager,SE,FT,175000,US,3,0,0,0,webdev,low
+Data Science Manager,SE,FT,120000,US,3,0,0,0,webdev,low
+Data Engineer,SE,FT,167500,US,7,0,0,0,healthcare,low
+Data Engineer,SE,FT,106500,US,8,0,0,0,AI,high
+Data Analyst,MI,FT,75000,US,7,0,0,0,finance,low
+Data Analyst,MI,FT,60000,US,8,0,0,0,cybersecurity,high
+Applied Scientist,SE,FT,184000,US,8,0,0,0,AI,low
+Applied Scientist,SE,FT,142000,US,9,0,0,0,webdev,low
+Data Scientist,MI,FT,145000,US,6,1,0,0,healthcare,medium
+Data Scientist,MI,FT,100000,US,8,1,0,0,healthcare,low
+Machine Learning Software Engineer,EN,FT,10000,MA,5,0,0,0,cybersecurity,medium
+Data Scientist,MI,FT,31795,US,8,1,0,0,healthcare,high
+NLP Engineer,MI,FT,44365,PL,8,0,0,0,healthcare,low
+Data Engineer,SE,FT,175000,US,8,0,0,0,AI,low
+Data Engineer,SE,FT,120000,US,9,0,0,0,finance,medium
+Data Engineer,SE,FT,175000,US,9,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,120000,US,3,0,0,0,AI,low
+Data Engineer,EX,FT,200000,US,9,0,0,0,finance,low
+Data Engineer,EX,FT,145000,US,5,0,0,0,AI,low
+Data Engineer,MI,FT,92350,GB,5,0,0,0,AI,medium
+Data Engineer,MI,FT,73880,GB,9,0,0,0,healthcare,low
+Data Engineer,SE,FT,145000,US,7,0,0,0,finance,low
+Data Engineer,SE,FT,100000,US,6,0,0,0,cybersecurity,medium
+Applied Scientist,SE,FT,192000,US,9,0,0,0,cybersecurity,low
+Applied Scientist,SE,FT,164000,US,8,0,0,0,finance,low
+Data Engineer,EX,FT,310000,US,4,0,0,0,healthcare,medium
+Data Engineer,EX,FT,239000,US,6,0,0,0,webdev,low
+Data Analyst,SE,FT,120000,US,6,0,0,0,AI,medium
+Data Analyst,SE,FT,95000,US,5,0,0,0,healthcare,medium
+Machine Learning Engineer,SE,FT,145000,US,6,0,0,0,finance,low
+Machine Learning Engineer,SE,FT,135000,US,9,0,0,0,AI,low
+Data Engineer,SE,FT,100000,US,8,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,78000,US,8,0,0,0,webdev,low
+Data Engineer,SE,FT,73546,ES,3,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,36773,ES,8,0,0,0,finance,medium
+Data Engineer,MI,FT,160000,US,8,0,0,0,AI,low
+Data Engineer,MI,FT,120000,US,5,0,0,0,finance,medium
+Data Scientist,SE,FT,190000,US,8,1,0,0,AI,high
+Data Scientist,SE,FT,150000,US,3,1,0,0,healthcare,high
+Data Engineer,MI,FT,35610,IN,4,0,0,0,webdev,low
+AI Scientist,SE,FT,125000,CO,9,0,0,0,healthcare,low
+Data Engineer,SE,FT,120000,US,5,0,0,0,healthcare,low
+Data Engineer,SE,FT,95000,US,4,0,0,0,finance,high
+Data Analyst,MI,FT,150000,US,5,0,0,0,webdev,low
+Data Analyst,MI,FT,100000,US,7,0,0,0,AI,low
+Data Scientist,SE,FT,47280,ES,6,1,0,0,AI,low
+Data Scientist,SE,FT,37824,ES,7,1,0,0,cybersecurity,low
+Data Analyst,SE,FT,115934,US,8,0,0,0,AI,low
+Data Analyst,SE,FT,81666,US,4,0,0,0,finance,high
+Data Scientist,SE,FT,175000,US,8,1,0,0,healthcare,low
+Data Scientist,SE,FT,140000,US,6,1,0,0,healthcare,low
+Data Engineer,SE,FT,120000,US,5,0,0,0,healthcare,low
+Data Engineer,SE,FT,95000,US,6,0,0,0,webdev,low
+Research Engineer,SE,FT,249500,US,3,0,0,0,AI,low
+Research Engineer,SE,FT,149850,US,6,0,0,0,finance,low
+Analytics Engineer,MI,FT,122500,US,3,0,0,0,webdev,low
+Analytics Engineer,MI,FT,100000,US,6,0,0,0,cybersecurity,low
+Data Scientist,SE,FT,249500,US,9,1,0,0,finance,low
+Data Scientist,SE,FT,149850,US,3,1,0,0,finance,low
+Data Analyst,EN,FT,55000,US,4,0,0,0,finance,high
+Data Analyst,EN,FT,48000,US,8,0,0,0,healthcare,high
+Research Scientist,SE,FT,249500,US,8,0,0,0,finance,low
+Research Scientist,SE,FT,149850,US,7,0,0,0,AI,low
+Computer Vision Engineer,MI,FT,58837,FR,8,0,0,0,finance,high
+Data Engineer,SE,FT,190000,US,5,0,0,0,healthcare,low
+Data Engineer,SE,FT,120000,US,9,0,0,0,finance,medium
+Data Analyst,SE,FT,127000,US,6,0,0,0,cybersecurity,high
+Data Analyst,SE,FT,104000,US,7,0,0,0,cybersecurity,low
+Data Scientist,SE,FT,210000,US,5,1,0,0,healthcare,low
+Data Scientist,SE,FT,150000,US,5,1,0,0,AI,high
+Machine Learning Engineer,SE,FT,210000,US,3,0,0,0,AI,low
+Machine Learning Engineer,SE,FT,150000,US,8,0,0,0,webdev,low
+Data Engineer,SE,FT,210000,US,4,0,0,0,healthcare,low
+Data Engineer,SE,FT,130000,US,4,0,0,0,finance,low
+Data Scientist,SE,FT,182750,US,7,1,0,0,healthcare,medium
+Data Scientist,SE,FT,161500,US,9,1,0,0,webdev,medium
+Data Analyst,MI,FT,102640,US,4,0,0,0,healthcare,high
+Data Analyst,MI,FT,66100,US,6,0,0,0,healthcare,low
+Research Scientist,SE,FT,210000,US,4,0,0,0,webdev,low
+Research Scientist,SE,FT,150000,US,7,0,0,0,AI,low
+Data Engineer,SE,FT,198800,US,4,0,0,0,finance,low
+Data Engineer,SE,FT,122600,US,6,0,0,0,webdev,low
+Data Engineer,MI,FT,130000,US,3,0,0,0,cybersecurity,high
+Data Engineer,MI,FT,80000,US,9,0,0,0,AI,medium
+Data Scientist,SE,FT,136000,US,7,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,104000,US,3,1,0,0,AI,medium
+Data Analyst,SE,FT,150000,US,3,0,0,0,finance,low
+Data Analyst,SE,FT,100000,US,3,0,0,0,finance,low
+Data Engineer,EN,FT,160000,US,5,0,0,0,healthcare,medium
+Data Engineer,EN,FT,135000,US,9,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,216000,US,8,0,0,0,AI,high
+Data Engineer,SE,FT,144000,US,9,0,0,0,finance,medium
+Data Scientist,EX,FT,159000,US,5,1,0,0,webdev,low
+Data Scientist,EX,FT,130000,US,8,1,0,0,finance,medium
+Data Analyst,SE,FT,115934,US,9,0,0,0,webdev,low
+Data Analyst,SE,FT,81666,US,3,0,0,0,AI,low
+Data Engineer,SE,FT,215000,US,7,0,0,0,finance,low
+Data Engineer,SE,FT,150000,US,8,0,0,0,finance,low
+Machine Learning Engineer,SE,FT,246000,US,6,0,0,0,AI,medium
+Machine Learning Engineer,SE,FT,201000,US,6,0,0,0,finance,low
+Data Engineer,MI,FT,187000,US,4,0,0,0,webdev,medium
+Data Engineer,MI,FT,153000,US,8,0,0,0,finance,low
+Machine Learning Engineer,SE,FT,255000,MX,7,0,0,0,cybersecurity,low
+Machine Learning Engineer,SE,FT,185000,MX,5,0,0,0,healthcare,medium
+Data Analyst,MI,FT,430967,GB,3,0,0,0,webdev,low
+Data Analyst,MI,FT,55410,GB,4,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,50432,ES,6,0,0,0,AI,low
+Data Analyst,SE,FT,39925,ES,5,0,0,0,webdev,low
+Data Analyst,SE,FT,169000,US,5,0,0,0,healthcare,low
+Data Analyst,SE,FT,110600,US,3,0,0,0,healthcare,medium
+BI Data Analyst,EN,FT,60938,DE,8,0,0,0,AI,low
+BI Developer,SE,FT,140000,US,6,0,1,0,AI,low
+BI Developer,SE,FT,120000,US,7,0,1,0,webdev,high
+Data Analyst,MI,FT,75000,US,5,0,0,0,finance,low
+Data Analyst,MI,FT,60000,US,3,0,0,0,AI,medium
+3D Computer Vision Researcher,SE,FT,10000,AL,7,0,0,0,finance,low
+Data Analyst,EN,FT,50000,US,8,0,0,0,cybersecurity,low
+MLOps Engineer,MI,FT,134000,US,6,0,0,0,healthcare,medium
+MLOps Engineer,MI,FT,124000,US,8,0,0,0,finance,low
+Data Analyst,SE,FT,166700,US,5,0,0,0,healthcare,medium
+Data Analyst,SE,FT,119000,US,7,0,0,0,finance,low
+Data Scientist,EN,FT,124234,US,7,1,0,0,cybersecurity,low
+Data Scientist,EN,FT,74540,US,7,1,0,0,AI,low
+Data Analyst,MI,FT,100000,US,5,0,0,0,cybersecurity,low
+Data Analyst,MI,FT,65000,US,5,0,0,0,AI,medium
+Data Analyst,MI,FT,16904,IN,8,0,0,0,AI,low
+AI Scientist,EN,FT,200000,CA,4,0,0,0,healthcare,high
+Machine Learning Engineer,EN,FT,12000,AR,8,0,0,0,cybersecurity,high
+Data Engineer,SE,FT,220000,US,6,0,0,0,finance,low
+Data Engineer,SE,FT,146000,US,3,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,68293,ES,7,0,0,0,healthcare,medium
+Data Engineer,SE,FT,36773,ES,4,0,0,0,AI,high
+Data Specialist,SE,FT,110000,US,3,0,0,0,healthcare,low
+Data Specialist,SE,FT,70000,US,4,0,0,0,webdev,low
+Data Analyst,EN,FT,50000,US,9,0,0,0,webdev,low
+Data Engineer,SE,FT,120000,US,8,0,0,0,finance,medium
+Data Engineer,SE,FT,95000,US,5,0,0,0,healthcare,low
+Data Analyst,MI,FT,150000,US,7,0,0,0,finance,medium
+Data Analyst,MI,FT,100000,US,8,0,0,0,finance,low
+Data Scientist,SE,FT,47280,ES,3,1,0,0,webdev,low
+Data Scientist,SE,FT,37824,ES,9,1,0,0,finance,low
+Data Architect,SE,FT,190000,US,9,0,0,0,webdev,low
+Data Architect,SE,FT,135000,US,9,0,0,0,AI,low
+Data Scientist,SE,FT,128000,US,3,1,0,0,healthcare,low
+Data Scientist,SE,FT,81500,US,3,1,0,0,finance,low
+Data Scientist,SE,FT,173000,US,3,1,0,0,webdev,low
+Data Scientist,SE,FT,110000,US,3,1,0,0,cybersecurity,low
+Machine Learning Engineer,SE,FT,192000,US,9,0,0,0,finance,high
+Machine Learning Engineer,SE,FT,120000,US,9,0,0,0,AI,low
+Data Analyst,SE,FT,115934,US,4,0,0,0,AI,low
+Data Analyst,SE,FT,81666,US,8,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,120000,US,7,0,0,0,webdev,high
+Data Analyst,SE,FT,95000,US,5,0,0,0,finance,low
+Principal Machine Learning Engineer,SE,FT,190000,US,9,0,0,0,webdev,medium
+Data Engineer,SE,FT,194000,US,5,0,0,0,AI,medium
+Data Engineer,SE,FT,129400,US,8,0,0,0,webdev,medium
+Data Analyst,SE,FT,201000,US,8,0,0,0,AI,low
+Data Analyst,SE,FT,89200,US,5,0,0,0,webdev,medium
+Data Scientist,SE,FT,165000,US,9,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,125000,US,5,1,0,0,healthcare,low
+Applied Scientist,SE,FT,230000,US,4,0,0,0,cybersecurity,medium
+Applied Scientist,SE,FT,196000,US,6,0,0,0,cybersecurity,low
+Machine Learning Engineer,MI,FT,130000,US,9,0,0,0,healthcare,medium
+Machine Learning Engineer,MI,FT,90000,US,9,0,0,0,healthcare,low
+Machine Learning Researcher,MI,FT,150000,US,7,0,0,0,finance,medium
+Machine Learning Researcher,MI,FT,100000,US,3,0,0,0,finance,low
+Machine Learning Engineer,MI,FT,230000,US,6,0,0,0,cybersecurity,low
+Machine Learning Engineer,MI,FT,150000,US,8,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,153600,US,9,0,0,0,AI,high
+Data Engineer,SE,FT,106800,US,5,0,0,0,AI,low
+Machine Learning Researcher,MI,FT,130000,US,6,0,0,0,finance,low
+Machine Learning Researcher,MI,FT,100000,US,7,0,0,0,finance,low
+Data Engineer,SE,FT,216000,US,8,0,0,0,AI,medium
+Data Engineer,SE,FT,144000,US,3,0,0,0,AI,low
+Data Scientist,MI,FT,180000,US,3,1,0,0,webdev,low
+Data Scientist,MI,FT,120000,US,7,1,0,0,webdev,low
+Data Engineer,EN,FT,160000,US,7,0,0,0,AI,low
+Data Engineer,EN,FT,135000,US,5,0,0,0,webdev,low
+Data Analyst,SE,FT,192500,US,9,0,0,0,healthcare,low
+Data Analyst,SE,FT,140000,US,3,0,0,0,finance,medium
+Data Engineer,SE,FT,152500,US,8,0,0,0,finance,low
+Data Engineer,SE,FT,130000,US,6,0,0,0,AI,low
+Data Analyst,SE,FT,65000,US,8,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,55000,US,4,0,0,0,AI,high
+Data Engineer,SE,FT,178750,US,4,0,0,0,webdev,high
+Data Engineer,SE,FT,160000,US,7,0,0,0,cybersecurity,medium
+Data Scientist,MI,FT,63040,FR,5,1,0,0,webdev,low
+Data Scientist,MI,FT,52533,FR,4,1,0,0,healthcare,low
+Machine Learning Scientist,MI,FT,165000,US,3,0,0,0,webdev,low
+Machine Learning Scientist,MI,FT,135000,US,8,0,0,0,healthcare,low
+Analytics Engineer,SE,FT,170000,US,8,0,0,0,healthcare,low
+Analytics Engineer,SE,FT,125000,US,7,0,0,0,webdev,medium
+Data Engineer,SE,FT,105000,US,9,0,0,0,webdev,medium
+Data Engineer,SE,FT,70000,US,9,0,0,0,healthcare,medium
+Data Scientist,SE,FT,130000,US,6,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,95000,US,7,1,0,0,healthcare,medium
+Data Scientist,SE,FT,203500,US,6,1,0,0,finance,low
+Data Scientist,SE,FT,152000,US,9,1,0,0,healthcare,low
+Data Engineer,SE,FT,197430,US,7,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,134760,US,7,0,0,0,finance,low
+Data Scientist,MI,FT,120000,US,7,1,0,0,AI,low
+Data Engineer,SE,FT,197000,US,9,0,0,0,AI,low
+Data Engineer,SE,FT,99000,US,6,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,220000,US,6,0,0,0,healthcare,medium
+Data Engineer,SE,FT,162000,US,7,0,0,0,webdev,low
+Data Engineer,MI,FT,110446,LT,4,0,0,0,cybersecurity,medium
+Data Engineer,MI,FT,79178,LT,5,0,0,0,finance,low
+Data Science Consultant,MI,FT,70186,GB,9,0,0,0,finance,low
+Data Science Consultant,MI,FT,51716,GB,5,0,0,0,AI,medium
+Data Architect,SE,FT,149040,US,5,0,0,0,finance,medium
+Data Architect,SE,FT,113900,US,6,0,0,0,cybersecurity,high
+Business Data Analyst,MI,FT,95000,US,6,0,0,0,finance,low
+Data Analyst,SE,FT,115000,US,4,0,0,0,cybersecurity,medium
+Data Analyst,SE,FT,171000,AU,5,0,0,0,webdev,medium
+Data Analytics Engineer,EN,FT,13000,AR,5,0,0,0,AI,high
+Data Engineer,SE,FT,100000,US,7,0,0,0,finance,low
+Data Engineer,SE,FT,78000,US,6,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,120000,US,5,0,0,0,healthcare,low
+Data Engineer,SE,FT,95000,US,8,0,0,0,AI,low
+Data Specialist,SE,FT,110000,US,4,0,0,0,webdev,low
+Data Specialist,SE,FT,70000,US,8,0,0,0,cybersecurity,low
+Data Analytics Consultant,EN,FL,50000,US,8,0,0,0,webdev,low
+Data Scientist,SE,FT,185900,US,9,1,0,0,webdev,medium
+Data Scientist,SE,FT,129300,US,9,1,0,0,finance,low
+Data Analyst,MI,FT,150000,US,4,0,0,0,finance,medium
+Data Analyst,MI,FT,100000,US,8,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,230000,US,5,0,0,0,healthcare,low
+Data Engineer,SE,FT,154600,US,6,0,0,0,cybersecurity,low
+Machine Learning Engineer,SE,FT,204500,US,4,0,0,0,healthcare,low
+Machine Learning Engineer,SE,FT,142200,US,7,0,0,0,webdev,low
+Data Engineer,MI,FT,160000,US,8,0,0,0,AI,low
+Data Engineer,MI,FT,75000,US,4,0,0,0,cybersecurity,low
+Data Scientist,SE,FT,47280,ES,3,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,37824,ES,3,1,0,0,healthcare,low
+Data Engineer,SE,FT,213000,US,9,0,0,0,webdev,low
+Data Engineer,SE,FT,152000,US,6,0,0,0,webdev,low
+Data Scientist,SE,FT,140000,US,5,1,0,0,healthcare,high
+Data Scientist,SE,FT,120000,US,6,1,0,0,webdev,medium
+Data Scientist,SE,FT,110000,US,6,1,0,0,finance,medium
+Data Scientist,SE,FT,70000,US,6,1,0,0,AI,low
+Machine Learning Software Engineer,SE,FT,227200,CA,6,0,0,0,cybersecurity,medium
+Machine Learning Software Engineer,SE,FT,168000,CA,7,0,0,0,AI,medium
+3D Computer Vision Researcher,EN,FT,20000,AS,7,0,0,0,cybersecurity,medium
+Data Scientist,MI,FT,64090,DE,9,1,0,0,finance,low
+Data Scientist,MI,FT,60938,DE,4,1,0,0,webdev,medium
+ML Engineer,SE,FT,243000,US,3,0,0,0,healthcare,medium
+ML Engineer,SE,FT,183000,US,6,0,0,0,finance,low
+Data Engineer,SE,FT,175000,US,9,0,0,0,AI,medium
+Data Engineer,SE,FT,150000,US,4,0,0,0,healthcare,low
+Data Scientist,MI,FT,130000,US,3,1,0,0,webdev,low
+Data Scientist,MI,FT,90000,US,8,1,0,0,finance,low
+Data Analyst,MI,FT,165000,US,5,0,0,0,healthcare,medium
+Data Analyst,MI,FT,124000,US,7,0,0,0,finance,low
+Data Engineer,SE,FT,178000,CA,8,0,0,0,finance,low
+Data Engineer,SE,FT,132000,CA,3,0,0,0,webdev,low
+Data Engineer,SE,FT,300000,US,8,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,130000,US,5,0,0,0,healthcare,low
+Data Analyst,SE,FT,169000,US,9,0,0,0,webdev,medium
+Data Analyst,SE,FT,110600,US,3,0,0,0,finance,medium
+Data Analyst,SE,FT,116000,US,8,0,0,0,webdev,low
+Data Analyst,SE,FT,96000,US,7,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,92350,GB,7,0,0,0,healthcare,low
+Data Analyst,SE,FT,70186,GB,4,0,0,0,cybersecurity,medium
+Data Analyst,SE,FT,105000,US,8,0,0,0,AI,low
+Data Analyst,SE,FT,70000,US,6,0,0,0,healthcare,low
+Machine Learning Researcher,MI,FT,105236,CA,8,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,194000,US,9,0,0,0,finance,medium
+Data Engineer,SE,FT,129400,US,3,0,0,0,healthcare,medium
+Data Architect,SE,FT,190000,US,3,0,0,0,healthcare,medium
+Data Architect,SE,FT,135000,US,9,0,0,0,webdev,medium
+Data Analyst,SE,FT,100000,US,8,0,0,0,finance,low
+Data Analyst,SE,FT,70000,US,9,0,0,0,AI,low
+Machine Learning Engineer,EN,FT,189750,US,5,0,0,0,cybersecurity,low
+Machine Learning Engineer,EN,FT,140250,US,9,0,0,0,webdev,low
+Data Analyst,SE,FT,130000,US,7,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,100000,US,9,0,0,0,AI,low
+Data Analyst,MI,FT,160000,US,3,0,0,0,AI,low
+Data Analyst,MI,FT,109000,US,7,0,0,0,healthcare,high
+Research Engineer,SE,FT,250000,US,3,0,0,0,AI,medium
+Research Engineer,SE,FT,150000,US,4,0,0,0,cybersecurity,medium
+Data Analyst,MI,FT,206000,US,6,0,0,0,finance,medium
+Data Analyst,MI,FT,160000,US,3,0,0,0,finance,low
+Data Engineer,SE,FT,135000,US,7,0,0,0,healthcare,medium
+Data Engineer,SE,FT,120000,US,4,0,0,0,cybersecurity,low
+Machine Learning Engineer,SE,FT,115573,FR,3,0,0,0,cybersecurity,medium
+Machine Learning Engineer,SE,FT,73546,FR,5,0,0,0,AI,low
+Data Engineer,EN,FT,160000,US,9,0,0,0,cybersecurity,high
+Data Engineer,EN,FT,135000,US,6,0,0,0,webdev,low
+Data Analyst,MI,FT,150000,US,3,0,0,0,AI,low
+Data Analyst,MI,FT,100000,US,4,0,0,0,webdev,high
+Data Engineer,MI,FT,120000,US,5,0,0,0,healthcare,low
+Data Engineer,MI,FT,95000,US,8,0,0,0,finance,medium
+Data Engineer,SE,FT,68293,ES,4,0,0,0,healthcare,medium
+Data Engineer,SE,FT,42026,ES,9,0,0,0,finance,medium
+Data Engineer,SE,FT,191200,US,4,0,0,0,healthcare,high
+Data Engineer,SE,FT,130000,US,5,0,0,0,cybersecurity,high
+Data Engineer,SE,FT,191200,US,4,0,0,0,webdev,low
+Data Engineer,SE,FT,130000,US,5,0,0,0,finance,medium
+Machine Learning Research Engineer,EN,FT,66192,DE,3,0,0,0,AI,medium
+3D Computer Vision Researcher,EN,FT,50000,CR,5,0,0,0,webdev,medium
+Data Engineer,SE,FT,230000,US,5,0,0,0,AI,low
+Data Engineer,SE,FT,154600,US,6,0,0,0,webdev,medium
+Data Engineer,SE,FT,120000,US,5,0,0,0,webdev,high
+Data Engineer,SE,FT,95000,US,5,0,0,0,healthcare,high
+Data Scientist,SE,FT,140000,US,8,1,0,0,finance,low
+Data Scientist,SE,FT,120000,US,3,1,0,0,finance,low
+Data Analyst,SE,FT,169000,US,9,0,0,0,webdev,low
+Data Analyst,SE,FT,110600,US,6,0,0,0,cybersecurity,medium
+Data Analyst,MI,FT,80000,US,8,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,185900,US,7,0,0,0,AI,low
+Data Engineer,SE,FT,129300,US,3,0,0,0,AI,low
+Analytics Engineer,SE,FT,135000,US,3,0,0,0,healthcare,low
+Analytics Engineer,SE,FT,110000,US,7,0,0,0,webdev,low
+Data Analytics Manager,MI,FT,155000,US,9,0,0,0,AI,high
+Data Analytics Manager,MI,FT,140000,US,5,0,0,0,AI,medium
+Data Engineer,SE,FT,205000,US,8,0,0,0,webdev,low
+Data Engineer,SE,FT,150000,US,4,0,0,0,healthcare,low
+Data Engineer,SE,FT,179500,US,6,0,0,0,AI,low
+Data Engineer,SE,FT,134000,US,4,0,0,0,healthcare,high
+Data Scientist,MI,FT,180000,US,7,1,0,0,finance,low
+Data Scientist,MI,FT,120000,US,3,1,0,0,healthcare,low
+Data Scientist,SE,FT,185900,US,9,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,129300,US,3,1,0,0,cybersecurity,medium
+Data Scientist,SE,FT,175000,US,6,1,0,0,healthcare,medium
+Data Scientist,SE,FT,145000,US,3,1,0,0,cybersecurity,medium
+Data Architect,SE,FT,235000,US,3,0,0,0,finance,low
+Data Architect,SE,FT,175000,US,6,0,0,0,webdev,low
+Data Science Consultant,EN,FT,27317,ES,8,0,0,0,cybersecurity,low
+Data Engineer,MI,FT,160000,US,8,0,0,0,cybersecurity,medium
+Data Engineer,MI,FT,90000,US,6,0,0,0,healthcare,low
+Data Engineer,SE,FT,68293,ES,9,0,0,0,finance,low
+Data Engineer,SE,FT,36773,ES,7,0,0,0,webdev,medium
+Data Engineer,SE,FT,145000,US,3,0,0,0,healthcare,medium
+Data Engineer,SE,FT,115000,US,9,0,0,0,healthcare,low
+Data Specialist,MI,FT,165000,US,3,0,0,0,finance,low
+Data Specialist,MI,FT,135000,US,7,0,0,0,webdev,low
+Data Engineer,SE,FT,168400,US,8,0,0,0,finance,medium
+Data Engineer,SE,FT,105200,US,9,0,0,0,webdev,medium
+Deep Learning Engineer,MI,FT,86193,GB,5,0,0,0,finance,low
+Deep Learning Engineer,MI,FT,49253,GB,5,0,0,0,healthcare,low
+Data Engineer,SE,FT,200000,US,5,0,0,0,healthcare,medium
+Data Engineer,SE,FT,160000,US,8,0,0,0,AI,medium
+Data Scientist,SE,FT,47280,ES,8,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,37824,ES,7,1,0,0,finance,low
+Data Scientist,SE,FT,198800,US,3,1,0,0,AI,low
+Data Scientist,SE,FT,122600,US,7,1,0,0,cybersecurity,low
+Machine Learning Engineer,EN,FL,100000,IR,7,0,0,0,finance,high
+BI Data Analyst,MI,FT,105066,FR,8,0,0,0,webdev,medium
+Data Analyst,SE,FT,130000,US,5,0,0,0,cybersecurity,medium
+Data Analyst,SE,FT,100000,US,4,0,0,0,healthcare,low
+Analytics Engineer,MI,FT,104663,GB,3,0,0,0,AI,medium
+Analytics Engineer,MI,FT,73880,GB,8,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,125000,US,5,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,110000,US,9,0,0,0,healthcare,low
+Data Analyst,MI,FT,165000,US,4,0,0,0,finance,low
+Data Analyst,MI,FT,124000,US,4,0,0,0,webdev,medium
+Data Scientist,SE,FT,148000,US,8,1,0,0,healthcare,low
+Data Scientist,SE,FT,107000,US,6,1,0,0,webdev,low
+Data Analyst,MI,FT,150000,US,3,0,0,0,finance,low
+Data Analyst,MI,FT,100000,US,4,0,0,0,cybersecurity,low
+Data Engineer,EN,FT,160000,US,8,0,0,0,webdev,low
+Data Engineer,EN,FT,135000,US,8,0,0,0,AI,low
+Data Engineer,MI,FT,120000,US,5,0,0,0,AI,medium
+Data Engineer,MI,FT,95000,US,9,0,0,0,healthcare,low
+Data Engineer,SE,FT,153600,US,6,0,0,0,finance,low
+Data Engineer,SE,FT,106800,US,3,0,0,0,healthcare,low
+Data Analyst,MI,FT,100000,CA,7,0,0,0,healthcare,medium
+Data Analyst,MI,FT,65000,CA,9,0,0,0,healthcare,low
+Data Engineer,MI,FT,120000,US,9,0,0,0,AI,low
+Data Engineer,MI,FT,95000,US,5,0,0,0,AI,low
+Data Engineer,SE,FT,63040,PT,4,0,0,0,healthcare,low
+Data Engineer,SE,FT,36773,PT,4,0,0,0,AI,low
+Data Engineer,EX,FT,310000,US,5,0,0,0,finance,medium
+Data Engineer,EX,FT,239000,US,8,0,0,0,healthcare,medium
+Data Science Manager,SE,FT,299500,US,4,0,0,0,AI,low
+Data Science Manager,SE,FT,245100,US,6,0,0,0,webdev,medium
+Data Scientist,SE,FT,168000,US,3,1,0,0,healthcare,medium
+Data Scientist,SE,FT,130000,US,9,1,0,0,healthcare,low
+Data Scientist,SE,FT,136000,US,9,1,0,0,finance,low
+Data Scientist,SE,FT,104000,US,6,1,0,0,cybersecurity,low
+Data Engineer,MI,FT,161000,US,4,0,0,0,cybersecurity,low
+Data Engineer,MI,FT,118000,US,9,0,0,0,finance,medium
+Applied Scientist,SE,FT,205000,US,7,0,0,0,finance,medium
+Applied Scientist,SE,FT,184000,US,3,0,0,0,finance,high
+Data Scientist,SE,FT,185900,US,3,1,0,0,cybersecurity,medium
+Data Scientist,SE,FT,129300,US,9,1,0,0,finance,low
+Data Science Manager,SE,FT,247500,US,5,0,0,0,AI,low
+Data Science Manager,SE,FT,172200,US,9,0,0,0,healthcare,medium
+Data Management Specialist,SE,FT,68293,IT,5,0,0,0,healthcare,low
+Data Analyst,SE,FT,177000,US,9,0,0,0,webdev,medium
+Data Analyst,SE,FT,131000,US,7,0,0,0,webdev,medium
+Applied Scientist,SE,FT,205000,US,8,0,0,0,healthcare,medium
+Applied Scientist,SE,FT,184000,US,3,0,0,0,AI,medium
+Data Engineer,SE,FT,146000,US,9,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,102000,US,7,0,0,0,cybersecurity,medium
+Data Analyst,SE,FT,169000,US,5,0,0,0,AI,medium
+Data Analyst,SE,FT,110600,US,5,0,0,0,cybersecurity,low
+Applied Scientist,SE,FT,230000,US,3,0,0,0,finance,medium
+Applied Scientist,SE,FT,196000,US,6,0,0,0,healthcare,low
+Data Engineer,SE,FT,135000,US,9,0,0,0,healthcare,high
+Data Engineer,SE,FT,100000,US,4,0,0,0,AI,low
+Data Engineer,MI,FT,80000,US,5,0,0,0,cybersecurity,low
+Data Engineer,MI,FT,65000,US,8,0,0,0,webdev,low
+Data Engineer,SE,FT,135000,US,8,0,0,0,webdev,medium
+Data Engineer,SE,FT,100000,US,5,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,61566,GB,6,0,0,0,webdev,low
+Data Engineer,SE,FT,43096,GB,6,0,0,0,AI,low
+Data Engineer,MI,FT,175000,US,7,0,0,0,AI,high
+Data Engineer,MI,FT,135000,US,8,0,0,0,cybersecurity,low
+Data Scientist,EN,FT,80000,US,7,1,0,0,webdev,low
+Data Engineer,SE,FT,231250,US,8,0,0,0,AI,medium
+Data Engineer,SE,FT,138750,US,9,0,0,0,AI,low
+Analytics Engineer,SE,FT,193750,US,9,0,0,0,finance,high
+Analytics Engineer,SE,FT,116250,US,4,0,0,0,finance,low
+Data Engineer,SE,FT,231250,US,9,0,0,0,AI,medium
+Data Engineer,SE,FT,138750,US,4,0,0,0,cybersecurity,low
+Analytics Engineer,SE,FT,231250,US,9,0,0,0,healthcare,low
+Analytics Engineer,SE,FT,138750,US,3,0,0,0,healthcare,medium
+Analytics Engineer,SE,FT,231250,US,9,0,0,0,AI,low
+Analytics Engineer,SE,FT,138750,US,7,0,0,0,AI,medium
+Data Engineer,SE,FT,193750,US,5,0,0,0,AI,low
+Data Engineer,SE,FT,116250,US,7,0,0,0,cybersecurity,low
+Data Scientist,SE,FT,208000,US,5,1,0,0,finance,low
+Data Scientist,SE,FT,127000,US,6,1,0,0,AI,high
+Research Scientist,SE,FT,300000,US,7,0,0,0,AI,low
+Research Scientist,SE,FT,196000,US,6,0,0,0,webdev,low
+Machine Learning Engineer,SE,FT,204500,US,4,0,0,0,cybersecurity,low
+Machine Learning Engineer,SE,FT,142200,US,4,0,0,0,AI,low
+Autonomous Vehicle Technician,MI,FL,45555,BS,3,0,0,0,webdev,low
+Data Engineer,SE,FT,185900,US,9,0,0,0,healthcare,high
+Data Engineer,SE,FT,129300,US,7,0,0,0,AI,low
+Data Scientist,SE,FT,47280,ES,6,1,0,0,AI,medium
+Data Scientist,SE,FT,37824,ES,5,1,0,0,webdev,low
+Machine Learning Engineer,SE,FT,204500,US,4,0,0,0,cybersecurity,medium
+Machine Learning Engineer,SE,FT,142200,US,9,0,0,0,AI,high
+Data Scientist,SE,FT,205000,US,4,1,0,0,healthcare,low
+Data Scientist,SE,FT,185000,US,5,1,0,0,AI,high
+Data Scientist,SE,FT,185900,US,9,1,0,0,healthcare,low
+Data Scientist,SE,FT,129300,US,9,1,0,0,finance,high
+Machine Learning Engineer,SE,FT,247500,US,6,0,0,0,finance,medium
+Machine Learning Engineer,SE,FT,172200,US,6,0,0,0,healthcare,low
+Data Engineer,EN,FT,160000,US,7,0,0,0,cybersecurity,low
+Data Engineer,EN,FT,135000,US,7,0,0,0,AI,low
+Data Analyst,MI,FT,150000,US,8,0,0,0,AI,low
+Data Analyst,MI,FT,100000,US,8,0,0,0,finance,low
+Data Analyst,SE,FT,110000,US,3,0,0,0,healthcare,low
+Data Analyst,SE,FT,95000,US,4,0,0,0,AI,low
+Data Scientist,SE,FT,185900,US,7,1,0,0,AI,medium
+Data Scientist,SE,FT,129300,US,6,1,0,0,cybersecurity,low
+Applied Scientist,SE,FT,205000,US,5,0,0,0,webdev,low
+Applied Scientist,SE,FT,184000,US,6,0,0,0,finance,medium
+Data Scientist,EN,FT,17684,HU,4,1,0,0,finance,low
+Data Science Tech Lead,SE,FT,375000,US,8,0,0,0,webdev,low
+Data Engineer,SE,FT,191200,US,6,0,0,0,AI,low
+Data Engineer,SE,FT,130000,US,3,0,0,0,cybersecurity,high
+Data Scientist,SE,FT,225000,US,4,1,0,0,cybersecurity,medium
+Data Scientist,SE,FT,156400,US,8,1,0,0,finance,low
+Data Analyst,SE,FT,169000,US,5,0,0,0,cybersecurity,medium
+Data Analyst,SE,FT,110600,US,8,0,0,0,webdev,low
+Machine Learning Engineer,SE,FT,204500,US,9,0,0,0,AI,medium
+Machine Learning Engineer,SE,FT,142200,US,3,0,0,0,webdev,medium
+Machine Learning Engineer,MI,FT,104663,GB,4,0,0,0,healthcare,medium
+Machine Learning Engineer,MI,FT,80036,GB,5,0,0,0,finance,low
+Data Scientist,SE,FT,185900,US,3,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,129300,US,8,1,0,0,healthcare,low
+Data Scientist,SE,FT,140700,US,3,1,0,0,cybersecurity,medium
+Data Scientist,SE,FT,93800,US,4,1,0,0,AI,low
+Data Scientist,SE,FT,350000,US,7,1,0,0,AI,medium
+Data Scientist,SE,FT,135000,US,3,1,0,0,AI,high
+Data Analyst,SE,FT,115934,US,9,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,81666,US,3,0,0,0,healthcare,medium
+BI Analyst,EN,PT,12000,US,8,0,0,0,AI,medium
+Machine Learning Engineer,MI,FT,104697,CH,8,0,0,0,healthcare,high
+Machine Learning Developer,EN,FT,33000,DE,5,0,1,0,cybersecurity,high
+Machine Learning Scientist,EN,FT,34672,DE,8,0,0,0,healthcare,medium
+Machine Learning Engineer,SE,FT,201000,US,6,0,0,0,cybersecurity,low
+Machine Learning Engineer,SE,FT,119000,US,4,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,175000,US,4,0,0,0,finance,low
+Data Engineer,SE,FT,150000,US,7,0,0,0,cybersecurity,medium
+Data Analyst,SE,FT,154560,US,7,0,0,0,cybersecurity,high
+Data Analyst,SE,FT,123648,US,4,0,0,0,webdev,low
+Data Analyst,SE,FT,130000,US,9,0,0,0,AI,medium
+Data Analyst,SE,FT,100000,US,7,0,0,0,finance,low
+Data Engineer,MI,FT,170000,US,5,0,0,0,finance,low
+Data Engineer,MI,FT,145000,US,8,0,0,0,finance,low
+Data Engineer,SE,FT,135000,US,4,0,0,0,webdev,medium
+Data Engineer,SE,FT,100000,US,7,0,0,0,cybersecurity,high
+Data Scientist,SE,FT,247500,US,4,1,0,0,AI,high
+Data Scientist,SE,FT,172200,US,6,1,0,0,healthcare,low
+Data Scientist,SE,FT,177500,US,3,1,0,0,cybersecurity,medium
+Data Scientist,SE,FT,134000,US,8,1,0,0,webdev,medium
+Data Scientist,SE,FT,185900,US,4,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,129300,US,3,1,0,0,cybersecurity,low
+Data Architect,SE,FT,192564,US,7,0,0,0,webdev,low
+Data Architect,SE,FT,144854,US,3,0,0,0,finance,high
+Data Analyst,SE,FT,130000,US,8,0,0,0,finance,medium
+Data Analyst,SE,FT,105000,US,4,0,0,0,AI,medium
+Data Engineer,SE,FT,179305,US,6,0,0,0,AI,low
+Data Engineer,SE,FT,142127,US,9,0,0,0,finance,medium
+Data Engineer,SE,FT,315000,US,7,0,0,0,healthcare,low
+Data Engineer,SE,FT,225000,US,4,0,0,0,cybersecurity,low
+Data Scientist,SE,FT,243900,US,8,1,0,0,healthcare,medium
+Data Scientist,SE,FT,156600,US,7,1,0,0,cybersecurity,low
+Data Analyst,MI,FT,206000,US,5,0,0,0,finance,medium
+Data Analyst,MI,FT,160000,US,3,0,0,0,AI,low
+Data Analyst,MI,FT,109000,US,9,0,0,0,AI,medium
+Data Analyst,MI,FT,79000,US,8,0,0,0,healthcare,low
+Data Analyst,MI,FT,160000,US,5,0,0,0,AI,low
+Data Analyst,MI,FT,109000,US,4,0,0,0,finance,low
+Data Scientist Lead,MI,FT,89306,AT,6,1,0,0,healthcare,low
+Data Engineer,SE,FT,182500,US,7,0,0,0,cybersecurity,high
+Data Engineer,SE,FT,128500,US,3,0,0,0,AI,low
+Data Engineer,MI,FT,160000,US,7,0,0,0,webdev,medium
+Data Engineer,MI,FT,90000,US,9,0,0,0,AI,high
+Data Manager,EN,FT,77300,US,4,0,0,0,cybersecurity,low
+Data Manager,EN,FT,45600,US,7,0,0,0,healthcare,low
+Data Analyst,SE,FT,127000,US,3,0,0,0,cybersecurity,medium
+Data Analyst,SE,FT,110000,US,4,0,0,0,webdev,high
+Data Architect,SE,FT,210000,US,7,0,0,0,finance,high
+Data Architect,SE,FT,136000,US,6,0,0,0,AI,low
+Cloud Data Engineer,SE,FT,12608,SK,8,0,0,0,healthcare,medium
+Data Engineer,SE,FT,170000,US,4,0,0,0,finance,low
+Data Engineer,SE,FT,140000,US,8,0,0,0,cybersecurity,high
+Data Engineer,SE,FT,247500,US,4,0,0,0,healthcare,high
+Data Engineer,SE,FT,172200,US,6,0,0,0,finance,low
+Data Engineer,SE,FT,225000,US,8,0,0,0,healthcare,low
+Data Engineer,SE,FT,184100,US,5,0,0,0,webdev,low
+Machine Learning Engineer,MI,FT,130000,US,3,0,0,0,webdev,low
+Machine Learning Engineer,MI,FT,90000,US,5,0,0,0,AI,medium
+Data Scientist,MI,FT,120000,US,7,1,0,0,AI,low
+Data Scientist,MI,FT,100000,US,6,1,0,0,webdev,low
+Data Scientist,MI,FT,85000,US,5,1,0,0,healthcare,low
+Data Scientist,MI,FT,78000,US,4,1,0,0,webdev,high
+Data Engineer,SE,FT,161000,US,7,0,0,0,AI,medium
+Data Engineer,SE,FT,110000,US,7,0,0,0,webdev,low
+Data Scientist,SE,FT,136000,US,5,1,0,0,webdev,low
+Data Scientist,SE,FT,104000,US,5,1,0,0,healthcare,high
+Data Scientist,SE,FT,47280,ES,6,1,0,0,finance,medium
+Data Scientist,SE,FT,37824,ES,3,1,0,0,AI,low
+Head of Data,EX,FT,205000,US,5,0,0,0,healthcare,low
+Head of Data,EX,FT,160000,US,9,0,0,0,webdev,low
+Data Analyst,SE,FT,169000,US,5,0,0,0,webdev,low
+Data Analyst,SE,FT,110600,US,8,0,0,0,finance,low
+Data Engineer,EN,FT,61566,GB,4,0,0,0,AI,high
+Data Engineer,EN,FT,49253,GB,9,0,0,0,AI,low
+Data Engineer,SE,FT,160000,US,9,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,130000,US,8,0,0,0,AI,low
+Data Scientist,SE,FT,245000,US,8,1,0,0,finance,medium
+Data Scientist,SE,FT,180000,US,7,1,0,0,cybersecurity,medium
+Data Engineer,SE,FT,135000,US,3,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,100000,US,4,0,0,0,webdev,low
+Data Engineer,SE,FT,220000,US,6,0,0,0,webdev,medium
+Data Engineer,SE,FT,150000,US,9,0,0,0,AI,low
+Data Scientist,SE,FT,198440,US,6,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,144000,US,5,1,0,0,webdev,low
+Data Engineer,SE,FT,240000,US,5,0,0,0,finance,high
+Data Engineer,SE,FT,170000,US,6,0,0,0,webdev,low
+Data Scientist,SE,FT,198440,US,5,1,0,0,webdev,medium
+Data Scientist,SE,FT,144000,US,3,1,0,0,cybersecurity,low
+Data Analyst,MI,FT,150000,US,8,0,0,0,cybersecurity,medium
+Data Analyst,MI,FT,100000,US,5,0,0,0,healthcare,low
+Data Analyst,SE,FT,120000,US,7,0,0,0,finance,medium
+Data Analyst,SE,FT,95000,US,5,0,0,0,cybersecurity,low
+Data Scientist,MI,FT,57872,GB,4,1,0,0,AI,medium
+Data Analyst,EN,FT,64000,US,3,0,0,0,finance,medium
+Data Scientist,EN,FT,39925,FR,4,1,0,0,finance,low
+Machine Learning Engineer,SE,FT,187200,CA,4,0,0,0,cybersecurity,low
+Machine Learning Engineer,SE,FT,116100,CA,7,0,0,0,finance,low
+Data Analyst,SE,FT,150000,US,3,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,127000,US,3,0,0,0,webdev,medium
+Data Engineer,SE,FT,275000,US,3,0,0,0,healthcare,low
+Data Engineer,SE,FT,166000,US,3,0,0,0,webdev,low
+Data Scientist,SE,FT,159699,US,3,1,0,0,cybersecurity,medium
+Data Scientist,SE,FT,138938,US,7,1,0,0,cybersecurity,low
+BI Analyst,EN,FT,76000,US,5,0,0,0,webdev,low
+Data Analyst,SE,FT,166700,US,4,0,0,0,AI,low
+Data Analyst,SE,FT,119000,US,3,0,0,0,AI,high
+Data Analyst,SE,FT,130000,US,9,0,0,0,AI,medium
+Data Analyst,SE,FT,100000,US,5,0,0,0,cybersecurity,medium
+Analytics Engineer,SE,FT,103432,GB,5,0,0,0,finance,low
+Analytics Engineer,SE,FT,92350,GB,4,0,0,0,cybersecurity,medium
+Data Analyst,SE,FT,80000,US,7,0,0,0,finance,low
+Data Analyst,SE,FT,52500,US,6,0,0,0,webdev,low
+Data Engineer,SE,FT,236000,US,6,0,0,0,healthcare,low
+Data Engineer,SE,FT,182000,US,5,0,0,0,finance,low
+Data Scientist,SE,FT,180000,US,8,1,0,0,AI,low
+Data Scientist,SE,FT,140000,US,8,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,225000,US,4,1,0,0,webdev,low
+Data Scientist,SE,FT,156400,US,6,1,0,0,AI,low
+Data Analyst,SE,FT,135000,US,5,0,0,0,webdev,medium
+Data Analyst,SE,FT,100000,US,7,0,0,0,healthcare,low
+Machine Learning Engineer,SE,FT,204500,US,6,0,0,0,cybersecurity,medium
+Machine Learning Engineer,SE,FT,142200,US,5,0,0,0,cybersecurity,low
+Research Engineer,MI,FT,240000,US,5,0,0,0,healthcare,medium
+Data Analyst,EN,PT,125404,US,3,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,300000,US,7,0,0,0,finance,low
+Data Engineer,SE,FT,130000,US,3,0,0,0,webdev,low
+Data Engineer,SE,FT,195000,US,4,0,0,0,AI,medium
+Data Engineer,SE,FT,175000,US,3,0,0,0,healthcare,medium
+Data Engineer,SE,FT,155000,US,9,0,0,0,finance,low
+Data Engineer,SE,FT,110000,US,3,0,0,0,AI,low
+Data Operations Analyst,SE,FT,123000,US,9,0,0,0,AI,medium
+Data Operations Analyst,SE,FT,92250,US,6,0,0,0,healthcare,medium
+Data Engineer,SE,FT,170000,US,8,0,0,0,finance,low
+Data Engineer,SE,FT,150000,US,5,0,0,0,AI,low
+ML Engineer,MI,FT,180000,US,9,0,0,0,AI,low
+ML Engineer,MI,FT,100000,US,7,0,0,0,finance,medium
+Data Engineer,SE,FT,97000,US,3,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,90000,US,9,0,0,0,AI,high
+Data Engineer,SE,FT,200000,US,7,0,0,0,webdev,low
+Data Engineer,SE,FT,160000,US,8,0,0,0,finance,low
+Machine Learning Engineer,SE,FT,210000,US,8,0,0,0,AI,low
+Machine Learning Engineer,SE,FT,180000,US,3,0,0,0,healthcare,high
+Data Engineer,SE,FT,260000,US,4,0,0,0,webdev,medium
+Data Engineer,SE,FT,180000,US,3,0,0,0,AI,low
+Analytics Engineer,EX,FT,210000,US,6,0,0,0,webdev,medium
+Analytics Engineer,EX,FT,157000,US,9,0,0,0,webdev,low
+Data Scientist,EN,FT,180000,US,5,1,0,0,cybersecurity,low
+Data Scientist,EN,FT,100000,US,4,1,0,0,webdev,low
+Data Analyst,MI,FT,80000,US,3,0,0,0,cybersecurity,low
+Data Analyst,MI,FT,52500,US,7,0,0,0,finance,low
+Data Architect,SE,FT,128000,US,4,0,0,0,cybersecurity,high
+Data Architect,SE,FT,81500,US,9,0,0,0,healthcare,low
+Data Operations Engineer,SE,FT,105000,US,4,0,0,0,AI,high
+Data Operations Engineer,SE,FT,70000,US,9,0,0,0,finance,low
+Data Scientist,SE,FT,175000,US,3,1,0,0,finance,medium
+Data Scientist,SE,FT,122500,US,9,1,0,0,healthcare,low
+Data Engineer,SE,FT,171000,US,4,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,117000,US,7,0,0,0,AI,low
+Data Scientist,SE,FT,202800,US,8,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,104300,US,4,1,0,0,webdev,medium
+Data Analyst,SE,FT,50432,ES,9,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,36773,ES,8,0,0,0,finance,medium
+Data Engineer,SE,FT,197000,US,9,0,0,0,AI,low
+Data Engineer,SE,FT,99000,US,7,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,160000,US,9,0,0,0,AI,low
+Data Engineer,SE,FT,110000,US,3,0,0,0,AI,high
+Data Scientist,SE,FT,185900,US,5,1,0,0,webdev,medium
+Data Scientist,SE,FT,129300,US,4,1,0,0,webdev,low
+Data Scientist,MI,FT,30000,MX,5,1,0,0,finance,low
+Analytics Engineer,MI,FT,78000,BR,9,0,0,0,healthcare,low
+Analytics Engineer,MI,FT,48000,BR,7,0,0,0,AI,high
+Data Engineer,SE,FT,170000,US,4,0,0,0,healthcare,medium
+Data Engineer,SE,FT,130000,US,9,0,0,0,finance,low
+Data Analyst,SE,FT,150000,US,8,0,0,0,AI,low
+Data Analyst,SE,FT,95000,US,6,0,0,0,AI,low
+Data Engineer,MI,FT,78000,BR,9,0,0,0,healthcare,high
+Data Engineer,MI,FT,42000,BR,5,0,0,0,cybersecurity,low
+Data Architect,SE,FT,345600,US,4,0,0,0,webdev,medium
+Data Architect,SE,FT,230400,US,5,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,145000,US,4,0,0,0,healthcare,medium
+Data Engineer,SE,FT,115000,US,9,0,0,0,webdev,medium
+BI Analyst,MI,FT,78000,BR,3,0,0,0,cybersecurity,medium
+BI Analyst,MI,FT,48000,BR,8,0,0,0,webdev,medium
+Data Analyst,SE,FT,175950,US,9,0,0,0,AI,medium
+Data Analyst,SE,FT,130050,US,5,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,205600,US,6,0,0,0,webdev,low
+Data Engineer,SE,FT,105700,US,6,0,0,0,webdev,low
+Data Analyst,SE,FT,236600,US,7,0,0,0,webdev,high
+Data Analyst,SE,FT,89200,US,4,0,0,0,cybersecurity,low
+Data Scientist,MI,FT,84000,BR,5,1,0,0,finance,medium
+Data Scientist,MI,FT,54000,BR,7,1,0,0,cybersecurity,medium
+Data Scientist,EN,FT,80000,US,5,1,0,0,healthcare,low
+Marketing Data Analyst,SE,FT,200000,GB,4,0,0,0,cybersecurity,low
+Data Scientist,EN,FT,73742,CA,9,1,0,0,webdev,low
+Data Science Lead,SE,FT,165000,US,9,0,0,0,AI,low
+Data Scientist,EN,FT,33246,GB,6,1,0,0,cybersecurity,low
+Data Engineer,SE,FT,185900,US,9,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,129300,US,9,0,0,0,webdev,medium
+Data Analyst,SE,FT,169000,US,3,0,0,0,AI,high
+Data Analyst,SE,FT,110600,US,6,0,0,0,AI,low
+Power BI Developer,EN,FT,5409,IN,7,0,1,0,healthcare,low
+Data Engineer,MI,FT,75050,AU,8,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,225000,US,3,0,0,0,AI,medium
+Data Engineer,SE,FT,184100,US,7,0,0,0,AI,medium
+Data Scientist,SE,FT,185900,US,4,1,0,0,finance,low
+Data Scientist,SE,FT,129300,US,3,1,0,0,finance,low
+Data Scientist,SE,FT,225000,US,7,1,0,0,AI,medium
+Data Scientist,SE,FT,156400,US,4,1,0,0,healthcare,medium
+Data Scientist,SE,FT,185900,US,6,1,0,0,AI,low
+Data Scientist,SE,FT,129300,US,8,1,0,0,webdev,medium
+Machine Learning Engineer,EN,FT,108000,US,4,0,0,0,cybersecurity,low
+Product Data Scientist,SE,FT,8000,SG,9,1,0,0,healthcare,low
+Data Scientist,SE,FT,155000,US,5,1,0,0,webdev,medium
+Data Scientist,SE,FT,38000,US,4,1,0,0,healthcare,medium
+Data Analyst,MI,FT,85000,US,4,0,0,0,webdev,low
+Data Analyst,MI,FT,65000,US,8,0,0,0,cybersecurity,high
+Data Scientist,SE,FT,155000,US,5,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,38000,US,9,1,0,0,finance,medium
+Data Engineer,MI,FT,110820,GB,7,0,0,0,webdev,low
+Data Engineer,MI,FT,92350,GB,7,0,0,0,finance,medium
+Data Scientist,SE,FT,153600,US,4,1,0,0,webdev,high
+Data Scientist,SE,FT,106800,US,5,1,0,0,finance,low
+Data Scientist,SE,FT,185000,US,5,1,0,0,cybersecurity,high
+Data Scientist,SE,FT,50000,US,9,1,0,0,healthcare,medium
+Data Engineer,SE,FT,185900,US,8,0,0,0,finance,medium
+Data Engineer,SE,FT,129300,US,6,0,0,0,webdev,low
+Data Scientist,SE,FT,155000,US,7,1,0,0,webdev,medium
+Data Scientist,SE,FT,38000,US,8,1,0,0,cybersecurity,medium
+Data Scientist,SE,FT,168000,US,3,1,0,0,webdev,low
+Data Scientist,SE,FT,130000,US,7,1,0,0,AI,high
+Data Scientist,SE,FT,123400,US,8,1,0,0,healthcare,low
+Data Scientist,SE,FT,88100,US,7,1,0,0,finance,low
+Data Scientist,SE,FT,120000,US,6,1,0,0,healthcare,low
+Data Scientist,SE,FT,55000,US,3,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,185900,US,6,1,0,0,finance,medium
+Data Scientist,SE,FT,129300,US,9,1,0,0,finance,low
+Data Engineer,SE,FT,191200,US,3,0,0,0,AI,high
+Data Engineer,SE,FT,130000,US,4,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,169000,US,8,0,0,0,webdev,low
+Data Analyst,SE,FT,110600,US,3,0,0,0,AI,low
+Analytics Engineer,SE,FT,150000,US,9,0,0,0,AI,low
+Analytics Engineer,SE,FT,120000,US,9,0,0,0,healthcare,high
+Data Science Consultant,SE,FT,139000,US,6,0,0,0,healthcare,medium
+Data Science Consultant,SE,FT,122000,US,7,0,0,0,healthcare,medium
+Data Scientist,SE,FT,185900,US,3,1,0,0,AI,low
+Data Scientist,SE,FT,129300,US,8,1,0,0,webdev,low
+Data Analyst,SE,FT,139600,US,3,0,0,0,finance,low
+Data Analyst,SE,FT,85700,US,5,0,0,0,healthcare,low
+Data Engineer,SE,FT,185000,US,7,0,0,0,webdev,low
+Data Engineer,SE,FT,50000,US,8,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,185900,US,8,0,0,0,healthcare,low
+Data Engineer,SE,FT,129300,US,4,0,0,0,finance,medium
+Data Scientist,SE,FT,225000,US,6,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,156400,US,4,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,200000,US,8,1,0,0,finance,medium
+Data Scientist,SE,FT,175000,US,7,1,0,0,healthcare,low
+Data Engineer,SE,FT,185900,US,3,0,0,0,AI,medium
+Data Engineer,SE,FT,129300,US,3,0,0,0,finance,medium
+ML Engineer,MI,FT,148500,US,7,0,0,0,finance,low
+ML Engineer,MI,FT,98200,US,8,0,0,0,finance,high
+Data Analyst,SE,FT,115000,US,9,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,95000,US,3,0,0,0,webdev,low
+Data Architect,SE,FT,225000,US,9,0,0,0,AI,medium
+Data Architect,SE,FT,66000,US,3,0,0,0,healthcare,low
+Data Scientist,SE,FT,185000,US,3,1,0,0,healthcare,medium
+Data Scientist,SE,FT,50000,US,6,1,0,0,webdev,medium
+Data Scientist,SE,FT,47280,ES,6,1,0,0,finance,high
+Data Scientist,SE,FT,37824,ES,5,1,0,0,AI,low
+Data Manager,MI,FT,134000,US,4,0,0,0,healthcare,low
+Data Manager,MI,FT,98000,US,7,0,0,0,healthcare,medium
+Data Analyst,MI,FT,105000,US,7,0,0,0,finance,low
+Data Analyst,MI,FT,62000,US,7,0,0,0,webdev,low
+BI Data Analyst,EN,FT,57000,US,5,0,0,0,AI,low
+Big Data Engineer,SE,FT,161311,CA,6,0,0,0,webdev,low
+Data Scientist,MI,FT,144200,US,8,1,0,0,webdev,low
+Data Scientist,MI,FT,115360,US,9,1,0,0,AI,medium
+Data Scientist,MI,FT,83171,AU,9,1,0,0,AI,medium
+Principal Data Architect,SE,FT,38154,IN,8,0,0,0,healthcare,low
+Data Engineer,SE,FT,73546,PT,5,0,0,0,healthcare,low
+Data Engineer,SE,FT,42026,PT,8,0,0,0,AI,low
+Data Engineer,SE,FT,170000,US,7,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,150000,US,4,0,0,0,healthcare,low
+Data Architect,SE,FT,180000,US,3,0,0,0,cybersecurity,medium
+Data Architect,SE,FT,160000,US,9,0,0,0,AI,low
+Data Scientist,MI,FT,108000,US,6,1,0,0,healthcare,medium
+Machine Learning Manager,SE,FT,200000,US,6,0,0,0,webdev,low
+Machine Learning Manager,SE,FT,150000,US,5,0,0,0,AI,medium
+Data Manager,EX,FT,125976,CA,6,0,0,0,finance,low
+Data Engineer,SE,FT,188700,US,7,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,160395,US,9,0,0,0,AI,low
+Data Analyst,SE,FT,115934,US,8,0,0,0,AI,medium
+Data Analyst,SE,FT,81666,US,7,0,0,0,healthcare,medium
+Data Engineer,SE,FT,300000,US,5,0,0,0,healthcare,low
+Data Engineer,SE,FT,225000,US,7,0,0,0,healthcare,medium
+Data Scientist,SE,FT,198440,US,8,1,0,0,finance,low
+Data Scientist,SE,FT,144000,US,4,1,0,0,healthcare,low
+Applied Scientist,SE,FT,191475,US,5,0,0,0,AI,low
+Applied Scientist,SE,FT,141525,US,4,0,0,0,healthcare,low
+Data Analyst,SE,FT,50432,ES,3,0,0,0,webdev,medium
+Data Analyst,SE,FT,36773,ES,4,0,0,0,healthcare,medium
+Data Scientist,MI,FT,75648,DE,3,1,0,0,finance,low
+Lead Data Scientist,SE,FT,156868,US,3,1,0,0,webdev,low
+BI Analyst,SE,FT,200000,NG,4,0,0,0,AI,medium
+Data Scientist,SE,FT,198440,US,5,1,0,0,AI,high
+Data Scientist,SE,FT,144000,US,8,1,0,0,cybersecurity,low
+Lead Machine Learning Engineer,SE,FT,69344,PT,7,0,0,0,webdev,high
+NLP Engineer,MI,FT,5132,CZ,7,0,0,0,cybersecurity,low
+Data Analyst,SE,CT,90000,US,8,0,0,0,webdev,low
+Research Scientist,MI,FT,126080,DE,9,0,0,0,webdev,medium
+Research Scientist,MI,FT,84053,DE,9,0,0,0,finance,low
+Data Engineer,SE,FT,200000,US,3,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,180000,US,3,0,0,0,finance,low
+Analytics Engineer,MI,FT,108000,US,5,0,0,0,webdev,medium
+Analytics Engineer,MI,FT,85000,US,6,0,0,0,AI,medium
+Machine Learning Engineer,SE,FT,210000,US,4,0,0,0,webdev,low
+Machine Learning Engineer,SE,FT,180000,US,3,0,0,0,finance,low
+Data Engineer,SE,FT,165000,US,7,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,132000,US,5,0,0,0,cybersecurity,low
+Analytics Engineer,SE,FT,130000,US,4,0,0,0,finance,low
+Analytics Engineer,SE,FT,110000,US,5,0,0,0,cybersecurity,medium
+BI Data Analyst,MI,FT,45050,AU,4,0,0,0,healthcare,low
+Data Analyst,EN,FT,42028,AU,4,0,0,0,AI,low
+Data Analytics Engineer,MI,FT,135000,US,8,0,0,0,AI,low
+Data Engineer,SE,FT,178800,US,3,0,0,0,AI,low
+Data Engineer,SE,FT,132100,US,5,0,0,0,cybersecurity,high
+Data Analyst,EN,FT,20000,US,5,0,0,0,cybersecurity,low
+Machine Learning Engineer,SE,FT,140000,CA,8,0,0,0,webdev,low
+Machine Learning Engineer,SE,FT,110000,CA,7,0,0,0,webdev,low
+Data Engineer,SE,FT,160000,US,7,0,0,0,AI,low
+Data Engineer,SE,FT,85000,US,9,0,0,0,healthcare,low
+ETL Developer,SE,FT,250000,US,3,0,1,0,webdev,low
+ETL Developer,SE,FT,63000,US,3,0,1,0,webdev,low
+Data Engineer,EX,FT,187200,US,6,0,0,0,cybersecurity,low
+Data Engineer,EX,FT,116100,US,8,0,0,0,healthcare,low
+Data Scientist,MI,FT,10000,TR,7,1,0,0,AI,low
+Data Engineer,SE,FT,200000,US,4,0,0,0,webdev,high
+Data Engineer,SE,FT,145000,US,5,0,0,0,healthcare,low
+Data Engineer,SE,FT,229998,US,3,0,0,0,healthcare,low
+Data Engineer,SE,FT,154545,US,5,0,0,0,AI,low
+Data Scientist,SE,FT,215000,US,5,1,0,0,healthcare,low
+Data Scientist,SE,FT,159000,US,6,1,0,0,healthcare,medium
+Data Engineer,SE,FT,229998,US,7,0,0,0,healthcare,low
+Data Engineer,SE,FT,154545,US,3,0,0,0,webdev,medium
+AI Scientist,EN,FT,50000,US,5,0,0,0,AI,low
+Data Scientist Lead,SE,FT,183000,US,3,1,0,0,healthcare,low
+Data Analyst,SE,FT,99750,US,4,0,0,0,healthcare,medium
+Data Analyst,SE,FT,68400,US,6,0,0,0,webdev,low
+Data Scientist,SE,FT,236900,US,4,1,0,0,AI,low
+Data Scientist,SE,FT,159200,US,3,1,0,0,cybersecurity,low
+Data Science Manager,SE,FT,243225,US,9,0,0,0,webdev,medium
+Data Science Manager,SE,FT,179775,US,3,0,0,0,AI,low
+Data Engineer,SE,FT,175000,US,7,0,0,0,healthcare,medium
+Data Engineer,SE,FT,150000,US,5,0,0,0,AI,low
+Machine Learning Engineer,SE,FT,210000,US,5,0,0,0,AI,medium
+Machine Learning Engineer,SE,FT,180000,US,4,0,0,0,AI,low
+Data Scientist,SE,FT,148000,US,6,1,0,0,cybersecurity,medium
+Data Scientist,SE,FT,128000,US,9,1,0,0,AI,low
+Data Architect,SE,FT,190000,US,8,0,0,0,cybersecurity,high
+Data Architect,SE,FT,135000,US,5,0,0,0,healthcare,low
+Analytics Engineer,SE,FT,130000,US,7,0,0,0,cybersecurity,low
+Analytics Engineer,SE,FT,110000,US,4,0,0,0,healthcare,low
+Data Scientist,SE,FT,191475,US,4,1,0,0,healthcare,low
+Data Scientist,SE,FT,141525,US,8,1,0,0,cybersecurity,low
+Data Engineer,SE,FT,160000,US,7,0,0,0,webdev,high
+Data Engineer,SE,FT,85000,US,6,0,0,0,finance,high
+Data Scientist,SE,FT,218000,US,7,1,0,0,AI,low
+Data Scientist,SE,FT,145300,US,6,1,0,0,finance,high
+ML Engineer,SE,FT,195400,US,7,0,0,0,AI,low
+ML Engineer,SE,FT,131300,US,7,0,0,0,AI,low
+Data Specialist,EN,FT,105000,US,3,0,0,0,healthcare,medium
+Data Scientist,SE,FT,191475,US,4,1,0,0,AI,medium
+Data Scientist,SE,FT,141525,US,7,1,0,0,AI,high
+Data Scientist,SE,FT,207000,US,8,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,153000,US,7,1,0,0,finance,medium
+Data Scientist,SE,FT,191475,US,5,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,141525,US,4,1,0,0,AI,low
+Data Analyst,SE,FT,110000,US,5,0,0,0,healthcare,low
+Data Analyst,SE,FT,99000,US,4,0,0,0,cybersecurity,high
+Data Scientist,SE,FT,191475,US,5,1,0,0,cybersecurity,medium
+Data Scientist,SE,FT,141525,US,7,1,0,0,webdev,medium
+Data Scientist,SE,FT,191475,US,7,1,0,0,AI,low
+Data Scientist,SE,FT,141525,US,3,1,0,0,healthcare,low
+Data Scientist,SE,FT,191475,US,8,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,141525,US,5,1,0,0,cybersecurity,low
+Machine Learning Engineer,SE,FT,200000,PR,6,0,0,0,healthcare,low
+Machine Learning Engineer,SE,FT,135000,PR,3,0,0,0,AI,medium
+Data Scientist,SE,FT,207000,US,5,1,0,0,webdev,low
+Data Scientist,SE,FT,153000,US,5,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,191475,US,3,1,0,0,webdev,low
+Data Scientist,SE,FT,141525,US,7,1,0,0,finance,low
+Data Scientist,SE,FT,191475,US,5,1,0,0,AI,low
+Data Scientist,SE,FT,141525,US,7,1,0,0,finance,high
+Data Scientist,SE,FT,191475,US,3,1,0,0,finance,medium
+Data Scientist,SE,FT,141525,US,7,1,0,0,finance,medium
+Data Engineer,SE,FT,195700,US,4,0,0,0,AI,low
+Data Engineer,SE,FT,130500,US,6,0,0,0,AI,low
+ML Engineer,SE,FT,130000,US,9,0,0,0,healthcare,low
+ML Engineer,SE,FT,84000,US,5,0,0,0,webdev,medium
+Data Operations Engineer,MI,FT,100000,US,8,0,0,0,webdev,medium
+Data Operations Engineer,MI,FT,60000,US,6,0,0,0,healthcare,low
+Data Engineer,MI,FT,80036,GB,9,0,0,0,healthcare,low
+Data Engineer,MI,FT,67723,GB,7,0,0,0,finance,low
+Data Engineer,SE,FT,141300,US,5,0,0,0,healthcare,medium
+Data Engineer,SE,FT,102100,US,7,0,0,0,cybersecurity,high
+Data Analyst,SE,FT,50432,ES,4,0,0,0,webdev,low
+Data Analyst,SE,FT,36773,ES,3,0,0,0,healthcare,low
+Business Data Analyst,MI,FT,150000,US,5,0,0,0,cybersecurity,low
+Data Scientist,MI,FT,102200,GB,9,1,0,0,cybersecurity,low
+Data Scientist,EN,FT,22892,IN,9,1,0,0,cybersecurity,low
+Data Analyst,SE,FT,144000,US,4,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,113000,US,4,0,0,0,finance,medium
+AI Scientist,EN,FT,31520,ES,5,0,0,0,cybersecurity,medium
+Data Architect,SE,FT,195400,US,7,0,0,0,finance,low
+Data Architect,SE,FT,131300,US,8,0,0,0,finance,medium
+Machine Learning Engineer,SE,FT,195400,US,9,0,0,0,cybersecurity,low
+Machine Learning Engineer,SE,FT,131300,US,9,0,0,0,webdev,low
+Data Architect,SE,FT,195400,US,4,0,0,0,cybersecurity,low
+Data Architect,SE,FT,131300,US,6,0,0,0,cybersecurity,low
+Data Architect,SE,FT,190000,US,4,0,0,0,cybersecurity,low
+Data Architect,SE,FT,135000,US,8,0,0,0,webdev,low
+Data Engineer,SE,FT,135000,US,7,0,0,0,AI,low
+Data Engineer,SE,FT,80000,US,7,0,0,0,AI,high
+BI Data Analyst,EN,FT,8050,IN,6,0,0,0,finance,low
+Data Engineer,SE,FT,160000,US,9,0,0,0,finance,low
+Data Engineer,SE,FT,85000,US,4,0,0,0,webdev,low
+Data Engineer,SE,FT,178800,US,7,0,0,0,healthcare,medium
+Data Engineer,SE,FT,132100,US,8,0,0,0,AI,low
+NLP Engineer,MI,CT,60000,US,5,0,0,0,finance,medium
+Machine Learning Engineer,SE,FT,63040,FI,3,0,0,0,AI,low
+Business Data Analyst,EN,FT,50000,AS,3,0,0,0,webdev,low
+Data Engineer,SE,FT,140000,US,3,0,0,0,webdev,low
+Data Engineer,SE,FT,105000,US,9,0,0,0,healthcare,low
+Data Engineer,MI,FT,80036,GB,4,0,0,0,healthcare,low
+Data Engineer,MI,FT,67723,GB,6,0,0,0,webdev,low
+Analytics Engineer,SE,FT,190000,US,7,0,0,0,finance,low
+Analytics Engineer,SE,FT,140000,US,5,0,0,0,AI,low
+Data Operations Engineer,MI,FT,100000,US,8,0,0,0,cybersecurity,low
+Data Operations Engineer,MI,FT,60000,US,5,0,0,0,healthcare,high
+Data Scientist,SE,FT,180000,US,8,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,165000,US,9,1,0,0,finance,medium
+Applied Machine Learning Scientist,SE,FT,108000,US,4,0,0,0,healthcare,medium
+Machine Learning Research Engineer,EN,FT,20000,FR,3,0,0,0,cybersecurity,low
+Data Architect,SE,FT,190000,US,4,0,0,0,finance,low
+Data Architect,SE,FT,135000,US,9,0,0,0,AI,low
+Data Scientist,SE,FT,179400,US,6,1,0,0,finance,medium
+Data Scientist,SE,FT,154000,US,6,1,0,0,healthcare,medium
+Machine Learning Scientist,SE,FT,193900,US,9,0,0,0,webdev,medium
+Machine Learning Scientist,SE,FT,129300,US,8,0,0,0,AI,high
+Data Science Manager,EX,FT,222640,US,7,0,0,0,cybersecurity,medium
+Data Science Manager,EX,FT,182160,US,7,0,0,0,healthcare,low
+Data Engineer,MI,FT,150000,US,8,0,0,0,webdev,low
+Data Engineer,MI,FT,100000,US,6,0,0,0,finance,medium
+Analytics Engineer,SE,FT,122500,US,6,0,0,0,webdev,low
+Analytics Engineer,SE,FT,100000,US,6,0,0,0,healthcare,low
+Data Engineer,EX,FT,297500,US,4,0,0,0,healthcare,medium
+Data Engineer,EX,FT,260000,US,6,0,0,0,webdev,low
+Machine Learning Developer,EN,FT,15000,TH,5,0,1,0,finance,high
+Data Engineering Manager,SE,FT,193000,US,3,0,0,0,webdev,medium
+Data Scientist,EN,FT,93000,US,6,1,0,0,healthcare,low
+Data Scientist,EN,FT,73000,US,8,1,0,0,healthcare,high
+Data Operations Engineer,MI,FT,100000,US,3,0,0,0,cybersecurity,low
+Data Operations Engineer,MI,FT,60000,US,4,0,0,0,cybersecurity,low
+Data Analyst,EN,FT,7799,BR,8,0,0,0,AI,low
+Data Scientist,SE,FT,136994,US,3,1,0,0,healthcare,low
+Data Scientist,SE,FT,101570,US,8,1,0,0,cybersecurity,low
+ETL Developer,SE,FT,250000,US,4,0,1,0,webdev,low
+ETL Developer,SE,FT,63000,US,5,0,1,0,finance,low
+Data Manager,MI,FT,134000,US,4,0,0,0,webdev,low
+Data Manager,MI,FT,98000,US,4,0,0,0,finance,medium
+Data Scientist,SE,FT,191475,US,8,1,0,0,cybersecurity,medium
+Data Scientist,SE,FT,141525,US,9,1,0,0,AI,low
+Director of Data Science,SE,FT,57786,FR,7,0,0,0,webdev,low
+Data Analyst,MI,FT,136000,US,6,0,0,0,webdev,low
+Data Analyst,MI,FT,112000,US,6,0,0,0,webdev,low
+Data Scientist,SE,FT,172000,US,5,1,0,0,finance,medium
+Data Scientist,SE,FT,140000,US,5,1,0,0,cybersecurity,medium
+Data Engineer,SE,FT,215000,US,6,0,0,0,webdev,low
+Data Engineer,SE,FT,164000,US,7,0,0,0,webdev,low
+Data Engineer,SE,FT,300000,US,6,0,0,0,AI,low
+Data Engineer,SE,FT,130000,US,9,0,0,0,AI,medium
+Data Engineer,SE,FT,250000,US,7,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,63000,US,5,0,0,0,cybersecurity,high
+Data Engineer,SE,FT,180000,US,3,0,0,0,healthcare,medium
+Data Engineer,SE,FT,150000,US,8,0,0,0,AI,low
+Data Engineer,EN,FT,45390,GB,9,0,0,0,healthcare,low
+Data Engineer,SE,FT,250000,US,9,0,0,0,finance,high
+Data Engineer,SE,FT,63000,US,5,0,0,0,healthcare,low
+Data Scientist,SE,FT,191475,US,5,1,0,0,webdev,low
+Data Scientist,SE,FT,141525,US,4,1,0,0,healthcare,low
+Data Analyst,MI,FT,97500,US,9,0,0,0,cybersecurity,medium
+Applied Scientist,SE,FT,212800,US,4,0,0,0,finance,medium
+Applied Scientist,SE,FT,142800,US,4,0,0,0,webdev,medium
+Data Scientist,MI,FT,73546,NL,8,1,0,0,healthcare,medium
+Data Scientist,EN,FT,50000,DE,4,1,0,0,finance,medium
+Data Analyst,EN,FT,6359,IN,7,0,0,0,finance,high
+Data Scientist,SE,FT,151800,US,6,1,0,0,webdev,low
+Data Scientist,SE,FT,130240,US,3,1,0,0,healthcare,low
+Analytics Engineer,SE,FT,165000,US,5,0,0,0,finance,medium
+Analytics Engineer,SE,FT,140250,US,7,0,0,0,finance,medium
+Data Engineer,SE,FT,135000,US,3,0,0,0,AI,medium
+Data Engineer,SE,FT,115000,US,9,0,0,0,finance,low
+Data Scientist,SE,FT,179400,US,9,1,0,0,AI,medium
+Data Scientist,SE,FT,154000,US,9,1,0,0,healthcare,medium
+Data Scientist,SE,FT,191475,US,7,1,0,0,healthcare,low
+Data Scientist,SE,FT,141525,US,7,1,0,0,healthcare,low
+Data Scientist,SE,FT,191475,US,5,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,141525,US,6,1,0,0,healthcare,low
+Data Scientist,SE,FT,191475,US,4,1,0,0,finance,low
+Data Scientist,SE,FT,141525,US,9,1,0,0,webdev,low
+Financial Data Analyst,MI,FT,75000,US,8,0,0,0,AI,low
+Data Engineer,MI,FT,84053,GR,6,0,0,0,cybersecurity,medium
+Data Engineer,MI,FT,73546,GR,8,0,0,0,healthcare,medium
+Data Engineer,MI,FT,98506,GB,5,0,0,0,healthcare,medium
+Data Engineer,MI,FT,86193,GB,5,0,0,0,webdev,low
+Data Engineer,MI,FT,84053,ES,5,0,0,0,webdev,low
+Data Engineer,MI,FT,73546,ES,3,0,0,0,cybersecurity,medium
+Data Scientist,SE,FT,191475,US,8,1,0,0,AI,low
+Data Scientist,SE,FT,141525,US,6,1,0,0,healthcare,high
+Data Scientist,SE,FT,191475,US,6,1,0,0,cybersecurity,medium
+Data Scientist,SE,FT,141525,US,7,1,0,0,finance,low
+Analytics Engineer,SE,FT,102663,GB,7,0,0,0,finance,high
+Analytics Engineer,SE,FT,80041,GB,9,0,0,0,cybersecurity,low
+Data Scientist,SE,FT,191475,US,7,1,0,0,healthcare,low
+Data Scientist,SE,FT,141525,US,5,1,0,0,cybersecurity,medium
+Data Engineer,SE,FT,104611,GB,6,0,0,0,healthcare,low
+Data Engineer,SE,FT,82280,GB,8,0,0,0,webdev,high
+Data Scientist,SE,FT,191475,US,5,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,141525,US,3,1,0,0,healthcare,low
+Data Scientist,SE,FT,191475,US,7,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,141525,US,5,1,0,0,cybersecurity,medium
+Data Analyst,SE,FT,115000,US,5,0,0,0,healthcare,low
+Data Scientist,EN,FT,31520,ES,3,1,0,0,healthcare,low
+Data Operations Analyst,SE,FT,81000,US,4,0,0,0,AI,medium
+Data Operations Analyst,SE,FT,66000,US,6,0,0,0,cybersecurity,low
+Data Analyst,EN,FT,46000,US,8,0,0,0,finance,medium
+Data Engineer,EN,FT,80000,US,9,0,0,0,cybersecurity,low
+Machine Learning Scientist,EX,FT,200000,US,4,0,0,0,cybersecurity,medium
+Machine Learning Scientist,EX,FT,180000,US,7,0,0,0,healthcare,medium
+AI Scientist,EX,FT,200000,US,5,0,0,0,cybersecurity,low
+Data Scientist,SE,FT,204100,US,3,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,136100,US,3,1,0,0,finance,medium
+Analytics Engineer,SE,FT,250000,US,6,0,0,0,healthcare,low
+Analytics Engineer,SE,FT,63000,US,4,0,0,0,cybersecurity,high
+Data Scientist,MI,FT,118208,GB,9,1,0,0,webdev,low
+Data Scientist,MI,FT,110820,GB,6,1,0,0,AI,low
+Computer Vision Software Engineer,EN,PT,19073,DK,5,0,0,0,finance,low
+Data Scientist,SE,FT,191475,US,6,1,0,0,cybersecurity,high
+Data Scientist,SE,FT,141525,US,8,1,0,0,webdev,low
+Data Scientist,SE,FT,191475,US,3,1,0,0,cybersecurity,medium
+Data Scientist,SE,FT,141525,US,3,1,0,0,cybersecurity,medium
+Data Scientist,SE,FT,191475,US,7,1,0,0,healthcare,low
+Data Scientist,SE,FT,141525,US,7,1,0,0,healthcare,low
+Data Specialist,SE,FT,95000,US,9,0,0,0,healthcare,medium
+Data Specialist,SE,FT,70000,US,5,0,0,0,webdev,low
+Applied Machine Learning Scientist,MI,FT,75000,US,8,0,0,0,cybersecurity,medium
+Analytics Engineer,MI,CT,7500,BO,4,0,0,0,AI,low
+Data Analyst,MI,FT,113000,US,6,0,0,0,finance,low
+Data Scientist,SE,FT,170000,US,9,1,0,0,healthcare,medium
+Data Scientist,SE,FT,130000,US,5,1,0,0,healthcare,low
+Data Analytics Consultant,MI,FT,113000,US,7,0,0,0,cybersecurity,low
+Product Data Analyst,MI,FT,140000,US,6,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,50000,PH,7,0,0,0,webdev,low
+BI Data Analyst,MI,FT,53368,AU,6,0,0,0,webdev,low
+Data Scientist,SE,FT,175000,US,4,1,0,0,healthcare,medium
+Data Scientist,SE,FT,140000,US,5,1,0,0,cybersecurity,low
+Lead Data Scientist,SE,FT,29944,PT,6,1,0,0,AI,low
+Analytics Engineer,SE,FT,250000,US,8,0,0,0,finance,medium
+Analytics Engineer,SE,FT,63000,US,9,0,0,0,cybersecurity,low
+Data Scientist,SE,FT,160000,US,3,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,119300,US,8,1,0,0,webdev,high
+Research Scientist,MI,FT,145000,US,8,0,0,0,finance,medium
+Data Engineer,SE,FT,105000,US,9,0,0,0,healthcare,low
+Data Engineer,SE,FT,90000,US,3,0,0,0,cybersecurity,medium
+ETL Developer,SE,FT,146200,US,8,0,1,0,healthcare,low
+ETL Developer,SE,FT,124270,US,6,0,1,0,cybersecurity,medium
+Data Scientist,MI,FT,225000,US,6,1,0,0,healthcare,low
+Data Scientist,MI,FT,160000,US,6,1,0,0,finance,low
+Data Scientist,MI,FT,54634,NL,3,1,0,0,webdev,low
+Data Engineer,SE,FT,185800,CA,8,0,0,0,finance,low
+Data Engineer,SE,FT,137400,CA,3,0,0,0,AI,low
+Analytics Engineer,SE,FT,245000,US,6,0,0,0,webdev,high
+Analytics Engineer,SE,FT,180000,US,9,0,0,0,finance,low
+Analytics Engineer,SE,FT,203500,US,8,0,0,0,AI,low
+Analytics Engineer,SE,FT,152000,US,8,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,250000,US,7,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,63000,US,7,0,0,0,healthcare,medium
+Machine Learning Infrastructure Engineer,SE,FT,186000,US,4,0,0,0,webdev,low
+Machine Learning Infrastructure Engineer,SE,FT,148800,US,5,0,0,0,cybersecurity,low
+Lead Machine Learning Engineer,SE,FT,95386,IN,7,0,0,0,webdev,low
+Machine Learning Engineer,MI,FT,128058,GB,3,0,0,0,cybersecurity,medium
+Data Scientist,EN,FT,82000,US,7,1,0,0,healthcare,low
+Data Scientist,EN,PT,110000,FR,4,1,0,0,finance,low
+Applied Machine Learning Scientist,MI,FT,173000,US,8,0,0,0,healthcare,low
+Data Scientist,SE,FT,203500,US,4,1,0,0,AI,low
+Data Scientist,SE,FT,152000,US,8,1,0,0,cybersecurity,low
+Machine Learning Engineer,SE,FT,186000,US,9,0,0,0,AI,medium
+Machine Learning Engineer,SE,FT,148800,US,9,0,0,0,AI,medium
+BI Data Analyst,EN,FT,6270,BR,8,0,0,0,webdev,medium
+Data Science Manager,MI,FT,158000,US,5,0,0,0,cybersecurity,low
+Data Science Manager,MI,FT,134000,US,7,0,0,0,AI,low
+Data Scientist,SE,FT,170000,US,3,1,0,0,finance,low
+Data Scientist,SE,FT,120000,US,3,1,0,0,AI,high
+Analytics Engineer,EX,FT,200000,US,6,0,0,0,finance,low
+Analytics Engineer,EX,FT,150000,US,8,0,0,0,webdev,medium
+Data Analyst,SE,FT,216200,US,3,0,0,0,AI,low
+Data Analyst,SE,FT,144100,US,5,0,0,0,healthcare,low
+Data Scientist,MI,FT,115573,NL,8,1,0,0,webdev,low
+Data Scientist,MI,FT,89306,NL,5,1,0,0,finance,low
+ETL Developer,SE,FT,250000,US,3,0,1,0,webdev,high
+ETL Developer,SE,FT,63000,US,3,0,1,0,AI,high
+Data Engineer,SE,FT,135000,US,6,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,85000,US,3,0,0,0,cybersecurity,low
+Machine Learning Engineer,SE,FT,135000,US,8,0,0,0,finance,high
+Machine Learning Engineer,SE,FT,85000,US,9,0,0,0,finance,medium
+Data Science Manager,SE,FT,206000,US,8,0,0,0,cybersecurity,low
+Data Science Manager,SE,FT,175100,US,8,0,0,0,finance,low
+Machine Learning Engineer,SE,FT,189650,US,6,0,0,0,webdev,low
+Machine Learning Engineer,SE,FT,164996,US,6,0,0,0,healthcare,low
+Data Architect,SE,FT,149040,US,3,0,0,0,healthcare,low
+Data Architect,SE,FT,113900,US,4,0,0,0,webdev,low
+Data Engineer,SE,FT,154000,US,4,0,0,0,healthcare,low
+Data Engineer,SE,FT,126000,US,6,0,0,0,AI,low
+Machine Learning Engineer,SE,FT,200000,US,3,0,0,0,webdev,low
+Machine Learning Engineer,SE,FT,150000,US,4,0,0,0,finance,medium
+Data Engineer,SE,FT,195700,US,3,0,0,0,webdev,medium
+Data Engineer,SE,FT,130500,US,3,0,0,0,cybersecurity,low
+Analytics Engineer,SE,FT,170000,US,3,0,0,0,finance,high
+Analytics Engineer,SE,FT,135000,US,7,0,0,0,cybersecurity,high
+Data Engineer,MI,FT,98506,GB,8,0,0,0,finance,low
+Data Engineer,MI,FT,73880,GB,3,0,0,0,healthcare,low
+Data Analyst,SE,FT,117000,US,7,0,0,0,webdev,medium
+Data Analyst,SE,FT,99450,US,6,0,0,0,AI,medium
+Data Engineer,SE,FT,200000,PR,4,0,0,0,finance,high
+Data Engineer,SE,FT,135000,PR,8,0,0,0,finance,medium
+Machine Learning Engineer,SE,FT,193900,US,9,0,0,0,cybersecurity,medium
+Machine Learning Engineer,SE,FT,129300,US,4,0,0,0,healthcare,low
+Machine Learning Engineer,EN,FT,55410,GB,8,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,86193,GB,9,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,61566,GB,4,0,0,0,healthcare,low
+Data Analyst,SE,FT,175000,US,8,0,0,0,AI,medium
+Data Analyst,SE,FT,130000,US,4,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,188100,US,4,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,139860,US,9,0,0,0,finance,low
+Machine Learning Engineer,SE,FT,248700,US,4,0,0,0,healthcare,low
+Machine Learning Engineer,SE,FT,167100,US,4,0,0,0,webdev,low
+Data Analyst,MI,FT,5723,IN,9,0,0,0,AI,low
+Data Scientist,SE,FT,123400,US,6,1,0,0,AI,medium
+Data Scientist,SE,FT,88100,US,3,1,0,0,healthcare,medium
+BI Data Analyst,MI,FT,50432,DE,5,0,0,0,finance,high
+Data Scientist,SE,FT,245000,US,7,1,0,0,finance,low
+Data Scientist,SE,FT,205000,US,5,1,0,0,healthcare,low
+Data Engineer,SE,FT,141300,US,5,0,0,0,finance,low
+Data Engineer,SE,FT,102100,US,8,0,0,0,AI,low
+Data Architect,SE,FT,141300,US,3,0,0,0,AI,medium
+Data Architect,SE,FT,102100,US,8,0,0,0,webdev,medium
+Data Analyst,EN,FT,50000,AR,3,0,0,0,healthcare,medium
+Data Scientist,EN,FT,84053,BE,9,1,0,0,cybersecurity,low
+Lead Data Scientist,MI,FT,61566,GB,9,1,0,0,cybersecurity,medium
+Data Architect,SE,FT,250000,US,3,0,0,0,webdev,low
+Data Architect,SE,FT,63000,US,4,0,0,0,webdev,medium
+Data Science Manager,SE,FT,189500,US,6,0,0,0,finance,low
+Data Science Manager,SE,FT,140100,US,4,0,0,0,webdev,low
+Data Engineer,SE,FT,177600,US,6,0,0,0,webdev,low
+Data Engineer,SE,FT,131300,US,8,0,0,0,cybersecurity,high
+Data Engineer,MI,FT,24000,US,6,0,0,0,finance,low
+Data Engineer,MI,FT,24000,US,8,0,0,0,webdev,low
+Data Engineer,SE,FT,250000,US,9,0,0,0,webdev,medium
+Data Engineer,SE,FT,63000,US,5,0,0,0,finance,low
+Machine Learning Engineer,SE,FT,202900,US,9,0,0,0,healthcare,low
+Machine Learning Engineer,SE,FT,131300,US,9,0,0,0,finance,low
+Data Engineer,SE,FT,145000,US,5,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,115000,US,6,0,0,0,healthcare,high
+Machine Learning Engineer,EN,FT,115000,US,6,0,0,0,AI,medium
+Machine Learning Engineer,MI,FT,193900,US,8,0,0,0,finance,low
+Machine Learning Engineer,MI,FT,129300,US,4,0,0,0,cybersecurity,high
+Data Scientist,SE,FT,180000,US,8,1,0,0,healthcare,low
+Data Scientist,SE,FT,140000,US,4,1,0,0,finance,low
+Data Analyst,MI,FT,216200,US,9,0,0,0,webdev,low
+Data Analyst,MI,FT,144100,US,5,0,0,0,finance,low
+Machine Learning Scientist,SE,FT,216000,US,9,0,0,0,AI,low
+Machine Learning Scientist,SE,FT,144000,US,3,0,0,0,finance,high
+Data Analyst,EN,FT,150000,US,6,0,0,0,healthcare,medium
+Machine Learning Research Engineer,EN,FT,12171,IN,4,0,0,0,healthcare,low
+Data Scientist,MI,FT,53416,ID,8,1,0,0,finance,low
+Applied Data Scientist,EN,FT,50000,AT,5,1,0,0,healthcare,medium
+Cloud Data Architect,SE,FT,250000,US,4,0,0,0,webdev,high
+Research Scientist,EX,FT,84053,NL,8,0,0,0,finance,medium
+Data Scientist,MI,FT,131752,GB,6,1,0,0,webdev,low
+Analytics Engineer,SE,FT,48000,US,9,0,0,0,webdev,medium
+Data Science Manager,EX,FT,260500,US,6,0,0,0,cybersecurity,low
+Data Science Manager,EX,FT,175100,US,7,0,0,0,finance,low
+Data Engineer,SE,FT,210000,US,3,0,0,0,healthcare,low
+Data Engineer,SE,FT,100000,US,7,0,0,0,webdev,low
+Data Analyst,EN,FT,55000,US,5,0,0,0,cybersecurity,low
+Data Analyst,MI,FT,130000,US,4,0,0,0,finance,low
+Applied Machine Learning Scientist,SE,FT,77119,GB,5,0,0,0,finance,low
+Data Scientist,EN,FT,52008,BE,9,1,0,0,AI,medium
+Applied Machine Learning Scientist,MI,FL,30523,IN,8,0,0,0,AI,low
+Data Engineer,SE,FT,206699,US,6,0,0,0,webdev,low
+Data Engineer,SE,FT,99100,US,7,0,0,0,AI,low
+Analytics Engineer,MI,FT,200000,US,7,0,0,0,webdev,high
+Analytics Engineer,MI,FT,54000,US,9,0,0,0,healthcare,low
+Data Engineer,SE,FT,250000,US,7,0,0,0,webdev,low
+Data Engineer,SE,FT,63000,US,9,0,0,0,AI,low
+Data Architect,SE,FT,250000,US,5,0,0,0,healthcare,medium
+Data Architect,SE,FT,63000,US,6,0,0,0,AI,high
+Data Engineer,SE,FT,250000,US,4,0,0,0,webdev,low
+Data Engineer,SE,FT,63000,US,8,0,0,0,cybersecurity,low
+Analytics Engineer,EN,FT,130000,US,4,0,0,0,finance,high
+Data Engineer,SE,FT,100000,US,5,0,0,0,AI,low
+Data Engineer,SE,FT,80000,US,8,0,0,0,webdev,medium
+Data Scientist,SE,FT,160000,US,7,1,0,0,healthcare,low
+Data Scientist,SE,FT,100000,US,3,1,0,0,AI,low
+Data Specialist,SE,FT,221300,US,5,0,0,0,AI,low
+Data Specialist,SE,FT,148700,US,5,0,0,0,finance,low
+Machine Learning Engineer,EN,FT,30000,GB,6,0,0,0,webdev,medium
+Data Analyst,EN,FT,28368,FR,4,0,0,0,cybersecurity,high
+Data Engineer,MI,FT,91118,GB,5,0,0,0,healthcare,low
+Data Engineer,MI,FT,61566,GB,5,0,0,0,webdev,medium
+Data Scientist,MI,FT,60938,DE,7,1,0,0,healthcare,low
+Data Science Manager,SE,FT,249260,US,7,0,0,0,AI,low
+Data Science Manager,SE,FT,185400,US,8,0,0,0,finance,low
+Data Engineer,SE,FT,170000,US,9,0,0,0,finance,high
+Data Engineer,SE,FT,130000,US,9,0,0,0,cybersecurity,medium
+Data Scientist,MI,FT,80036,GB,3,1,0,0,finance,medium
+Data Analyst,SE,FT,128875,US,9,0,0,0,AI,medium
+Data Analyst,SE,FT,93700,US,6,0,0,0,cybersecurity,medium
+Machine Learning Engineer,SE,FT,180000,US,3,0,0,0,webdev,high
+Machine Learning Engineer,SE,FT,100000,US,8,0,0,0,finance,medium
+Data Analyst,SE,FT,136260,US,7,0,0,0,cybersecurity,high
+Data Analyst,SE,FT,109280,US,9,0,0,0,AI,low
+Data Scientist,SE,FT,160000,US,4,1,0,0,healthcare,low
+Data Scientist,SE,FT,92000,US,7,1,0,0,healthcare,low
+Data Engineer,SE,FT,200000,US,6,0,0,0,AI,low
+Data Engineer,SE,FT,160000,US,7,0,0,0,AI,low
+Data Engineer,MI,FT,135446,GB,6,0,0,0,healthcare,low
+Data Engineer,MI,FT,104663,GB,6,0,0,0,cybersecurity,medium
+Data Analyst,SE,FT,117000,US,6,0,0,0,healthcare,low
+Data Analyst,SE,FT,99450,US,8,0,0,0,AI,low
+Data Engineer,EN,FT,129000,US,6,0,0,0,finance,low
+Data Engineer,EN,FT,86000,US,6,0,0,0,webdev,high
+Data Engineer,EN,FT,13493,IN,4,0,0,0,finance,low
+Data Engineer,EN,FT,13493,IN,3,0,0,0,finance,low
+Data Scientist,SE,FT,160000,US,5,1,0,0,AI,medium
+Data Scientist,SE,FT,119300,US,3,1,0,0,healthcare,medium
+Business Data Analyst,SE,FT,100000,US,6,0,0,0,cybersecurity,low
+Data Scientist,MI,FT,25000,TR,4,1,0,0,finance,low
+Data Analyst,MI,FT,65257,SG,7,0,0,0,healthcare,low
+AI Scientist,MI,FT,200000,US,4,0,0,0,cybersecurity,high
+Machine Learning Developer,EN,FT,180000,US,6,0,1,0,finance,low
+Data Scientist,MI,FT,153000,US,4,1,0,0,cybersecurity,low
+Data Engineer,SE,FT,210000,US,9,0,0,0,healthcare,low
+Data Engineer,SE,FT,100000,US,4,0,0,0,webdev,low
+Data Analyst,SE,FT,150075,US,6,0,0,0,healthcare,medium
+Data Analyst,SE,FT,110925,US,8,0,0,0,AI,low
+Machine Learning Scientist,MI,FT,22800,EG,9,0,0,0,cybersecurity,low
+Data Scientist,SE,FT,160000,US,4,1,0,0,webdev,low
+Data Scientist,SE,FT,92000,US,5,1,0,0,cybersecurity,low
+Machine Learning Engineer,SE,FT,202900,US,5,0,0,0,cybersecurity,low
+Machine Learning Engineer,SE,FT,131300,US,4,0,0,0,finance,medium
+Data Analyst,EN,FT,22809,PT,8,0,0,0,AI,medium
+Data Analyst,EN,FT,15000,ID,7,0,0,0,cybersecurity,high
+Data Engineer,SE,FT,175000,US,6,0,0,0,healthcare,medium
+Data Engineer,SE,FT,135000,US,5,0,0,0,healthcare,medium
+Data Science Manager,SE,FT,133766,AU,7,0,0,0,finance,low
+Machine Learning Engineer,EN,FT,83000,US,4,0,0,0,AI,medium
+Data Engineer,MI,FT,92350,GB,7,0,0,0,AI,medium
+Data Engineer,MI,FT,67723,GB,9,0,0,0,healthcare,medium
+Data Scientist,SE,FT,186000,US,3,1,0,0,webdev,low
+Data Scientist,SE,FT,148800,US,5,1,0,0,finance,low
+Data Analyst,SE,FT,112900,US,4,0,0,0,finance,medium
+Data Analyst,SE,FT,90320,US,6,0,0,0,healthcare,medium
+ML Engineer,SE,FT,240000,US,8,0,0,0,healthcare,high
+ML Engineer,SE,FT,160000,US,9,0,0,0,webdev,low
+Data Science Manager,SE,FT,300000,US,4,0,0,0,webdev,low
+Data Science Manager,SE,FT,200000,US,6,0,0,0,AI,low
+Data Engineer,MI,FT,65666,DE,8,0,0,0,finance,medium
+AI Scientist,MI,FT,200000,US,8,0,0,0,finance,low
+Machine Learning Engineer,MI,FT,116976,GB,4,0,0,0,healthcare,low
+Machine Learning Engineer,MI,FT,92350,GB,9,0,0,0,AI,high
+AI Scientist,MI,FT,120000,US,7,0,0,0,finance,low
+Data Analyst,SE,FT,112900,US,7,0,0,0,AI,medium
+Data Analyst,SE,FT,90320,US,8,0,0,0,AI,low
+Data Analytics Manager,SE,FT,145000,US,7,0,0,0,healthcare,medium
+Data Analytics Manager,SE,FT,105400,US,3,0,0,0,AI,low
+Data Scientist,EN,FT,49268,DE,8,1,0,0,webdev,high
+Data Engineer,MI,FT,110820,GB,8,0,0,0,webdev,high
+Data Engineer,MI,FT,92350,GB,6,0,0,0,cybersecurity,low
+Data Scientist,SE,FT,215300,US,7,1,0,0,healthcare,low
+Data Scientist,SE,FT,158200,US,9,1,0,0,cybersecurity,low
+Data Engineer,SE,FT,209100,US,8,0,0,0,webdev,medium
+Data Engineer,SE,FT,154600,US,9,0,0,0,cybersecurity,medium
+Data Analyst,SE,FT,115934,US,3,0,0,0,healthcare,low
+Data Analyst,SE,FT,81666,US,6,0,0,0,healthcare,medium
+Data Engineer,SE,FT,175000,US,4,0,0,0,AI,low
+Data Engineer,SE,FT,155000,US,9,0,0,0,finance,medium
+Machine Learning Engineer,MI,FT,84053,DE,8,0,0,0,AI,high
+Data Analyst,SE,FT,164000,US,3,0,0,0,healthcare,low
+Data Analyst,SE,FT,132000,US,5,0,0,0,webdev,low
+Data Scientist,SE,FT,170000,US,3,1,0,0,webdev,low
+Data Scientist,SE,FT,123000,US,3,1,0,0,AI,low
+Machine Learning Engineer,SE,FT,189650,US,6,0,0,0,healthcare,low
+Machine Learning Engineer,SE,FT,164996,US,4,0,0,0,webdev,low
+ETL Developer,MI,FT,52533,GR,5,0,1,0,healthcare,low
+ETL Developer,MI,FT,52533,GR,7,0,1,0,webdev,low
+Lead Data Engineer,EX,FT,115222,CA,7,0,0,0,healthcare,low
+Data Engineer,SE,FT,165400,US,9,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,132320,US,3,0,0,0,healthcare,low
+Data Architect,SE,FT,208775,US,6,0,0,0,healthcare,medium
+Data Architect,SE,FT,147800,US,6,0,0,0,AI,medium
+Data Engineer,SE,FT,136994,US,7,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,101570,US,9,0,0,0,finance,low
+Data Analyst,SE,FT,128875,US,9,0,0,0,AI,medium
+Data Analyst,SE,FT,93700,US,9,0,0,0,finance,high
+Head of Machine Learning,EX,FT,76309,IN,5,0,0,0,webdev,low
+Machine Learning Engineer,EN,FT,35093,GB,4,0,0,0,finance,low
+Data Engineer,SE,FT,183600,US,5,0,0,0,healthcare,low
+Data Engineer,SE,FT,100800,US,8,0,0,0,finance,low
+Data Analyst,MI,FT,49253,GB,8,0,0,0,AI,low
+Data Analyst,MI,FT,36940,GB,4,0,0,0,AI,low
+Data Analyst,MI,FT,42026,ES,7,0,0,0,finance,medium
+Data Analyst,MI,FT,31520,ES,4,0,0,0,AI,low
+Data Engineer,MI,FT,84053,ES,6,0,0,0,AI,low
+Data Engineer,MI,FT,73546,ES,8,0,0,0,finance,low
+Data Engineer,MI,FT,98506,GB,3,0,0,0,cybersecurity,low
+Data Engineer,MI,FT,86193,GB,3,0,0,0,cybersecurity,low
+Data Engineer,MI,FT,84053,GR,7,0,0,0,webdev,low
+Data Engineer,MI,FT,73546,GR,6,0,0,0,AI,medium
+Machine Learning Engineer,SE,FT,189650,US,5,0,0,0,finance,low
+Machine Learning Engineer,SE,FT,164996,US,6,0,0,0,AI,medium
+Data Analyst,MI,FT,42026,GR,3,0,0,0,healthcare,high
+Data Analyst,MI,FT,31520,GR,3,0,0,0,AI,low
+Data Engineer,MI,FT,92350,GB,8,0,0,0,AI,low
+Data Engineer,MI,FT,73880,GB,6,0,0,0,cybersecurity,low
+Data Scientist,SE,FT,215300,US,6,1,0,0,finance,medium
+Data Scientist,SE,FT,140400,US,3,1,0,0,AI,high
+Data Engineer,MI,FT,63040,ES,5,0,0,0,cybersecurity,medium
+Data Engineer,MI,FT,47280,ES,7,0,0,0,webdev,low
+Data Scientist,SE,FT,260000,US,9,1,0,0,cybersecurity,medium
+Data Scientist,SE,FT,180000,US,7,1,0,0,cybersecurity,low
+Data Scientist,MI,FT,67723,GB,6,1,0,0,cybersecurity,low
+Data Scientist,MI,FT,43096,GB,7,1,0,0,AI,low
+Data Engineer,MI,FT,63040,GR,3,0,0,0,AI,low
+Data Engineer,MI,FT,47280,GR,3,0,0,0,webdev,medium
+Data Engineer,MI,FT,73880,GB,6,0,0,0,healthcare,low
+Data Engineer,MI,FT,55410,GB,6,0,0,0,healthcare,low
+Machine Learning Engineer,MI,FT,51064,IT,9,0,0,0,healthcare,low
+Data Science Engineer,SE,FT,60000,MX,9,0,0,0,webdev,medium
+Data Engineer,MI,FT,82900,US,8,0,0,0,healthcare,medium
+Data Engineer,MI,FT,63900,US,6,0,0,0,healthcare,low
+Machine Learning Scientist,MI,FT,160000,US,5,0,0,0,cybersecurity,low
+Machine Learning Scientist,MI,FT,112300,US,7,0,0,0,AI,low
+Data Science Manager,MI,FT,241000,US,6,0,0,0,AI,high
+Data Science Manager,MI,FT,159000,US,4,0,0,0,cybersecurity,low
+Data Scientist,SE,FT,180000,US,8,1,0,0,cybersecurity,low
+Data Scientist,SE,FT,80000,US,4,1,0,0,cybersecurity,low
+Data Analyst,MI,FT,58000,US,3,0,0,0,AI,low
+Data Analyst,MI,FT,58000,US,9,0,0,0,healthcare,medium
+Data Engineer,SE,FT,136000,US,7,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,108800,US,6,0,0,0,webdev,low
+Data Engineer,EX,FT,242000,US,4,0,0,0,cybersecurity,low
+Data Engineer,EX,FT,200000,US,7,0,0,0,finance,low
+Data Scientist,MI,FT,61566,GB,3,1,0,0,cybersecurity,high
+Data Scientist,MI,FT,36940,GB,9,1,0,0,AI,low
+Data Engineer,MI,FT,73880,GB,5,0,0,0,cybersecurity,medium
+Data Engineer,MI,FT,49253,GB,8,0,0,0,finance,medium
+Data Scientist,SE,FT,165220,US,7,1,0,0,webdev,low
+Data Scientist,SE,FT,120160,US,7,1,0,0,healthcare,low
+Data Analyst,SE,FT,124190,US,5,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,90320,US,7,0,0,0,finance,medium
+Data Engineer,SE,FT,181940,US,3,0,0,0,finance,low
+Data Engineer,SE,FT,132320,US,3,0,0,0,webdev,low
+Data Engineer,SE,FT,220110,US,5,0,0,0,AI,low
+Data Engineer,SE,FT,160080,US,8,0,0,0,cybersecurity,medium
+Data Scientist,SE,FT,180000,US,6,1,0,0,finance,low
+Data Scientist,SE,FT,120000,US,4,1,0,0,webdev,low
+Data Analyst,MI,FT,126500,US,6,0,0,0,healthcare,low
+Data Analyst,MI,FT,106260,US,7,0,0,0,finance,low
+Data Analyst,SE,FT,116000,US,4,0,0,0,webdev,medium
+Data Analyst,SE,FT,99000,US,5,0,0,0,AI,low
+Data Analyst,SE,FT,155000,US,5,0,0,0,AI,medium
+Data Analyst,SE,FT,120600,US,8,0,0,0,finance,medium
+Data Scientist,MI,FT,130000,US,4,1,0,0,finance,low
+Data Scientist,MI,FT,90000,US,3,1,0,0,cybersecurity,medium
+Data Engineer,MI,FT,170000,US,4,0,0,0,webdev,low
+Data Engineer,MI,FT,150000,US,7,0,0,0,finance,low
+Data Analyst,SE,FT,102100,US,3,0,0,0,cybersecurity,medium
+Data Analyst,SE,FT,84900,US,9,0,0,0,cybersecurity,low
+Data Scientist,SE,FT,136620,US,9,1,0,0,finance,medium
+Data Scientist,SE,FT,99360,US,9,1,0,0,AI,low
+Data Scientist,SE,FT,110820,GB,5,1,0,0,webdev,high
+Data Scientist,SE,FT,98506,GB,4,1,0,0,webdev,low
+Data Scientist,SE,FT,146000,US,9,1,0,0,AI,low
+Data Scientist,SE,FT,123000,US,6,1,0,0,finance,low
+Data Engineer,EN,FT,49253,GB,8,0,0,0,webdev,medium
+Data Engineer,EN,FT,43096,GB,6,0,0,0,finance,medium
+Data Analyst,EX,FT,130000,US,9,0,0,0,finance,low
+Data Analyst,EX,FT,110000,US,8,0,0,0,cybersecurity,medium
+Data Analyst,SE,FT,170000,US,7,0,0,0,AI,low
+Data Analyst,SE,FT,135000,US,6,0,0,0,finance,low
+Data Science Manager,SE,FT,161342,US,4,0,0,0,healthcare,medium
+Data Science Manager,SE,FT,137141,US,4,0,0,0,AI,medium
+Data Scientist,SE,FT,167000,US,6,1,0,0,webdev,medium
+Data Scientist,SE,FT,123000,US,9,1,0,0,cybersecurity,medium
+Data Engineer,SE,FT,73880,GB,4,0,0,0,webdev,low
+Data Engineer,SE,FT,61566,GB,7,0,0,0,webdev,medium
+Data Scientist,SE,FT,211500,US,3,1,0,0,AI,low
+Data Scientist,SE,FT,138600,US,9,1,0,0,webdev,low
+Data Architect,SE,FT,192400,CA,7,0,0,0,finance,low
+Data Architect,SE,FT,90700,CA,8,0,0,0,webdev,low
+Data Analyst,SE,FT,130000,CA,7,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,61300,CA,9,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,130000,CA,8,0,0,0,healthcare,low
+Data Analyst,SE,FT,61300,CA,9,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,160000,US,4,0,0,0,webdev,low
+Data Engineer,SE,FT,113000,US,3,0,0,0,cybersecurity,low
+Data Scientist,SE,FT,150000,US,9,1,0,0,AI,low
+Data Scientist,SE,FT,95550,US,9,1,0,0,cybersecurity,medium
+Data Analyst,MI,FT,167000,US,4,0,0,0,finance,medium
+Data Analyst,MI,FT,115500,US,5,0,0,0,AI,medium
+Data Analyst,SE,FT,112900,US,4,0,0,0,healthcare,low
+Data Analyst,SE,FT,90320,US,8,0,0,0,finance,medium
+Data Analyst,SE,FT,112900,US,4,0,0,0,webdev,low
+Data Analyst,SE,FT,90320,US,4,0,0,0,webdev,low
+Data Engineer,SE,FT,165400,US,3,0,0,0,webdev,low
+Data Engineer,SE,FT,132320,US,4,0,0,0,finance,medium
+Data Engineer,SE,FT,243900,US,9,0,0,0,finance,low
+Data Engineer,SE,FT,156600,US,3,0,0,0,finance,low
+Data Analyst,SE,FT,136600,US,6,0,0,0,AI,low
+Data Analyst,SE,FT,109280,US,5,0,0,0,AI,medium
+Data Engineer,SE,FT,128875,US,3,0,0,0,webdev,medium
+Data Engineer,SE,FT,93700,US,8,0,0,0,cybersecurity,low
+Head of Data Science,EX,FT,224000,US,6,0,0,0,webdev,low
+Head of Data Science,EX,FT,167875,US,3,0,0,0,healthcare,low
+Analytics Engineer,EX,FT,175000,US,3,0,0,0,AI,medium
+Analytics Engineer,EX,FT,135000,US,5,0,0,0,finance,low
+Data Engineer,SE,FT,209100,US,9,0,0,0,AI,medium
+Data Engineer,SE,FT,154600,US,8,0,0,0,finance,low
+Data Engineer,SE,FT,180000,US,7,0,0,0,healthcare,medium
+Data Engineer,SE,FT,160000,US,7,0,0,0,healthcare,low
+Data Scientist,SE,FT,205300,US,3,1,0,0,AI,low
+Data Scientist,SE,FT,140400,US,4,1,0,0,finance,low
+Data Scientist,SE,FT,176000,US,8,1,0,0,healthcare,low
+Data Scientist,SE,FT,144000,US,6,1,0,0,webdev,low
+Data Engineer,SE,FT,200100,US,4,0,0,0,webdev,medium
+Data Engineer,SE,FT,160000,US,4,0,0,0,finance,low
+Data Engineer,SE,FT,70500,US,8,0,0,0,AI,medium
+Data Engineer,SE,FT,54000,US,9,0,0,0,healthcare,medium
+Data Scientist,SE,FT,205300,US,3,1,0,0,AI,low
+Data Scientist,SE,FT,140400,US,3,1,0,0,webdev,medium
+Analytics Engineer,SE,FT,205300,US,3,0,0,0,healthcare,medium
+Analytics Engineer,SE,FT,184700,US,3,0,0,0,AI,low
+Data Engineer,SE,FT,175100,US,7,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,140250,US,3,0,0,0,finance,low
+Data Analyst,SE,FT,116150,US,7,0,0,0,finance,low
+Data Analyst,SE,FT,99050,US,7,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,145000,US,9,0,0,0,webdev,low
+Data Engineer,SE,FT,130000,US,3,0,0,0,healthcare,low
+Data Analyst,SE,FT,112900,US,5,0,0,0,finance,low
+Data Analyst,SE,FT,90320,US,6,0,0,0,cybersecurity,medium
+Data Analyst,MI,FT,85000,CA,4,0,0,0,cybersecurity,high
+Data Analyst,MI,FT,75000,CA,7,0,0,0,webdev,low
+Machine Learning Engineer,SE,FT,214000,US,8,0,0,0,webdev,medium
+Machine Learning Engineer,SE,FT,192600,US,8,0,0,0,AI,high
+Data Architect,SE,FT,266400,US,6,0,0,0,finance,low
+Data Architect,SE,FT,213120,US,8,0,0,0,AI,low
+Data Engineer,SE,FT,155000,US,5,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,115000,US,8,0,0,0,healthcare,medium
+Data Scientist,MI,FT,141300,US,4,1,0,0,healthcare,medium
+Data Scientist,MI,FT,102100,US,4,1,0,0,webdev,low
+Data Analyst,SE,FT,115934,US,7,0,0,0,healthcare,low
+Data Analyst,SE,FT,81666,US,3,0,0,0,healthcare,low
+Data Engineer,MI,FT,206699,US,9,0,0,0,healthcare,low
+Data Engineer,MI,FT,99100,US,5,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,130000,US,7,0,0,0,healthcare,medium
+Data Engineer,SE,FT,110500,US,5,0,0,0,healthcare,low
+Data Analyst,MI,FT,61566,GB,3,0,0,0,healthcare,medium
+Data Analyst,MI,FT,43096,GB,8,0,0,0,AI,low
+Data Analyst,SE,FT,80000,US,8,0,0,0,cybersecurity,low
+Data Analyst,SE,FT,60000,US,9,0,0,0,webdev,low
+Data Architect,SE,FT,192564,US,3,0,0,0,AI,low
+Data Architect,SE,FT,144854,US,7,0,0,0,finance,low
+Data Scientist,SE,FT,230000,US,9,1,0,0,cybersecurity,high
+Data Scientist,SE,FT,150000,US,3,1,0,0,cybersecurity,medium
+Data Analytics Manager,SE,FT,150260,US,6,0,0,0,finance,low
+Data Analytics Manager,SE,FT,109280,US,4,0,0,0,finance,low
+Data Analyst,SE,FT,170000,US,9,0,0,0,finance,high
+Data Analyst,SE,FT,150000,US,9,0,0,0,webdev,low
+Data Scientist,MI,FT,160000,US,7,1,0,0,healthcare,low
+Data Scientist,MI,FT,130000,US,5,1,0,0,cybersecurity,low
+Data Analyst,EN,FT,67000,CA,6,0,0,0,healthcare,high
+Data Analyst,EN,FT,52000,CA,7,0,0,0,healthcare,low
+Data Engineer,SE,FT,154000,US,3,0,0,0,finance,low
+Data Engineer,SE,FT,126000,US,3,0,0,0,webdev,high
+Data Analyst,SE,FT,129000,US,3,0,0,0,AI,low
+Data Analyst,SE,FT,99000,US,3,0,0,0,webdev,low
+Data Scientist,SE,FT,210000,US,5,1,0,0,healthcare,low
+Data Scientist,SE,FT,140000,US,6,1,0,0,webdev,medium
+Data Scientist,SE,FT,210000,US,8,1,0,0,finance,low
+Data Scientist,SE,FT,140000,US,4,1,0,0,AI,high
+Data Scientist,SE,FT,210000,US,5,1,0,0,finance,medium
+Data Scientist,SE,FT,140000,US,5,1,0,0,AI,low
+Data Analyst,SE,FT,100000,US,8,0,0,0,healthcare,high
+Data Analyst,SE,FT,69000,US,8,0,0,0,AI,low
+Data Scientist,SE,FT,210000,US,4,1,0,0,AI,low
+Data Scientist,SE,FT,140000,US,4,1,0,0,AI,low
+Data Analyst,SE,FT,150075,US,8,0,0,0,webdev,low
+Data Analyst,SE,FT,110925,US,3,0,0,0,webdev,low
+Data Engineer,SE,FT,100000,US,5,0,0,0,healthcare,low
+Data Engineer,SE,FT,25000,US,7,0,0,0,AI,low
+Data Analyst,SE,FT,126500,US,4,0,0,0,cybersecurity,medium
+Data Analyst,SE,FT,106260,US,4,0,0,0,healthcare,low
+Data Engineer,SE,FT,220110,US,8,0,0,0,AI,high
+Data Engineer,SE,FT,160080,US,6,0,0,0,AI,low
+Data Analyst,SE,FT,105000,US,7,0,0,0,webdev,low
+Data Analyst,SE,FT,100000,US,7,0,0,0,healthcare,low
+Data Analyst,SE,FT,170000,US,4,0,0,0,AI,low
+Data Analyst,SE,FT,135000,US,3,0,0,0,AI,low
+Data Scientist,SE,FT,230000,US,6,1,0,0,healthcare,medium
+Data Scientist,SE,FT,140000,US,7,1,0,0,cybersecurity,high
+Data Analyst,MI,FT,135000,US,4,0,0,0,healthcare,high
+Data Analyst,MI,FT,50000,US,7,0,0,0,healthcare,low
+Data Scientist,SE,FT,220000,US,9,1,0,0,cybersecurity,medium
+Data Scientist,SE,FT,140000,US,6,1,0,0,healthcare,low
+Data Scientist,MI,FT,172386,GB,6,1,0,0,AI,low
+Data Scientist,MI,FT,86193,GB,9,1,0,0,healthcare,medium
+Machine Learning Engineer,SE,FT,220000,US,5,0,0,0,cybersecurity,medium
+Machine Learning Engineer,SE,FT,120000,US,9,0,0,0,finance,low
+Data Scientist,MI,FT,200000,US,8,1,0,0,healthcare,low
+Data Scientist,MI,FT,120000,US,8,1,0,0,webdev,low
+Machine Learning Engineer,SE,FT,120000,AE,4,0,0,0,AI,medium
+Machine Learning Engineer,SE,FT,65000,AE,6,0,0,0,AI,low
+Data Engineer,EX,FT,324000,US,5,0,0,0,webdev,high
+Data Engineer,EX,FT,216000,US,5,0,0,0,webdev,low
+Data Engineer,SE,FT,210000,US,7,0,0,0,healthcare,low
+Data Engineer,SE,FT,100000,US,7,0,0,0,webdev,low
+Data Scientist,SE,FT,185100,US,9,1,0,0,finance,low
+Data Scientist,SE,FT,104890,US,5,1,0,0,cybersecurity,low
+Data Engineer,SE,FT,105000,US,9,0,0,0,webdev,medium
+Data Engineer,SE,FT,80000,US,9,0,0,0,webdev,medium
+Machine Learning Developer,MI,FT,76814,CA,7,0,1,0,finance,high
+Machine Learning Manager,SE,FT,117104,CA,6,0,0,0,AI,medium
+Director of Data Science,EX,FT,192037,CA,9,0,0,0,AI,medium
+Machine Learning Engineer,MI,FT,120000,US,3,0,0,0,healthcare,low
+Business Data Analyst,MI,FT,17805,IN,6,0,0,0,finance,medium
+Data Scientist,MI,FT,30523,IN,5,1,0,0,cybersecurity,low
+Machine Learning Infrastructure Engineer,MI,FT,55685,PT,5,0,0,0,cybersecurity,low
+Data Engineer,MI,PT,52533,DE,9,0,0,0,finance,low
+Data Scientist,EN,FT,17805,IN,6,1,0,0,cybersecurity,low
+Applied Machine Learning Scientist,MI,FT,75000,US,7,0,0,0,AI,low
+Applied Data Scientist,MI,FT,157000,US,7,1,0,0,cybersecurity,high
+Business Data Analyst,MI,FT,69133,CA,8,0,0,0,cybersecurity,low
+Data Engineer,EN,FT,65000,US,5,0,0,0,finance,low
+Machine Learning Engineer,SE,FT,68293,IE,4,0,0,0,finance,low
+Data Scientist,MI,FT,109000,US,8,1,0,0,cybersecurity,low
+Data Scientist,MI,FT,67597,CA,7,1,0,0,webdev,low
+Computer Vision Engineer,EN,FT,10000,LU,6,0,0,0,finance,low
+Data Analyst,MI,FT,20000,GR,7,0,0,0,healthcare,low
+Head of Data,SE,FT,102839,SI,6,0,0,0,healthcare,low
+Head of Data,SE,FT,200000,US,8,0,0,0,AI,medium
+Data Scientist,EN,FT,51081,CA,5,1,0,0,cybersecurity,medium
+Data Scientist,MI,FT,78000,US,7,1,0,0,webdev,low
+Data Engineer,SE,FT,135000,US,9,0,0,0,AI,low
+Data Engineer,SE,FT,115000,US,6,0,0,0,cybersecurity,low
+Machine Learning Engineer,MI,FT,83864,AU,5,0,0,0,finance,medium
+Data Scientist,EN,FT,40000,MY,4,1,0,0,healthcare,low
+Head of Data,MI,FT,31520,EE,6,0,0,0,webdev,low
+Machine Learning Engineer,SE,FT,59888,NL,8,0,0,0,healthcare,medium
+Data Engineer,EN,FT,54742,DE,4,0,0,0,finance,low
+Research Scientist,SE,FT,89306,FR,4,0,0,0,cybersecurity,low
+Data Scientist,EN,FT,83171,AU,3,1,0,0,finance,low
+Data Scientist,SE,FT,165000,US,7,1,0,0,finance,high
+Machine Learning Scientist,MI,FT,153000,US,6,0,0,0,healthcare,medium
+Data Scientist,SE,FT,100000,US,4,1,0,0,webdev,medium
+Machine Learning Developer,SE,FT,76814,CA,3,0,1,0,finance,low
+Data Scientist,MI,FT,33609,PL,8,1,0,0,healthcare,low
+Principal Data Analyst,MI,FT,75000,CA,5,0,0,0,webdev,high
+Product Data Analyst,MI,FT,20000,HN,9,0,0,0,cybersecurity,high
+Applied Machine Learning Scientist,EN,CT,30469,CZ,9,0,0,0,cybersecurity,low
+Research Scientist,MI,FT,69999,CZ,6,0,0,0,AI,medium
+Data Engineer,EN,FT,55475,DE,4,0,0,0,healthcare,low
+Research Scientist,MI,FT,61989,AT,9,0,0,0,webdev,low
+Data Science Manager,SE,FT,152500,US,7,0,0,0,finance,medium
+Research Scientist,EN,FT,120000,US,9,0,0,0,cybersecurity,low
+Data Scientist,MI,FT,135000,US,9,1,0,0,webdev,high
+Data Analytics Lead,SE,FT,405000,US,9,0,0,0,healthcare,low
+Data Engineering Manager,SE,FT,150000,US,3,0,0,0,AI,low
+Data Science Manager,SE,FT,240000,US,4,0,0,0,cybersecurity,high
+Data Analyst,MI,FT,135000,US,7,0,0,0,webdev,high
+Data Scientist,EN,FT,80000,US,4,1,0,0,webdev,low
+Applied Data Scientist,SE,FT,380000,US,6,1,0,0,webdev,low
+Data Scientist,MI,FT,120402,CH,6,1,0,0,healthcare,medium
+Applied Data Scientist,SE,FT,177000,US,6,1,0,0,healthcare,low
+Data Engineer,MI,FT,65141,FR,8,0,0,0,healthcare,high
+Data Scientist,MI,FT,48000,US,9,1,0,0,finance,high
+Data Analytics Engineer,EN,FT,20000,PK,8,0,0,0,webdev,low
+Principal Data Scientist,SE,FT,220000,US,3,1,0,0,cybersecurity,low
+ML Engineer,MI,FT,77364,JP,6,0,0,0,healthcare,low
+ML Engineer,MI,FT,63711,JP,7,0,0,0,healthcare,high
+Computer Vision Software Engineer,EN,FT,150000,AU,4,0,0,0,webdev,low
+Data Analyst,MI,FT,90000,US,9,0,0,0,healthcare,low
+Data Scientist,MI,FL,100000,US,5,1,0,0,finance,low
+Data Scientist,EN,FT,100000,US,7,1,0,0,finance,low
+Data Scientist,EN,PT,100000,DZ,9,1,0,0,healthcare,low
+Research Scientist,SE,FT,144000,US,8,0,0,0,webdev,low
+Principal Data Scientist,SE,FT,155499,DE,8,1,0,0,webdev,high
+Computer Vision Engineer,SE,FT,24000,BR,7,0,0,0,webdev,high
+Applied Machine Learning Scientist,MI,FT,38400,US,8,0,0,0,AI,medium
+Financial Data Analyst,EN,FT,100000,US,6,0,0,0,healthcare,low
+Data Scientist,MI,FT,82500,US,3,1,0,0,webdev,low
+Data Scientist,EN,FT,49646,FR,4,1,0,0,finance,medium
+Lead Data Scientist,SE,FT,40570,IN,3,1,0,0,cybersecurity,low
+Data Engineer,EN,FT,120000,US,9,0,0,0,cybersecurity,high
+Lead Machine Learning Engineer,SE,FT,84053,DE,4,0,0,0,webdev,medium
+Machine Learning Engineer,EN,FT,20000,IN,4,0,0,0,cybersecurity,low
+Computer Vision Engineer,EN,FT,125000,US,3,0,0,0,cybersecurity,high
+Data Scientist,MI,FT,9466,IN,7,1,0,0,AI,high
+Machine Learning Scientist,SE,FT,120000,US,4,0,0,0,finance,low
+Data Analyst,EN,PT,10354,ES,3,0,0,0,finance,low
+Applied Data Scientist,EN,FT,110037,GB,4,1,0,0,AI,low
+ML Engineer,EN,FT,21013,PT,5,0,0,0,AI,low
+Data Analyst,EN,FT,50000,US,7,0,0,0,cybersecurity,low
+Principal Data Engineer,SE,FT,200000,US,6,0,0,0,healthcare,low
+Big Data Engineer,MI,FT,60000,RO,4,0,0,0,cybersecurity,high
+Data Engineer,MI,FT,200000,US,5,0,0,0,AI,low
+Machine Learning Developer,EN,FT,100000,IQ,6,0,1,0,finance,low
+Data Engineer,MI,FT,100000,US,6,0,0,0,cybersecurity,medium
+Machine Learning Engineer,SE,FT,82744,BE,9,0,0,0,healthcare,low
+Data Engineering Manager,MI,FT,59303,DE,4,0,0,0,cybersecurity,medium
+Research Scientist,MI,FT,62649,FR,3,0,0,0,webdev,low
+Data Engineer,MI,FT,82528,GB,4,0,0,0,cybersecurity,low
+Data Architect,MI,FT,170000,US,5,0,0,0,AI,low
+Data Architect,MI,FT,150000,US,6,0,0,0,finance,medium
+BI Data Analyst,EN,FT,55000,US,4,0,0,0,finance,low
+Director of Data Science,EX,FT,250000,US,3,0,0,0,AI,medium
+Data Engineer,EN,FT,80000,US,9,0,0,0,webdev,low
+Big Data Engineer,EN,FT,70000,US,4,0,0,0,AI,low
+Director of Data Science,EX,FT,130026,DE,7,0,0,0,cybersecurity,low
+Data Science Consultant,EN,FT,63831,DE,9,0,0,0,AI,high
+Data Scientist,SE,FT,68428,US,3,1,0,0,AI,high
+Head of Data Science,EX,FT,85000,RU,5,0,0,0,webdev,low
+Head of Data,EX,FT,230000,RU,6,0,0,0,cybersecurity,low
+Machine Learning Engineer,EN,FT,125000,US,4,0,0,0,healthcare,low
+Data Analytics Manager,SE,FT,120000,US,3,0,0,0,healthcare,low
+Research Scientist,MI,FT,450000,US,9,0,0,0,finance,low
+Data Analyst,MI,FT,46759,FR,7,0,0,0,AI,high
+Data Engineer,MI,FT,74130,AT,3,0,0,0,finance,high
+Data Science Engineer,SE,FT,127221,CA,8,0,0,0,webdev,low
+Data Science Manager,SE,FT,144000,US,7,0,0,0,healthcare,low
+Data Scientist,EN,FT,13400,UA,9,1,0,0,AI,medium
+Data Scientist,MI,FT,75774,CA,5,1,0,0,webdev,medium
+Data Scientist,MI,FT,150000,US,6,1,0,0,webdev,low
+Data Science Consultant,MI,FT,103000,US,9,0,0,0,AI,low
+Data Engineering Manager,SE,FT,153000,US,5,0,0,0,webdev,low
+Data Engineer,MI,FT,90000,US,4,0,0,0,AI,low
+Data Analyst,EN,FT,90000,US,3,0,0,0,AI,low
+Data Analyst,EN,FT,60000,US,8,0,0,0,cybersecurity,low
+Data Scientist,MI,FT,50000,NG,7,1,0,0,finance,medium
+AI Scientist,EN,PT,12000,US,7,0,0,0,webdev,low
+3D Computer Vision Researcher,MI,PT,5409,IN,3,0,0,0,webdev,low
+ML Engineer,MI,CT,270000,US,8,0,0,0,cybersecurity,low
+Applied Data Scientist,MI,FT,54238,CA,3,1,0,0,cybersecurity,medium
+Machine Learning Engineer,MI,FT,47282,ES,4,0,0,0,cybersecurity,medium
+Director of Data Science,EX,FT,153667,PL,5,0,0,0,healthcare,low
+Data Engineer,MI,FT,28476,PL,9,0,0,0,healthcare,low
+Data Analytics Engineer,MI,FT,110000,US,7,0,0,0,healthcare,high
+Research Scientist,EN,FT,82528,GB,4,0,0,0,AI,low
+Machine Learning Engineer,EN,FT,250000,US,5,0,0,0,webdev,low
+Data Analyst,EN,FT,59102,FR,4,0,0,0,finance,low
+Data Analyst,SE,FT,80000,US,8,0,0,0,AI,low
+Data Analyst,EN,FT,10000,NG,7,0,0,0,webdev,low
+Machine Learning Engineer,EN,FT,138000,US,9,0,0,0,webdev,high
+Data Engineer,MI,FT,140000,US,3,0,0,0,cybersecurity,medium
+Data Analytics Engineer,SE,FT,79197,DE,3,0,0,0,cybersecurity,low
+Lead Data Analyst,SE,FT,170000,US,5,0,0,0,AI,high
+Data Analyst,EN,FT,80000,US,9,0,0,0,cybersecurity,low
+Data Scientist,MI,FT,45760,US,6,1,0,0,webdev,low
+BI Data Analyst,MI,FT,100000,US,8,0,0,0,cybersecurity,low
+Data Scientist,SE,FT,53192,FR,5,1,0,0,healthcare,medium
+Head of Data,EX,FT,235000,US,6,0,0,0,cybersecurity,low
+BI Data Analyst,EX,FT,150000,US,4,0,0,0,webdev,low
+Data Engineering Manager,EX,FT,79833,ES,8,0,0,0,AI,medium
+Machine Learning Scientist,EN,FT,225000,US,4,0,0,0,finance,medium
+Data Science Consultant,EN,FT,76833,DE,9,0,0,0,cybersecurity,medium
+Machine Learning Infrastructure Engineer,MI,FT,50180,PT,7,0,0,0,webdev,low
+Marketing Data Analyst,SE,FT,88654,DK,8,0,0,0,finance,low
+Lead Data Engineer,SE,FT,103160,GB,6,0,0,0,finance,low
+Director of Data Engineering,SE,FT,113476,GB,7,0,0,0,healthcare,low
+Machine Learning Engineer,SE,FT,94564,DE,3,0,0,0,finance,high
+Data Engineer,EN,FT,30428,IN,6,0,0,0,webdev,low
+Data Engineer,SE,FT,150000,US,5,0,0,0,webdev,low
+Data Engineer,SE,FT,115000,US,3,0,0,0,cybersecurity,medium
+Research Scientist,MI,FT,187442,CA,3,0,0,0,cybersecurity,low
+Data Analyst,MI,FT,51519,GB,5,0,0,0,cybersecurity,low
+Data Engineer,MI,FT,106000,US,8,0,0,0,finance,medium
+Data Engineer,MI,FT,112872,GB,3,0,0,0,finance,medium
+BI Data Analyst,MI,FT,36259,US,9,0,0,0,healthcare,medium
+Data Engineer,SE,FT,150000,US,6,0,0,0,cybersecurity,low
+ML Engineer,EN,PT,15966,DE,7,0,0,0,AI,low
+Computer Vision Software Engineer,MI,FT,95746,US,3,0,0,0,healthcare,medium
+Computer Vision Software Engineer,EN,FT,70000,US,6,0,0,0,AI,low
+Data Scientist,MI,FT,76958,GB,4,1,0,0,finance,low
+Cloud Data Engineer,MI,FT,89294,SG,6,0,0,0,healthcare,medium
+Data Scientist,EN,FT,29751,IN,7,1,0,0,healthcare,low
+Lead Data Engineer,SE,FT,276000,US,6,0,0,0,webdev,medium
+Data Engineer,SE,FT,188000,US,5,0,0,0,finance,low
+Cloud Data Engineer,SE,FT,160000,US,7,0,0,0,finance,low
+Data Scientist,MI,FT,105000,US,8,1,0,0,healthcare,low
+Data Engineer,MI,FT,200000,US,4,0,0,0,finance,medium
+Data Engineering Manager,SE,FT,174000,US,5,0,0,0,healthcare,low
+Data Analyst,MI,FT,93000,US,8,0,0,0,webdev,low
+Data Scientist,EN,FT,28399,IN,6,1,0,0,healthcare,medium
+Research Scientist,SE,FT,60757,PT,7,0,0,0,finance,medium
+Data Scientist,EN,FT,90000,US,4,1,0,0,finance,high
+Data Engineer,MI,FT,70139,FR,5,0,0,0,healthcare,low
+Data Analyst,EN,FT,6072,IN,8,0,0,0,healthcare,low
+Data Engineer,SE,FT,33511,MX,8,0,0,0,healthcare,high
+Principal Data Analyst,SE,FT,170000,US,4,0,0,0,cybersecurity,medium
+Data Engineer,SE,FT,96282,GB,9,0,0,0,finance,low
+Data Engineer,MI,FT,12103,TR,6,0,0,0,finance,low
+Data Scientist,EN,FT,36643,FR,4,1,0,0,cybersecurity,medium
+Data Engineer,MI,FT,72212,GB,8,0,0,0,healthcare,low
+Data Analyst,EN,FT,91000,US,3,0,0,0,webdev,medium
+Big Data Architect,SE,FT,99703,CA,5,0,0,0,healthcare,low
+Data Scientist,SE,FT,165000,US,4,1,0,0,healthcare,low
+Data Analyst,MI,FT,80000,US,9,0,0,0,cybersecurity,medium
+Data Scientist,SE,FT,103691,CA,8,1,0,0,finance,low
+Data Engineer,EN,FT,21637,IN,6,0,0,0,healthcare,low
+Research Scientist,EN,FT,42000,NL,8,0,0,0,finance,low
+Lead Data Scientist,MI,FT,115000,AE,6,1,0,0,AI,low
+Research Scientist,MI,FT,63810,CA,4,0,0,0,finance,medium
+Machine Learning Scientist,SE,FT,260000,JP,6,0,0,0,webdev,medium
+Head of Data Science,MI,FT,110000,US,7,0,0,0,webdev,medium
+Data Architect,MI,FT,180000,US,7,0,0,0,healthcare,low
+Data Analyst,SE,FT,200000,US,7,0,0,0,finance,low
+Big Data Engineer,SE,FT,109024,GB,9,0,0,0,healthcare,low
+Director of Data Engineering,SE,FT,200000,US,9,0,0,0,cybersecurity,high
+ML Engineer,SE,FT,256000,US,3,0,0,0,webdev,medium
+Data Engineer,MI,FT,110000,US,9,0,0,0,healthcare,medium
+Data Scientist,MI,FT,79833,DE,4,1,0,0,cybersecurity,low
+Data Engineer,EN,FT,72500,US,8,0,0,0,healthcare,low
+Machine Learning Engineer,SE,FT,185000,US,8,0,0,0,finance,low
+Data Engineer,MI,PT,69741,NL,3,0,0,0,finance,low
+Research Scientist,EN,FT,100000,CN,9,0,0,0,finance,low
+Data Engineer,MI,FT,112000,US,6,0,0,0,finance,high
+Machine Learning Engineer,SE,FT,150000,US,3,0,0,0,AI,low
+Data Scientist,SE,FT,20171,TR,6,1,0,0,cybersecurity,low
+AI Scientist,SE,FT,55000,ES,6,0,0,0,cybersecurity,low
+Data Scientist,EN,FT,58000,US,5,1,0,0,finance,high
+Data Scientist,EN,FT,100000,US,8,1,0,0,AI,low
+Data Scientist,SE,FT,77684,FR,7,1,0,0,finance,medium
+Machine Learning Engineer,EN,FT,85000,DE,9,0,0,0,AI,high
+Data Science Consultant,EN,FT,76833,DE,6,0,0,0,finance,low
+Staff Data Scientist,SE,CT,105000,US,5,1,0,0,webdev,medium
+Data Analyst,EN,FT,72000,US,8,0,0,0,webdev,low
+Data Engineer,EN,FT,65013,DE,7,0,0,0,healthcare,low
+Data Engineer,MI,FT,28016,TR,6,0,0,0,finance,medium
+Data Engineer,MI,FT,111775,US,6,0,0,0,cybersecurity,medium
+Data Engineer,MI,FT,93150,US,3,0,0,0,healthcare,low
+Lead Data Engineer,SE,FT,160000,US,3,0,0,0,webdev,low
+Data Scientist,MI,FT,25532,DE,8,1,0,0,finance,low
+Machine Learning Engineer,SE,FT,66265,IN,7,0,0,0,healthcare,low
+Data Scientist,MI,FT,16904,IN,6,1,0,0,finance,low
+Data Analyst,SE,FT,63831,DE,8,0,0,0,webdev,low
+Lead Data Scientist,SE,FT,190000,US,8,1,0,0,healthcare,low
+Director of Data Science,EX,FT,141846,DE,4,0,0,0,webdev,medium
+Big Data Engineer,EN,FT,16228,IN,9,0,0,0,AI,low
+Data Analyst,SE,FT,71786,CA,3,0,0,0,webdev,low
+Data Scientist,MI,FT,35735,HU,7,1,0,0,finance,low
+Data Scientist,SE,FT,135000,US,6,1,0,0,cybersecurity,medium
+Machine Learning Engineer,EN,FT,24823,DE,8,0,0,0,webdev,low
+Data Science Manager,SE,FT,54094,US,6,0,0,0,cybersecurity,low
+Machine Learning Engineer,SE,FT,24342,IN,4,0,0,0,AI,low
+BI Data Analyst,EN,FT,9272,KE,7,0,0,0,healthcare,medium
+Data Scientist,MI,FT,147000,US,8,1,0,0,healthcare,low
+Research Scientist,SE,FT,96113,CA,6,0,0,0,cybersecurity,medium
+Data Science Manager,SE,FT,174000,US,3,0,0,0,healthcare,high
+Business Data Analyst,MI,FT,135000,US,9,0,0,0,webdev,medium
+Machine Learning Engineer,EN,FT,21844,CO,4,0,0,0,cybersecurity,medium
+Lead Data Engineer,SE,FT,125000,NZ,7,0,0,0,finance,low
+Data Scientist,EN,FT,51321,FR,4,1,0,0,webdev,low
+Data Scientist,MI,FT,40481,IN,3,1,0,0,webdev,high
+Data Science Consultant,EX,FT,69741,ES,7,0,0,0,webdev,low
+Data Analytics Engineer,SE,FT,50000,GB,4,0,0,0,finance,low
+Data Scientist,EN,FT,39916,FR,5,1,0,0,AI,medium
+Lead Data Analyst,MI,FT,87000,US,3,0,0,0,healthcare,low
+Data Engineer,MI,FT,26005,US,3,0,0,0,cybersecurity,low
+Data Scientist,MI,FT,90734,DE,3,1,0,0,AI,low
+Big Data Engineer,MI,FT,22611,IN,5,0,0,0,cybersecurity,low
+Data Scientist,MI,FT,5679,US,5,1,0,0,healthcare,medium
+Machine Learning Engineer,EN,FT,81000,US,6,0,0,0,finance,low
+Data Scientist,MI,FT,40038,CL,8,1,0,0,webdev,low
+Data Science Consultant,EN,FT,90000,US,9,0,0,0,webdev,low
+Data Scientist,MI,FT,61467,AT,4,1,0,0,finance,medium
+Machine Learning Infrastructure Engineer,SE,FT,195000,US,6,0,0,0,AI,medium
+Data Scientist,MI,FT,37825,ES,4,1,0,0,AI,low
+Data Analyst,MI,FT,85000,US,9,0,0,0,cybersecurity,medium
+Principal Data Scientist,EX,CT,416000,US,8,1,0,0,finance,low
+Machine Learning Scientist,SE,FT,225000,CA,5,0,0,0,AI,high
+Data Scientist,MI,FT,56256,GB,8,1,0,0,finance,low
+Data Scientist,MI,FT,33808,IN,5,1,0,0,healthcare,medium
+Data Scientist,MI,FT,116914,GB,9,1,0,0,webdev,low
+Machine Learning Engineer,MI,FT,46597,PL,8,0,0,0,webdev,low
+Data Analyst,MI,FT,8000,PK,6,0,0,0,webdev,low
+Data Engineer,EN,FT,41689,JP,7,0,0,0,finance,medium
+Big Data Engineer,SE,FT,114047,GB,6,0,0,0,finance,low
+Machine Learning Engineer,MI,FT,88654,BE,4,0,0,0,cybersecurity,high
+Data Science Consultant,EN,FT,5707,IN,6,0,0,0,webdev,low
+Lead Data Engineer,MI,FT,56000,US,9,0,0,0,cybersecurity,low
+Computer Vision Engineer,EN,PT,28609,DK,3,0,0,0,webdev,low
+Data Scientist,MI,FT,88654,DE,4,1,0,0,cybersecurity,medium
+Product Data Analyst,MI,FT,6072,IN,8,0,0,0,cybersecurity,low
+Data Engineer,SE,FT,47899,GR,4,0,0,0,healthcare,medium
+BI Data Analyst,MI,FT,98000,US,7,0,0,0,cybersecurity,high
+Data Engineer,MI,FT,66022,GB,5,0,0,0,finance,high
+Research Scientist,MI,FT,56738,FR,8,0,0,0,cybersecurity,low
+Machine Learning Engineer,MI,FT,24823,SI,4,0,0,0,webdev,medium
+Data Analytics Manager,SE,FT,120000,US,8,0,0,0,cybersecurity,medium
+Data Engineer,MI,FL,20000,US,8,0,0,0,AI,low
+Director of Data Science,EX,FT,325000,US,8,0,0,0,webdev,medium
+Machine Learning Engineer,SE,FT,200000,US,5,0,0,0,AI,low
+AI Scientist,EN,FT,45896,DK,9,0,0,0,webdev,low
+Data Scientist,MI,FT,160000,US,6,1,0,0,finance,low
+Research Scientist,SE,FT,50000,US,8,0,0,0,finance,low
+Data Science Engineer,MI,FT,40189,GR,3,0,0,0,finance,low
+Data Scientist,MI,FT,12901,BR,9,1,0,0,AI,low
+Data Engineer,SE,FT,165000,US,7,0,0,0,healthcare,medium
+Big Data Engineer,EN,FT,5882,CH,5,0,0,0,webdev,low
+Data Scientist,MI,FT,42197,FR,4,1,0,0,finance,low
+Principal Data Engineer,SE,FT,185000,US,5,0,0,0,webdev,low
+Data Scientist,EN,FT,62726,DE,4,1,0,0,AI,low
+Data Scientist,MI,FT,90734,DE,5,1,0,0,healthcare,medium
+Data Scientist,EN,PT,21669,IT,4,1,0,0,AI,low
+Data Engineer,MI,FT,110000,US,8,0,0,0,webdev,medium
+Data Analytics Manager,SE,FT,140000,US,6,0,0,0,healthcare,low
+Data Scientist,SE,FT,120000,US,4,1,0,0,healthcare,medium
+Data Scientist,SE,FT,87738,CA,4,1,0,0,AI,low
+Finance Data Analyst,SE,FT,61896,GB,3,0,0,0,finance,low
+Machine Learning Scientist,MI,FL,12000,PK,4,0,0,0,webdev,medium
+Data Engineer,SE,FT,76833,GB,3,0,0,0,cybersecurity,low
+Machine Learning Engineer,MI,FT,74000,JP,7,0,0,0,cybersecurity,medium
+Data Science Manager,SE,FT,152000,FR,8,0,0,0,AI,medium
+Big Data Engineer,MI,FT,18000,MD,3,0,0,0,webdev,low
+Computer Vision Engineer,SE,FL,60000,US,6,0,0,0,webdev,low
+Data Scientist,MI,FT,130000,US,9,1,0,0,AI,low
+Computer Vision Engineer,SE,FT,18907,BR,8,0,0,0,webdev,high
+Business Data Analyst,EN,FT,59102,LU,3,0,0,0,finance,medium
+Principal Data Scientist,SE,FT,173762,DE,8,1,0,0,AI,low
+Principal Data Scientist,SE,FT,148261,DE,8,1,0,0,finance,low
+Data Scientist,MI,FT,38776,ES,8,1,0,0,webdev,low
+Data Scientist,MI,FT,46809,ES,7,1,0,0,AI,medium
+AI Scientist,EN,FT,18053,AS,6,0,0,0,webdev,low
+Data Scientist,SE,FT,91237,AT,5,1,0,0,AI,low
+Data Scientist,MI,FT,62726,LU,5,1,0,0,webdev,medium
+Data Scientist,MI,FT,115000,US,3,1,0,0,finance,low
+Principal Data Scientist,SE,FT,235000,US,8,1,0,0,finance,low
+Lead Data Analyst,MI,FT,19609,IN,3,0,0,0,webdev,high
+AI Scientist,EN,PT,12000,US,7,0,0,0,AI,medium
+Data Analyst,MI,FT,75000,US,7,0,0,0,cybersecurity,low
+Data Analyst,MI,FT,62000,US,4,0,0,0,finance,low
+Data Scientist,MI,FT,73000,US,7,1,0,0,finance,low
+Data Engineer,MI,FT,45391,NL,4,0,0,0,cybersecurity,low
+Data Science Manager,SE,FT,190200,US,6,0,0,0,webdev,medium
+Data Scientist,MI,FT,118000,US,3,1,0,0,AI,low
+Data Scientist,MI,FT,138350,US,9,1,0,0,webdev,medium
+Data Engineer,MI,FT,130800,US,6,0,0,0,healthcare,high
+Machine Learning Engineer,SE,FT,45618,HR,7,0,0,0,finance,low
+Director of Data Science,SE,FT,168000,JP,6,0,0,0,healthcare,low
+Data Scientist,MI,FT,119059,IL,6,1,0,0,finance,low
+Applied Machine Learning Scientist,MI,FT,423000,US,6,0,0,0,finance,high
+Data Engineer,MI,FT,28369,MT,7,0,0,0,healthcare,medium
+Data Specialist,SE,FT,165000,US,9,0,0,0,healthcare,low
+Data Scientist,SE,FT,412000,US,8,1,0,0,webdev,medium
+Principal Data Scientist,MI,FT,151000,US,6,1,0,0,healthcare,low
+Data Scientist,EN,FT,105000,US,4,1,0,0,webdev,high
+Business Data Analyst,EN,CT,100000,US,7,0,0,0,webdev,low
+Data Science Manager,SE,FT,94665,IN,6,0,0,0,webdev,low
